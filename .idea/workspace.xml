@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2c3a69f-c312-4e1f-b51d-4c69cd0c7082" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/workspace_python$Kernel_PCA.coverage" NAME="Kernel_PCA Coverage Results" MODIFIED="1499924797786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter5" />
+    <SUITE FILE_PATH="coverage/workspace_python$pad2.coverage" NAME="pad2 Coverage Results" MODIFIED="1499930869220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter6" />
+    <SUITE FILE_PATH="coverage/workspace_python$pad__1_.coverage" NAME="pad (1) Coverage Results" MODIFIED="1499741718906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter3" />
+    <SUITE FILE_PATH="coverage/workspace_python$pad__2_.coverage" NAME="pad (2) Coverage Results" MODIFIED="1499745464554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter4" />
+    <SUITE FILE_PATH="coverage/workspace_python$PCA.coverage" NAME="PCA Coverage Results" MODIFIED="1499909649064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter5" />
+    <SUITE FILE_PATH="coverage/workspace_python$PipelineEx.coverage" NAME="PipelineEx Coverage Results" MODIFIED="1499929393704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter6" />
+    <SUITE FILE_PATH="coverage/workspace_python$pad.coverage" NAME="pad Coverage Results" MODIFIED="1499846713015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter3" />
+    <SUITE FILE_PATH="coverage/workspace_python$test.coverage" NAME="test Coverage Results" MODIFIED="1499055764889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/workspace_python$LDA.coverage" NAME="LDA Coverage Results" MODIFIED="1499915246944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/Raschka/chapter5" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="workspace_python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="reader.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/first_step_for_tf/simple-examples/reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="568">
+              <caret line="96" column="29" selection-start-line="93" selection-start-column="26" selection-end-line="96" selection-end-column="29" />
+              <folding>
+                <element signature="e#735#773#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iter</find>
+      <find>w</find>
+      <find>pipe_svc</find>
+      <find>Z3</find>
+      <find>integrate_NHA</find>
+      <find>nhanes2</find>
+      <find>tmp_Z</find>
+      <find>del</find>
+      <find>seqn</find>
+      <find>data_total</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>w_</replace>
+      <replace>n_iter</replace>
+      <replace>nhanes_integrated</replace>
+      <replace>tmp_dict</replace>
+      <replace>dict2</replace>
+      <replace>data_tmp</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Wisdom\workspace_python\.idea</dir>
+      <dir>D:\workspace_python</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/test/temp.py" />
+        <option value="$PROJECT_DIR$/workclass.js" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter2/Perceptron.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter2/visualization.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter2/learn_visualization.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter2/learn.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter2/pad.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter3/learn_visualization.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter4/pad.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter4/SequentialBackwardSelection.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter4/pad2.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter3/pad.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter5/pad.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter5/PCA.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter5/LDA.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter5/Kernel_PCA.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter6/PipelineEx.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter6/pad.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/Raschka/chapter6/pad2.py" />
+        <option value="$USER_HOME$/iCloudDrive/Desktop/BISL/presentation/20180814_Journal/dcpipe-master/Codes/makeSingleFeature.py" />
+        <option value="$PROJECT_DIR$/NHANES/nhanes_read_data_numpy.py" />
+        <option value="$PROJECT_DIR$/NHANES/subject_integration.py" />
+        <option value="$PROJECT_DIR$/NHANES/NHANES_statistics.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/first_step_for_tf/simple-examples/reader.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="workspace_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="workspace_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workspace_coda/get_val_dataset_dis-drug-target" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="workspace_python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="workspace_python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace_python\MachineLearning\Raschka\chapter2" />
+      <recent name="C:\Wisdom\workspace_python\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_python\MachineLearning\Raschka\chapter2" />
+      <recent name="C:\Wisdom\workspace_python" />
+      <recent name="C:\Wisdom\workspace_python\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.NHANES_statistics">
+    <configuration name="NHANES_statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NHANES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NHANES/NHANES_statistics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="nhanes_read_data_numpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NHANES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NHANES/nhanes_read_data_numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pad2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/Raschka/chapter6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/Raschka/chapter6/pad2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="subject_integration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NHANES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NHANES/subject_integration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="workspace_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="workspace_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="workspace_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="workspace_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pad2" />
+      <item itemvalue="Python.subject_integration" />
+      <item itemvalue="Python.nhanes_read_data_numpy" />
+      <item itemvalue="Python.NHANES_statistics" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NHANES_statistics" />
+        <item itemvalue="Python.subject_integration" />
+        <item itemvalue="Python.nhanes_read_data_numpy" />
+        <item itemvalue="Python.pad2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2c3a69f-c312-4e1f-b51d-4c69cd0c7082" name="Default" comment="" />
+      <created>1499055412694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499055412694</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49448818" visible="true" weight="0.06302083" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3251073" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40341514" />
+      <window_info id="Favorites" order="2" sideWeight="0.5055118" side_tool="true" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="4" weight="0.3296875" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49448818" visible="true" weight="0.12708333" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32199788" />
+      <window_info anchor="right" id="Data View" order="4" weight="0.3296875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40341514" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5055118" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/test.py" />
+    <entry file="file://$PROJECT_DIR$/test/test.py" />
+    <entry file="file://$PROJECT_DIR$/test/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test/temp.py" />
+    <entry file="file://$PROJECT_DIR$/test/test.py" />
+    <entry file="file://$PROJECT_DIR$/workclass.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sklearn/utils/mocking.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sklearn/cross_validation.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1017" selection-start-line="1017" selection-end-line="1017" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/colors.py" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter3/tree.dot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter4/SequentialBackwardSelection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter3/learn_visualization.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter3/pad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="158" column="28" selection-start-line="158" selection-start-column="28" selection-end-line="158" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter4/pad2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="23" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter4/pad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="877" selection-start-line="877" selection-end-line="877" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter5/PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter5/pad.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter5/LDA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter5/Kernel_PCA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter6/pad2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="872">
+          <caret line="62" column="39" lean-forward="true" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/src/compound_target_coconut_pathscaffold.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/src/herb_target_coconut.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/src/make_SPF_input_file_AR.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/src/search-term.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/src/SPF_input_maker.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/src/Authentication.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/src/SPF/SPF_V2.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/Analysis_report/Galgeun_jihwang_analysis/Galgeun_jihwang_analysis.py" />
+    <entry file="file://$USER_HOME$/Desktop/CODA2.1-20170806/postgres/CreateTables/BiologicalProcess.py" />
+    <entry file="file://$USER_HOME$/iCloudDrive/Wisdom/workspace_python/test_1.py" />
+    <entry file="file://$USER_HOME$/Desktop/BIOGRID-ORGANISM-Homo_sapiens-3.4.152.mitab.txt" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter2/learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/iCloudDrive/Desktop/BISL/presentation/20180814_Journal/dcpipe-master/Codes/Constant.py" />
+    <entry file="file://$USER_HOME$/iCloudDrive/Desktop/BISL/presentation/20180814_Journal/dcpipe-master/Codes/Functions.py" />
+    <entry file="file://$USER_HOME$/iCloudDrive/Desktop/BISL/presentation/20180814_Journal/dcpipe-master/Codes/JSON_Parameters.py" />
+    <entry file="file://$USER_HOME$/iCloudDrive/Desktop/BISL/presentation/20180814_Journal/dcpipe-master/Codes/main.py" />
+    <entry file="file://$USER_HOME$/iCloudDrive/Desktop/BISL/presentation/20180814_Journal/dcpipe-master/Codes/makeExpectedSS.py" />
+    <entry file="file://$USER_HOME$/Desktop/CCLE_DepMap_18q3_maf_20180718.txt" />
+    <entry file="file://$USER_HOME$/iCloudDrive/Desktop/BISL/presentation/20180814_Journal/dcpipe-master/Codes/makeSingleFeature.py" />
+    <entry file="file://$PROJECT_DIR$/NHANES/nhanes_read_data_numpy.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="453" column="4" selection-start-line="453" selection-start-column="4" selection-end-line="453" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xlsxwriter/worksheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="561" selection-start-line="561" selection-end-line="561" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NHANES/NHANES_statistics.py" />
+    <entry file="file://$PROJECT_DIR$/NHANES/subject_integration.py" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter6/pad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="113" column="29" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter2/learn_visualization.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/Raschka/chapter2/pad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/first_step_for_tf/simple-examples/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="96" column="29" selection-start-line="93" selection-start-column="26" selection-end-line="96" selection-end-column="29" />
+          <folding>
+            <element signature="e#735#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
