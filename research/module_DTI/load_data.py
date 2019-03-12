@@ -1,14 +1,14 @@
 import pandas as pd
 
 def load_general_matrix(dir,type):
-    mat = pd.read_table(dir, delim_whitespace=True)
+    mat = pd.read_csv(dir, delim_whitespace=True)
     print('# of '+type+'s: ' + str(mat.shape[0]))
     print('# of features of a '+type+': ' + str(mat.shape[1]) + '\n')
     mat.index = mat.index.map(str)
     return mat
 
 def load_drug_target_interaction_adjacency_matrix(dir):
-    mat=pd.read_table(dir, delim_whitespace=True)
+    mat=pd.read_csv(dir, delim_whitespace=True)
     print('# of drug: '+str(mat.shape[0]))
     print('# of target: '+str(mat.shape[1])+'\n')
     mat.index=mat.index.map(str)
@@ -16,7 +16,7 @@ def load_drug_target_interaction_adjacency_matrix(dir):
 
 
 def load_drug_target_interaction_dict(dir):
-    mat = pd.read_table(dir, delim_whitespace=True, header=None,names=['target','drug'])
+    mat = pd.read_csv(dir, delim_whitespace=True, header=None,names=['target','drug'])
     dict_DTI=dict()
     i=0
     for value in mat.values:
@@ -53,16 +53,3 @@ def load_neg_samples(dir):
 
 def load_etc(dir):
     pass
-
-
-
-# if __name__=='__main__':
-#     dir_dataset='D:\\Wisdom\\research\\data\\2012, Tabei'
-#
-#     dir_DTI_adjmat=dir_dataset+'\\inter_admat.txt'
-#     dir_drug=dir_dataset+'\\drug_repmat.txt'
-#     dir_target = dir_dataset + '\\target_repmat.txt'
-#
-#     matrix_DTI = load_data.load_drug_target_interaction_adjacency_matrix(dir_DTI_adjmat)
-#     matrix_drug=load_data.load_drug_descriptor_matrix(dir_drug)
-#     matrix_target=load_data.load_target_descriptor_matrix(dir_target)
