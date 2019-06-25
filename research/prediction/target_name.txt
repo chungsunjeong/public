@@ -1,0 +1,4829 @@
+P01876	Ig alpha-1 chain C region
+P54750	Cyclic nucleotide phosphodiesterase
+P0A927	Nucleoside-specific channel-forming protein tsx
+P06983	Porphobilinogen deaminase
+Q6P093	Arylacetamide deacetylase-like 2
+P25024	C-X-C chemokine receptor type 1
+Q8IU85	Calcium/calmodulin-dependent protein kinase type 1D
+Q8I4R5	Rhoptry neck protein 3
+P02452	Collagen alpha-1(I) chain
+O25927	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+P47228	Biphenyl-2,3-diol 1,2-dioxygenase
+A5HEI4	AtpH
+P23276	Kell blood group glycoprotein
+Q9UBT6	DNA polymerase kappa
+P39594	Thiamine-phosphate synthase
+Q05940	Synaptic vesicular amine transporter
+P60493	50S ribosomal protein L27
+P42892	Endothelin-converting enzyme 1
+P35579	Myosin-9
+P13945	Beta-3 adrenergic receptor
+Q13882	Protein-tyrosine kinase 6
+P17413	Fumarate reductase cytochrome b subunit
+P20276	50S ribosomal protein L2
+Q02643	Growth hormone-releasing hormone receptor
+O15439	Multidrug resistance-associated protein 4
+Q14012	Calcium/calmodulin-dependent protein kinase type 1
+P06818	Neuraminidase
+P0A0Z8	N-acylneuraminate cytidylyltransferase
+Q9RBW8	TbuX
+P02745	Complement C1q subcomponent subunit A
+P0A988	DNA polymerase III subunit beta
+Q99470	Stromal cell-derived factor 2
+Q8I487	Skeleton-binding protein 1
+P35270	Sepiapterin reductase
+O00204	Sulfotransferase family cytosolic 2B member 1
+P01133	Pro-epidermal growth factor
+P26790	Light-harvesting protein B-800/850 beta chain
+Q8Y7N7	Glutamate racemase
+Q9H306	Matrix metalloproteinase-27
+Q6NVY1	3-hydroxyisobutyryl-CoA hydrolase, mitochondrial
+Q9X1F8	GTPase Der
+O14594	Neurocan core protein
+P27914	Genome polyprotein
+P15813	Antigen-presenting glycoprotein CD1d
+Q53ZE5	Dihydroorotate dehydrogenase A (fumarate)
+P08581	Hepatocyte growth factor receptor
+P01574	Interferon beta
+P0A8D6	O-acetyl-ADP-ribose deacetylase
+Q9H239	Matrix metalloproteinase-28
+Q05488	Methylaspartate mutase S chain
+P0DP25	Calmodulin-3
+Q8IDH5	Thioredoxin-related protein, putative
+P09466	Glycodelin
+P48051	G protein-activated inward rectifier potassium channel 2
+Q9UHI7	Solute carrier family 23 member 1
+Q9Y5Y4	Prostaglandin D2 receptor 2
+Q9Y6F1	Poly [ADP-ribose] polymerase 3
+O95622	Adenylate cyclase type 5
+5
+P25311	Zinc-alpha-2-glycoprotein
+Q16775	Hydroxyacylglutathione hydrolase, mitochondrial
+P07741	Adenine phosphoribosyltransferase
+Q12809	Potassium voltage-gated channel subfamily H member 2
+P47870	Gamma-aminobutyric acid receptor subunit beta-2
+P49773	Histidine triad nucleotide-binding protein 1
+P03765	Protein ninB
+P56524	Histone deacetylase 4
+Q9BZV2	Thiamine transporter 2
+Q8N1Q1	Carbonic anhydrase 13
+Q5SIH3	30S ribosomal protein Thx
+Q08698	Ribonucleoside-diphosphate reductase 2 subunit alpha
+P23827	Ecotin
+P31358	CAMPATH-1 antigen
+Q9UN76	Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)
+P27302	Transketolase 1
+Q7ADF8	2-deoxyglucose-6-phosphate phosphatase
+3
+P61177	50S ribosomal protein L22
+Q8WXI7	Mucin-16
+Q13547	Histone deacetylase 1
+Q99418	Cytohesin-2
+P13073	Cytochrome c oxidase subunit 4 isoform 1, mitochondrial
+Q9UKM7	Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase
+Q9NPF7	Interleukin-23 subunit alpha
+P42574	Caspase-3
+P48449	Lanosterol synthase
+Q5SHP2	30S ribosomal protein S19
+P41789	Nitrogen regulation protein NR(I)
+P80874	General stress protein 69
+Q8N8R3	Mitochondrial carnitine/acylcarnitine carrier protein CACL
+P02746	Complement C1q subcomponent subunit B
+P37840	Alpha-synuclein
+O60939	Sodium channel subunit beta-2
+P13001	Pimelyl-[acyl-carrier protein] methyl ester esterase
+Q9Z4J7	Quinoprotein ethanol dehydrogenase
+Q8N142	Adenylosuccinate synthetase isozyme 1
+P42336	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform
+Q01082	Spectrin beta chain, non-erythrocytic 1
+P02774	Vitamin D-binding protein
+P0C0X1	Dihydropteroate synthase 1
+Q969I3	Glycine N-acyltransferase-like protein 1
+P0DP23	Calmodulin
+P53041	Serine/threonine-protein phosphatase 5
+Q9WY54	Aminomethyltransferase
+P25786	Proteasome subunit alpha type-1
+P0A434	Parathion hydrolase
+Q16512	Serine/threonine-protein kinase N1
+P12318	Low affinity immunoglobulin gamma Fc region receptor II-a
+A0A0H3JRU9	Pyruvate carboxylase
+P18283	Glutathione peroxidase 2
+P22314	Ubiquitin-like modifier-activating enzyme 1
+P48448	Aldehyde dehydrogenase family 3 member B2
+P50440	Glycine amidinotransferase, mitochondrial
+P50914	60S ribosomal protein L14
+O52806	PCZA361.16
+P53779	Mitogen-activated protein kinase 10
+Q15375	Ephrin type-A receptor 7
+P52564	Dual specificity mitogen-activated protein kinase kinase 6
+Q9RN59	Nogalonic acid methyl ester cyclase
+Q46444	Quinohemoprotein ethanol dehydrogenase type-1
+P04584	Gag-Pol polyprotein
+P21918	D(1B) dopamine receptor
+O60568	Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3
+Q14542	Equilibrative nucleoside transporter 2
+Q8WWQ8	Stabilin-2
+Q8WWT9	Solute carrier family 13 member 3
+Q9P2J5	Leucine--tRNA ligase, cytoplasmic
+P77390	[Citrate [pro-3S]-lyase] ligase
+P16422	Epithelial cell adhesion molecule
+Q72547	Reverse transcriptase/RNaseH
+P00646	Colicin-E3
+Q14627	Interleukin-13 receptor subunit alpha-2
+Q8IM74	Lysophospholipase, putative
+Q05581	Clavaminate synthase 1
+Q37875	Lysozyme
+O00264	Sigma receptor
+F5GY58	Sn1-specific diacylglycerol lipase alpha
+O43497	Voltage-dependent T-type calcium channel
+b
+P07357	Complement component C8 alpha chain
+P0A6K3	Peptide deformylase
+P54764	Ephrin type-A receptor 4
+P0C264	Uncharacterized serine/threonine-protein kinase SBK3
+P9WH11	dTDP-4-dehydrorhamnose 3,5-epimerase
+P84888	Aralkylamine dehydrogenase heavy chain
+P0AEK4	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+P01552	Enterotoxin type B
+Q9Y275	Tumor necrosis factor ligand superfamily member 13B
+O96221	Protein transport protein SEC31
+Q16877	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4
+P27707	Deoxycytidine kinase
+Q15078	Cyclin-dependent kinase 5 activator 1
+Q7SI98	Hydrolase
+P17174	Aspartate aminotransferase, cytoplasmic
+P08183	Multidrug resistance protein 1
+P27623	Glycerol-3-phosphate cytidylyltransferase
+Q54528	RdmC
+P10613	Lanosterol 14-alpha demethylase
+Q8IVH4	Methylmalonic aciduria type A protein, mitochondrial
+P35368	Alpha-1B adrenergic receptor
+P35030	Trypsin-3
+P61925	cAMP-dependent protein kinase inhibitor alpha
+Q8I3T9	60S ribosomal protein L2
+P36542	ATP synthase subunit gamma, mitochondrial
+P61457	Pterin-4-alpha-carbinolamine dehydratase
+Q59721	Glutathione S-transferase
+P53778	Mitogen-activated protein kinase 12
+Q9WYS2	Oxidoreductase, short chain dehydrogenase/reductase family
+Q9UKI8	Serine/threonine-protein kinase tousled-like 1
+Q9RA47	Methylenetetrahydrofolate reductase
+Q8GR70	Enolase
+Q8I372	Formylmethionine deformylase, putative
+Q88016	Pol polyprotein
+P12104	Fatty acid-binding protein, intestinal
+P04183	Thymidine kinase, cytosolic
+O34928	Probable polysaccharide deacetylase PdaA
+Q8TDU6	G-protein coupled bile acid receptor 1
+P19961	Alpha-amylase 2B
+P80365	Corticosteroid 11-beta-dehydrogenase isozyme 2
+Q9UKV0	Histone deacetylase 9
+P51570	Galactokinase
+Q8WWL2	Protein spire homolog 2
+O95573	Long-chain-fatty-acid--CoA ligase 3
+O60858	E3 ubiquitin-protein ligase TRIM13
+P15309	Prostatic acid phosphatase
+P13929	Beta-enolase
+O00305	Voltage-dependent L-type calcium channel subunit beta-4
+P55407	Probable transcriptional activator protein TraR
+Q5SHN3	30S ribosomal protein S12
+P37231	Peroxisome proliferator-activated receptor gamma
+P0C0E6	Thymidine kinase
+Q3JP94	Glutaryl-CoA dehydrogenase
+P78352	Disks large homolog 4
+Q9R381	Aminoglycoside N(6')-acetyltransferase type 1
+Q16568	Cocaine- and amphetamine-regulated transcript protein
+O52646	Aklanonic acid methyl ester cyclase
+P08708	40S ribosomal protein S17
+P18085	ADP-ribosylation factor 4
+Q08288	Cell growth-regulating nucleolar protein
+P54716	Maltose-6'-phosphate glucosidase
+P31677	Alpha,alpha-trehalose-phosphate synthase [UDP-forming]
+Q6YP21	Kynurenine--oxoglutarate transaminase 3
+Q5SJ76	30S ribosomal protein S15
+P53671	LIM domain kinase 2
+O43174	Cytochrome P450 26A1
+P00488	Coagulation factor XIII A chain
+P18507	Gamma-aminobutyric acid receptor subunit gamma-2
+P51788	Chloride channel protein 2
+P21905	ATP synthase subunit c, sodium ion specific
+Q7SIA3	Oxidoreductase
+P31572	Crotonobetainyl-CoA:carnitine CoA-transferase
+P20963	T-cell surface glycoprotein CD3 zeta chain
+Q96DP5	Methionyl-tRNA formyltransferase, mitochondrial
+Q9X0G9	Ribose 5-phosphate isomerase B
+P33038	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Q12866	Tyrosine-protein kinase Mer
+P18548	Deacetoxycephalosporin C synthase
+Q96I99	Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial
+P35237	Serpin B6
+P02792	Ferritin light chain
+Q820S6	Chain A, Red Copper Protein Nitrosocyanin
+P02924	L-arabinose-binding periplasmic protein
+Q6PKH6	Dehydrogenase/reductase SDR family member 4-like 2
+Q07785	Cell division control protein 2 homolog
+P9WIQ3	NADPH-ferredoxin reductase FprA
+P00775	Trypsin
+Q9NYX4	Neuron-specific vesicular protein calcyon
+O32723	Anti-sigma F factor antagonist
+Q9HAN9	Nicotinamide mononucleotide adenylyltransferase 1
+P28676	Grancalcin
+P45844	ATP-binding cassette sub-family G member 1
+Q9UE69	5HT3 serotonin receptor
+Q9X0F9	Putative L-rhamnose mutarotase
+P69681	Ammonia channel
+Q9ZNA2	Recombination protein RecR
+Q8WU08	Serine/threonine-protein kinase 32A
+P00282	Azurin
+P35094	Light-harvesting protein B-800/820 beta chain
+Q15155	Nodal modulator 1
+P12676	Cholesterol oxidase
+P01871	Ig mu chain C region
+O95139	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6
+P10721	Mast/stem cell growth factor receptor Kit
+O75865	Trafficking protein particle complex subunit 6A
+P28223	5-hydroxytryptamine 2 receptor
+Q54527	RdmB
+P31723	Mannosyl-oligosaccharide alpha-1,2-mannosidase
+Q8NEB9	Phosphatidylinositol 3-kinase catalytic subunit type 3
+Q9HC97	G-protein coupled receptor 35
+Q9P0J0	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13
+Q9Y6K9	NF-kappa-B essential modulator
+Q93PP9	Bacterioferritin
+Q47Q21	O-succinylbenzoate-CoA synthase
+P04049	RAF proto-oncogene serine/threonine-protein kinase
+Q7KZA3	Ferrochelatase
+P62826	GTP-binding nuclear protein Ran
+O00591	Gamma-aminobutyric acid receptor subunit pi
+P17752	Tryptophan 5-hydroxylase 1
+O25928	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+P35916	Vascular endothelial growth factor receptor 3
+Q8ILV2	60S ribosomal protein L10, putative
+P94690	Acidic cytochrome c3
+Q9NYK1	Toll-like receptor 7
+Q13547	Histone deacetylase
+Q59GM9	Phosphorylase
+Q5R2K6	P-type Ca2+-transporting ATPase
+O60760	Hematopoietic prostaglandin D synthase
+Q00537	Cyclin-dependent kinase 17
+P02768	Serum albumin
+Q13315	Serine-protein kinase ATM
+O15403	Monocarboxylate transporter 7
+Q6NS38	Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2
+P42330	Aldo-keto reductase family 1 member C3
+P24630	Glutamate-1-semialdehyde 2,1-aminomutase
+P20061	Transcobalamin-1
+P49840	Glycogen synthase kinase-3 alpha
+P9WPB5	Cyclopropane mycolic acid synthase 2
+P06733	Alpha-enolase
+Q8I0X2	Acyl-CoA synthetase
+P29559	Lantibiotic nisin-Z
+P26639	Threonine--tRNA ligase, cytoplasmic
+P30043	Flavin reductase (NADPH)
+Q92781	11-cis retinol dehydrogenase
+P9WPE1	Citrate lyase subunit beta-like protein
+P06213	Insulin receptor
+Q06124	Tyrosine-protein phosphatase non-receptor type 11
+Q7ZJM1	Integrase
+Q13002	Glutamate receptor ionotropic, kainate 2
+P15428	15-hydroxyprostaglandin dehydrogenase [NAD(+)]
+P04964	Meso-diaminopimelate D-dehydrogenase
+Q07011	Tumor necrosis factor receptor superfamily member 9
+P0AFM2	Glycine betaine-binding periplasmic protein
+O15111	Inhibitor of nuclear factor kappa-B kinase subunit alpha
+Q7Z2H8	Proton-coupled amino acid transporter 1
+P28861	Ferredoxin--NADP reductase
+Q9TY94	ATP-dependent RNA helicase UAP56
+Q9P0L2	Serine/threonine-protein kinase MARK1
+P49821	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
+Q9HB40	Retinoid-inducible serine carboxypeptidase
+Q8P8J2	N-acetylornithine carbamoyltransferase
+P94182	Adenylate cyclase
+P09147	UDP-glucose 4-epimerase
+I
+Q12908	Ileal sodium/bile acid cotransporter
+P39045	D-alanyl-D-alanine carboxypeptidase
+P11766	Alcohol dehydrogenase class-3
+Q9UI33	Sodium channel protein type 11 subunit alpha
+P40943	Endo-1,4-beta-xylanase
+Q08881	Tyrosine-protein kinase ITK/TSK
+P09152	Respiratory nitrate reductase 1 alpha chain
+P16473	Thyrotropin receptor
+P63151	Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform
+Q9GZT4	Serine racemase
+O00483	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4
+O93182	Gag polyprotein
+P35754	Glutaredoxin-1
+P27338	Amine oxidase [flavin-containing] B
+O14746	Telomerase reverse transcriptase
+P0AEK2	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+P07585	Decorin
+P45124	Ribosomal small subunit pseudouridine synthase A
+Q9UHC3	Acid-sensing ion channel 3
+Q92637	High affinity immunoglobulin gamma Fc receptor IB
+P19531	Maltogenic alpha-amylase
+Q96I15	Selenocysteine lyase
+Q13698	Voltage-dependent L-type calcium channel subunit alpha-1S
+Q70I53	Histone deacetylase-like amidohydrolase
+Q4W9V8	Polyhydroxybutyrate depolymerase, putative
+Q92887	Canalicular multispecific organic anion transporter 1
+P50921	Triosephosphate isomerase
+Q01770	Hydroxylamine reductase
+P01768	Ig heavy chain V-III region CAM
+Q9Y646	Carboxypeptidase Q
+Q16558	Calcium-activated potassium channel subunit beta-1
+P43777	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+P04190	Beta-lactamase 2
+P0C2S5	Cellulose 1,4-beta-cellobiosidase (reducing end) CelS
+Q9RVD6	Tryptophan--tRNA ligase 2
+P9WP01	Purine nucleoside phosphorylase
+D2YW37	Est1e
+O15496	Group 10 secretory phospholipase A2
+P05067	Amyloid beta A4 protein
+P46736	Lys-63-specific deubiquitinase BRCC36
+P9WHH7	NAD(P)H dehydrogenase (quinone)
+Q9HCP0	Casein kinase I isoform gamma-1
+P94622	Endo-1,4-beta glucanase EngF
+P9WK17	Malate synthase G
+Q8NW68	Threonine--tRNA ligase
+P11922	Invasin
+P30613	Pyruvate kinase PKLR
+P0A1X2	Lipoprotein MxiM
+P02751	Fibronectin
+P11836	B-lymphocyte antigen CD20
+Q13427	Peptidyl-prolyl cis-trans isomerase G
+P17707	S-adenosylmethionine decarboxylase proenzyme
+Q96CD2	Phosphopantothenoylcysteine decarboxylase
+Q96PD5	N-acetylmuramoyl-L-alanine amidase
+Q9HCD5	Nuclear receptor coactivator 5
+Q14626	Interleukin-11 receptor subunit alpha
+P95780	dTDP-glucose 4,6-dehydratase
+Q15822	Neuronal acetylcholine receptor subunit alpha-2
+P68104	Elongation factor 1-alpha 1
+P30419	Glycylpeptide N-tetradecanoyltransferase 1
+Q92570	Nuclear receptor subfamily 4 group A member 3
+P42216	3-deoxy-manno-octulosonate cytidylyltransferase
+P31751	RAC-beta serine/threonine-protein kinase
+P61432	UDP-N-acetylenolpyruvoylglucosamine reductase
+Q8II73	Spermidine synthase
+Q14003	Potassium voltage-gated channel subfamily C member 3
+Q99835	Smoothened homolog
+Q9H2K8	Serine/threonine-protein kinase TAO3
+Q14995	Nuclear receptor subfamily 1 group D member 2
+O15511	Actin-related protein 2/3 complex subunit 5
+Q51990	Morphinone reductase
+P11474	Steroid hormone receptor ERR1
+O94956	Solute carrier organic anion transporter family member 2B1
+8
+P06729	T-cell surface antigen CD2
+P33681	T-lymphocyte activation antigen CD80
+Q96KC2	ADP-ribosylation factor-like protein 5B
+P05164	Myeloperoxidase
+Q04917	14-3-3 protein eta
+P10153	Non-secretory ribonuclease
+P31213	3-oxo-5-alpha-steroid 4-dehydrogenase 2
+Q9UQD0	Sodium channel protein type 8 subunit alpha
+P61024	Cyclin-dependent kinases regulatory subunit 1
+P41231	P2Y purinoceptor 2
+P21462	fMet-Leu-Phe receptor
+Q05603	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+P20132	L-serine dehydratase/L-threonine deaminase
+Q32P28	Prolyl 3-hydroxylase 1
+P17812	CTP synthase 1
+O00341	Excitatory amino acid transporter 5
+R
+P0A876	tRNA (guanine-N(1)-)-methyltransferase
+P00136	Cytochrome c3, 13 kDa
+O75880	Protein SCO1 homolog, mitochondrial
+P01877	Ig alpha-2 chain C region
+O95180	Voltage-dependent T-type calcium channel subunit alpha-1H
+O14756	17-beta-hydroxysteroid dehydrogenase type 6
+Q07912	Activated CDC42 kinase 1
+O00222	Metabotropic glutamate receptor 8
+P51858	Hepatoma-derived growth factor
+Q9BZX2	Uridine-cytidine kinase 2
+P24311	Cytochrome c oxidase subunit 7B, mitochondrial
+P31948	Stress-induced-phosphoprotein 1
+P19438	Tumor necrosis factor receptor superfamily member 1A
+P06858	Lipoprotein lipase
+P29322	Ephrin type-A receptor 8
+P54219	Chromaffin granule amine transporter
+P0A333	pH-gated potassium channel KcsA
+P00966	Argininosuccinate synthase
+Q9BYF1	Angiotensin-converting enzyme 2
+P0ADY7	50S ribosomal protein L16
+P39748	Flap endonuclease 1
+Q9UM01	Y+L amino acid transporter 1
+O85465	Endoglucanase 5A
+A0A0H3K1U2	3-hydroxy-3-methylglutaryl CoA synthase
+P22309	UDP-glucuronosyltransferase 1-1
+O43676	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3
+A8MPY1	Gamma-aminobutyric acid receptor subunit rho-3
+Q9Y2Q0	Probable phospholipid-transporting ATPase IA
+P12461	Thymidylate synthase
+P08506	D-alanyl-D-alanine carboxypeptidase DacC
+Q8WX39	Epididymal-specific lipocalin-9
+P23528	Cofilin-1
+P11712	Cytochrome P450 2C9
+P40238	Thrombopoietin receptor
+Q02809	Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1
+P0A8P1	Leucyl/phenylalanyl-tRNA--protein transferase
+y
+P10768	S-formylglutathione hydrolase
+P14867	GABA-A receptor (anion channel)
+P06988	Histidinol dehydrogenase
+Q57254	Afimbrial adhesin AFA-III
+Q816R0	Molybdenum cofactor biosynthesis protein B
+Q6PEY2	Tubulin alpha-3E chain
+Q9UBS5	Gamma-aminobutyric acid type B receptor subunit 1
+P0A6B1	Acyl carrier protein
+P05129	Protein kinase C gamma type
+P62942	Peptidyl-prolyl cis-trans isomerase FKBP1A
+P11797	Chitinase B
+Q9Y2Z4	Tyrosine--tRNA ligase, mitochondrial
+P08779	Keratin, type I cytoskeletal 16
+Q3JWH7	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+P62753	40S ribosomal protein S6
+P30197	Epidermin decarboxylase
+P48729	Casein kinase I isoform alpha
+P39304	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+P12823	Genome polyprotein
+P35219	Carbonic anhydrase-related protein
+Q9NSD9	Phenylalanine--tRNA ligase beta subunit
+P00438	p-hydroxybenzoate hydroxylase
+P71119	Heme oxygenase
+Q9X266	L-allo-threonine aldolase
+P55792	4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+P03369	Gag-Pol polyprotein
+Q9NY56	Odorant-binding protein 2a
+Q53464	(S)-2-haloacid dehalogenase
+Q02192	C protein alpha-antigen
+P31013	Tyrosine phenol-lyase
+P29371	Neuromedin-K receptor
+P23945	Follicle-stimulating hormone receptor
+P50579	Methionine aminopeptidase 2
+O95838	Glucagon-like peptide 2 receptor
+Q16795	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial
+Q9KL51	DevB protein
+P60906	Histidine--tRNA ligase
+P9WNW7	Iron-dependent extradiol dioxygenase
+P0A733	Methylglyoxal synthase
+P23677	Inositol-trisphosphate 3-kinase A
+O76074	cGMP-specific 3',5'-cyclic phosphodiesterase
+P26397	CDP-glucose 4,6-dehydratase
+Q9BZZ2	Sialoadhesin
+P50750	Cyclin-dependent kinase 9
+P65389	Cyclic pyranopterin monophosphate synthase
+P69924	Ribonucleoside-diphosphate reductase 1 subunit beta
+P17169	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+O00469	Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2
+Q9UHQ9	NADH-cytochrome b5 reductase 1
+P98066	Tumor necrosis factor-inducible gene 6 protein
+n
+Q10588	ADP-ribosyl cyclase 2
+Q8IW54	Phosphodiesterase 2A, cGMP-stimulated
+P42766	60S ribosomal protein L35
+P48039	Melatonin receptor type 1A
+A0A0M3KKX1	Dihydrofolate reductase (dfrB)
+P0AE18	Methionine aminopeptidase
+P42321	Catalase
+P69795	N,N'-diacetylchitobiose-specific phosphotransferase enzyme IIB component
+Q84FH6	Chorismate mutase AroH
+P50250	Adenosylhomocysteinase
+Q16348	Solute carrier family 15 member 2
+P16304	Adenylate kinase
+P49137	MAP kinase-activated protein kinase 2
+P38489	Oxygen-insensitive NAD(P)H nitroreductase
+Q76NM6	V-type proton ATPase catalytic subunit A
+Q9FCA6	Putative cytochrome P450
+P30556	Type-1 angiotensin II receptor
+Q99519	Sialidase-1
+Q5HEB7	D-alanine--D-alanine ligase
+O15197	Ephrin type-B receptor 6
+O94804	Serine/threonine-protein kinase 10
+O75330	Hyaluronan mediated motility receptor
+Q13258	Prostaglandin D2 receptor
+P00505	Aspartate aminotransferase, mitochondrial
+Q60049	NADH dehydrogenase
+Q9AIU0	HTH-type transcriptional regulator TtgR
+P60355	Manganese catalase
+Q9KM65	CAI-1 autoinducer synthase
+P19926	Glucose-1-phosphatase
+Q9WZC2	Spermidine synthase
+Q9Y2D0	Carbonic anhydrase 5B, mitochondrial
+O75521	Enoyl-CoA delta isomerase 2, mitochondrial
+P36959	GMP reductase 1
+Q08345	Epithelial discoidin domain-containing receptor 1
+P11229	Muscarinic acetylcholine receptor
+P55196	Afadin
+P46781	40S ribosomal protein S9
+P51580	Thiopurine S-methyltransferase
+P81605	Dermcidin
+P16113	Photoactive yellow protein
+Q9WZ40	Signal recognition particle receptor FtsY
+P61713	6,7-dimethyl-8-ribityllumazine synthase 2
+P27695	DNA-(apurinic or apyrimidinic site) lyase
+Q494W8	CHRNA7-FAM7A fusion protein
+P17297	Biphenyl-2,3-diol 1,2-dioxygenase
+Q
+P47898	5-hydroxytryptamine receptor 5A
+Q9BY41	Histone deacetylase 8
+P09172	Dopamine beta-hydroxylase
+P55408	Probable transcriptional repressor TraM
+O75762	Transient receptor potential cation channel subfamily A member 1
+P05100	DNA-3-methyladenine glycosylase 1
+O94903	Proline synthase co-transcribed bacterial homolog protein
+C0H551	Glutamine synthetase, putative
+P62913	60S ribosomal protein L11
+P38424	Probable GTP-binding protein EngB
+P44490	3-deoxy-manno-octulosonate cytidylyltransferase
+Q9A5I5	Response regulator PleD
+P0A6R0	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Q9AQS0	Xanthan lyase
+O00187	Mannan-binding lectin serine protease 2
+P05160	Coagulation factor XIII B chain
+P0C0Y9	Reaction center protein M chain
+P62660	30S ribosomal protein S19
+P45568	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+P30872	Somatostatin receptor type 1
+Q86Y39	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11
+Q9K2N0	Beta-lactamase class B VIM-2
+P60725	50S ribosomal protein L4
+Q53586	4-hydroxyphenylpyruvate dioxygenase
+Q15637	Splicing factor 1
+E
+Q8IBN5	40S ribosomal protein S5, putative
+P56537	Eukaryotic translation initiation factor 6
+O75311	Glycine receptor subunit alpha-3
+Q12882	Dihydropyrimidine dehydrogenase [NADP(+)]
+P08254	Stromelysin-1
+Q53I07	Envelope glycoprotein
+P62258	14-3-3 protein epsilon
+P00512	6-phosphofructokinase
+P41240	Tyrosine-protein kinase CSK
+Q9UN19	Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide
+P0A6V8	Glucokinase
+Q16620	BDNF/NT-3 growth factors receptor
+A0A0H3JWX6	NPQTN specific sortase B
+P33121	Long-chain-fatty-acid--CoA ligase 1
+P20711	Aromatic-L-amino-acid decarboxylase
+Q04230	TrwB
+Q51792	Trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+O15269	Serine palmitoyltransferase 1
+P78540	Arginase-2, mitochondrial
+Q13131	5'-AMP-activated protein kinase catalytic subunit alpha-1
+P19827	Inter-alpha-trypsin inhibitor heavy chain H1
+O67040	Exopolyphosphatase
+Q8TD08	Mitogen-activated protein kinase 15
+P16870	Carboxypeptidase E
+P08729	Keratin, type II cytoskeletal 7
+Q86SZ2	Trafficking protein particle complex subunit 6B
+O75380	NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial
+P87764	Nonstructural protein 5B (NS5B)
+Q92952	Small conductance calcium-activated potassium channel protein 1
+Q79FX8	Hydroxymycolate synthase MmaA4
+P48506	Glutamate--cysteine ligase catalytic subunit
+O91734	Genome polyprotein
+Q52WX2	Serine/threonine-protein kinase SBK1
+P25924	Siroheme synthase
+P15085	Carboxypeptidase A1
+P0A6G7	ATP-dependent Clp protease proteolytic subunit
+P21549	Serine--pyruvate aminotransferase
+P78368	Casein kinase I isoform gamma-2
+P54578	Ubiquitin carboxyl-terminal hydrolase 14
+P82543	Cytochrome c oxidase polypeptide 2A
+Q0P8G4	DUTPase
+P49763	Placenta growth factor
+Q8NEV4	Myosin-IIIa
+Q8IJ74	Haloacid dehalogenase-like hydrolase
+Q8TDV5	Glucose-dependent insulinotropic receptor
+Q93UV9	Protease
+P08319	Alcohol dehydrogenase 4
+A0A0H2URW2	Putative uncharacterized protein
+P24232	Flavohemoprotein
+P04839	NADPH oxidase
+Q8WUI4	Histone deacetylase 7
+P14649	Myosin light chain 6B
+P21397	Monoamine oxidase
+P00352	Retinal dehydrogenase 1
+P12532	Creatine kinase U-type, mitochondrial
+Q16651	Prostasin
+Q5G940	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Q8NI22	Multiple coagulation factor deficiency protein 2
+P06737	Glycogen phosphorylase, liver form
+O14646	Chromodomain-helicase-DNA-binding protein 1
+Q5SHN7	30S ribosomal protein S10
+O60942	mRNA-capping enzyme
+Q9NPB1	5'(3')-deoxyribonucleotidase, mitochondrial
+P15034	Xaa-Pro aminopeptidase
+Q02224	Centromere-associated protein E
+Q9P289	Serine/threonine-protein kinase MST4
+Q9H1K4	Mitochondrial glutamate carrier 2
+P17948	Vascular endothelial growth factor receptor 1
+Q92911	Sodium/iodide cotransporter
+P46883	Primary amine oxidase
+P43155	Carnitine O-acetyltransferase
+P09601	Heme oxygenase 1
+P27696	Acetolactate synthase, catabolic
+Q9HBH5	Retinol dehydrogenase 14
+Q7Z3Y4	Uncharacterized protein
+Q86UW8	Hyaluronan and proteoglycan link protein 4
+Q16832	Discoidin domain-containing receptor 2
+Q96FI4	Endonuclease 8-like 1
+P14770	Platelet glycoprotein IX
+X
+P09237	Matrilysin
+P10912	Growth hormone receptor
+P12528	Bifunctional tail protein
+P05771	Protein kinase C beta type
+Q8TAB3	Protocadherin-19
+Q86YB8	ERO1-like protein beta
+F1L7U3	Tubulin beta-2 chain
+P04936	Genome polyprotein
+Q93RD8	H subunit of photosynthetic reaction center complex
+Q9NZQ7	Programmed cell death 1 ligand 1
+P04746	Pancreatic alpha-amylase
+P17900	Ganglioside GM2 activator
+P55011	Solute carrier family 12 member 2
+P49789	Bis(5'-adenosyl)-triphosphatase
+P13254	Methionine gamma-lyase
+P16066	Atrial natriuretic peptide receptor 1
+P39023	60S ribosomal protein L3
+O95069	Potassium channel subfamily K member 2
+P0A7E1	Dihydroorotate dehydrogenase (quinone)
+A0A0H2UQB5	LicC protein
+P45510	Dihydroxyacetone kinase
+Q9HBA0	Transient receptor potential cation channel subfamily V member 4
+Q16790	Carbonic anhydrase 9
+P72181	Nitrite reductase
+P15692	Vascular endothelial growth factor A
+P0A6D3	3-phosphoshikimate 1-carboxyvinyltransferase
+P42126	Enoyl-CoA delta isomerase 1, mitochondrial
+P28566	5-hydroxytryptamine receptor 1E
+Q9WMX2	Genome polyprotein
+Q9BYT3	Serine/threonine-protein kinase 33
+P63316	Troponin C, slow skeletal and cardiac muscles
+Q9NY65	Tubulin alpha-8 chain
+P03692	DNA primase/helicase
+P16389	Potassium voltage-gated channel subfamily A member 2
+O14649	Potassium channel subfamily K member 3
+P9WPS1	ATP synthase subunit c
+Q9X1K9	4-hydroxy-tetrahydrodipicolinate synthase
+P26951	Interleukin-3 receptor subunit alpha
+P25103	Substance-P receptor
+P16442	Histo-blood group ABO system transferase
+P52647	Probable pyruvate-flavodoxin oxidoreductase
+Q9NXE4	Sphingomyelin phosphodiesterase 4
+Q7L266	Isoaspartyl peptidase/L-asparaginase
+Q9Y266	Nuclear migration protein nudC
+P60903	Protein S100-A10
+P10915	Hyaluronan and proteoglycan link protein 1
+P30044	Peroxiredoxin-5, mitochondrial
+P0A1F6	Uridine phosphorylase
+P12314	High affinity immunoglobulin gamma Fc receptor I
+Q8NX78	Peptide deformylase
+Q3IWB0	Histidine ammonia-lyase
+P0C0J0	Streptopain
+Q9Y221	60S ribosome subunit biogenesis protein NIP7 homolog
+P09252	DNA polymerase catalytic subunit
+P13827	Merozoite surface protein 1
+P00691	Alpha-amylase
+O75600	2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial
+Q8KI25	Putative FAD-monooxygenase
+P47229	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase
+P43007	Neutral amino acid transporter A
+P10340	Flavodoxin
+P0A3R9	Neocarzinostatin
+P04390	Type-2 restriction enzyme EcoRV
+P33402	Guanylate cyclase soluble subunit alpha-2
+H
+Q9HU22	Glucose-1-phosphate thymidylyltransferase
+Q7SIB1	CCA-adding enzyme
+O00238	Bone morphogenetic protein receptor type-1B
+P68366	Tubulin alpha-4A chain
+Q6P3R8	Serine/threonine-protein kinase Nek5
+O33833	Beta-fructosidase
+P08235	Mineralocorticoid receptor
+P25815	Protein S100-P
+Q8GIQ0	DTDP-4-dehydrorhamnose 3,5-epimerase
+P24092	High-molecular-weight cytochrome c
+P30901	D-lactate dehydrogenase
+Q15648	Mediator of RNA polymerase II transcription subunit 1
+P11597	Cholesteryl ester transfer protein
+P80373	30S ribosomal protein S4
+P22256	4-aminobutyrate aminotransferase GabT
+P49765	Vascular endothelial growth factor B
+P08773	Deoxycytidylate 5-hydroxymethyltransferase
+Q14181	DNA polymerase alpha subunit B
+P0A6I8	Phosphopantetheine adenylyltransferase
+P45983	Mitogen-activated protein kinase 8
+Q99259	Glutamate decarboxylase 1
+Q14721	Potassium voltage-gated channel subfamily B member 1
+d
+P43403	Tyrosine-protein kinase ZAP-70
+P0A716	2-dehydro-3-deoxyphosphooctonate aldolase
+Q672W7	Peptide deformylase
+Q9UQM7	Calcium/calmodulin-dependent protein kinase type II subunit alpha
+P51168	Amiloride-sensitive sodium channel subunit beta
+P01112	GTPase HRas
+P28222	5-hydroxytryptamine receptor 1B
+P27797	Calreticulin
+P27142	Adenylate kinase
+P09960	Leukotriene A-4 hydrolase
+Q5SHZ4	DNA gyrase subunit B
+P9WG35	Probable thiol peroxidase
+P9WJJ7	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Q9NR82	Potassium voltage-gated channel subfamily KQT member 5
+Q02818	Nucleobindin-1
+O43708	Maleylacetoacetate isomerase
+P01859	Ig gamma-2 chain C region
+P44801	Aspartate-semialdehyde dehydrogenase
+O60512	Beta-1,4-galactosyltransferase 3
+P07339	Cathepsin D
+P00947	Steroid Delta-isomerase
+Q9I194	Acyl-homoserine lactone acylase PvdQ
+Q45697	Uric acid degradation bifunctional protein
+Q70AC7	Methylmalonyl-CoA carboxyltransferase 5S subunit
+O95190	Ornithine decarboxylase antizyme 2
+O43837	Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial
+P40616	ADP-ribosylation factor-like protein 1
+P77398	Bifunctional polymyxin resistance protein ArnA
+Q9UHF0	Tachykinin-3
+Q5PXQ6	Hydroxyquinol 1,2-dioxygenase
+Q16773	Kynurenine--oxoglutarate transaminase 1
+P9WNH5	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+P23467	Receptor-type tyrosine-protein phosphatase beta
+Q9A1B7	Glutamate racemase
+P41972	Isoleucine--tRNA ligase
+P22637	Cholesterol oxidase
+Q95460	Major histocompatibility complex class I-related gene protein
+P0A8M5	Threonine--tRNA ligase
+Q13938	Calcyphosin
+P53355	Death-associated protein kinase 1
+Q6PHR2	Serine/threonine-protein kinase ULK3
+O75911	Short-chain dehydrogenase/reductase 3
+Q9K597	Outer membrane porin C
+O14949	Cytochrome b-c1 complex subunit 8
+O43741	5'-AMP-activated protein kinase subunit beta-2
+P04585	Gag-Pol polyprotein
+P50618	Protein NrdI
+P08684	CYP3A
+Q92934	Bcl2 antagonist of cell death
+P33221	Phosphoribosylglycinamide formyltransferase 2
+Q99259	GAD1 protein
+P28305	Aminodeoxychorismate lyase
+P43487	Ran-specific GTPase-activating protein
+P15814	Immunoglobulin lambda-like polypeptide 1
+Q27796	Hypoxanthine-guanine phosphoribosyltransferase
+P01584	Interleukin-1 beta
+P15770	Shikimate dehydrogenase
+P38545	GTP-binding nuclear protein Ran
+P48181	Acetylcholine receptor subunit beta-type unc-29
+Q86DI9	Sodium channel protein
+Q7Z2W7	Transient receptor potential cation channel subfamily M member 8
+Q99873	Protein arginine N-methyltransferase 1
+Q8N159	N-acetylglutamate synthase, mitochondrial
+P0A115	Carboxymethylenebutenolidase
+Q16222	UDP-N-acetylhexosamine pyrophosphorylase
+P05106	Integrin beta-3
+O60427	Fatty acid desaturase 1
+Q5SHR6	DNA-directed RNA polymerase subunit alpha
+Q9H936	Mitochondrial glutamate carrier 1
+P29474	Nitric oxide synthase, endothelial
+P46849	RNA 3'-terminal phosphate cyclase
+P35520	Cystathionine beta-synthase
+Q04771	Activin receptor type-1
+P0C0H6	Inosine-5'-monophosphate dehydrogenase
+Q76NN7	Peptidyl-prolyl cis-trans isomerase
+P00797	Renin
+Q9RW27	NimA-related protein
+P28070	Proteasome subunit beta type-4
+P35498	Sodium channel protein
+Q14081	Carcinoembryonic antigen
+P19793	Retinoic acid receptor RXR-alpha
+P00959	Methionine--tRNA ligase
+P39841	Putative mannose-6-phosphate isomerase YvyI
+P04439	HLA class I histocompatibility antigen, A-3 alpha chain
+O60882	Matrix metalloproteinase-20
+Q02763	Angiopoietin-1 receptor
+Q8DR59	Penicillin-binding protein 1A
+Q75UV1	Diadenosine hexaphosphate hydrolase
+P48723	Heat shock 70 kDa protein 13
+P24752	Acetyl-CoA acetyltransferase, mitochondrial
+P56194	Histidine--tRNA ligase
+Q8NBQ5	Estradiol 17-beta-dehydrogenase 11
+P02747	Complement C1q subcomponent subunit C
+P12724	Eosinophil cationic protein
+P0A9M5	Xanthine phosphoribosyltransferase
+P03474	Neuraminidase
+A9CJ63	Uncharacterized protein
+Q9N623	Chloroquine resistance transporter
+Q27738	Dihydropteroate synthetase
+P08670	Vimentin
+Q9NQS7	Inner centromere protein
+P18314	Urease subunit alpha
+Q13470	Non-receptor tyrosine-protein kinase TNK1
+P26466	Maltoporin
+O77361	Parasite-infected erythrocyte surface protein
+P00497	Amidophosphoribosyltransferase
+P40429	60S ribosomal protein L13a
+P23340	Endoglucanase C307
+P55038	Ferredoxin-dependent glutamate synthase 2
+P04141	Granulocyte-macrophage colony-stimulating factor
+Q5JTZ9	Alanine--tRNA ligase, mitochondrial
+Q9NYR8	Retinol dehydrogenase 8
+P29723	47 kDa membrane antigen
+Q99643	Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
+P08173	Muscarinic acetylcholine receptor M4
+B0B3C9	NS3/4A protein
+P31946	14-3-3 protein beta/alpha
+O95644	Nuclear factor of activated T-cells, cytoplasmic 1
+P05020	Dihydroorotase
+P03923	NADH-ubiquinone oxidoreductase chain 6
+Q8VUT0	Quinohemoprotein amine dehydrogenase 60 kDa subunit
+P0A9J6	Ribokinase
+P56817	Beta-secretase 1
+O43678	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2
+P52700	Metallo-beta-lactamase L1
+P9WPX7	3-dehydroquinate dehydratase
+P46059	Solute carrier family 15 member 1
+Q9BY32	Inosine triphosphate pyrophosphatase
+O15230	Laminin subunit alpha-5
+Q8IUZ5	5-phosphohydroxy-L-lysine phospho-lyase
+P04278	Sex hormone-binding globulin
+Q86VU5	Catechol O-methyltransferase domain-containing protein 1
+Q5SII2	Probable rRNA methylase
+P04271	Protein S100-B
+Q9HTQ2	Alanine racemase, catabolic
+P11388	DNA topoisomerase 2-alpha
+P56556	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6
+P17443	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Q15910	Histone-lysine N-methyltransferase EZH2
+Q8YWS4	Alr1529 protein
+P14677	Penicillin-binding protein 2x
+Q8VP84	Anthranilate phosphoribosyltransferase
+P51149	Ras-related protein Rab-7a
+Q96GR2	Long-chain-fatty-acid--CoA ligase ACSBG1
+P00469	Thymidylate synthase
+P60327	N-carbamoyl-D-amino acid hydrolase
+Q6FHJ7	Secreted frizzled-related protein 4
+P00740	Coagulation factor IX
+O00217	NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial
+Q84CU3	ADP-ribose pyrophosphatase
+Q05586	NMDA receptor
+Q8KNZ7	Long-chain N-acyl amino acid synthase
+P0A7J6	50S ribosomal protein L10
+P22629	Streptavidin
+O15270	Serine palmitoyltransferase 2
+Q96EY8	Cob(I)yrinic acid a,c-diamide adenosyltransferase, mitochondrial
+Q8IL88	HSP40, subfamily A, putative
+Q9UDX3	SEC14-like protein 4
+Q96KG9	N-terminal kinase-like protein
+Q9Y663	Heparan sulfate glucosamine 3-O-sulfotransferase 3A1
+P01857	Ig gamma-1 chain C region
+P11926	Ornithine decarboxylase
+P55017	Solute carrier family 12 member 3
+P08185	Corticosteroid-binding globulin
+P11177	Pyruvate dehydrogenase E1 component subunit beta, mitochondrial
+P43457	V-type sodium ATPase subunit K
+P77454	Glutaminase 1
+P30153	Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform
+O67757	Transcription termination/antitermination protein NusG
+Q4KH25	Outer membrane porin, OprD family
+Q5XXA6	Anoctamin-1
+P30532	Neuronal acetylcholine receptor subunit alpha-5
+-
+P78536	Disintegrin and metalloproteinase domain-containing protein 17
+P39377	Isoaspartyl dipeptidase
+Q83P33	Adenylosuccinate synthetase
+P29395	50S ribosomal protein L11
+P9WIL5	Pantothenate synthetase
+P49759	Dual specificity protein kinase CLK1
+P07814	Bifunctional glutamate/proline--tRNA ligase
+P00782	Subtilisin BPN'
+Q81R22	Dihydrofolate reductase
+Q6WRI0	Immunoglobulin superfamily member 10
+P39905	Glial cell line-derived neurotrophic factor
+P11021	78 kDa glucose-regulated protein
+O43923	Metalloproteinase
+P02787	Serotransferrin
+P83793	Apocytochrome f
+Q83QN9	Cell division protein ZipA homolog
+P11473	Vitamin D3 receptor
+P05362	Intercellular adhesion molecule 1
+Q13838	Spliceosome RNA helicase DDX39B
+Q09428	Sulfonylurea receptor 1, Kir6.2
+P08149	Penicillin-binding protein 2
+P20581	Uncharacterized protein PA1000
+P44868	tRNA (cytidine(34)-2'-O)-methyltransferase
+Q16566	Calcium/calmodulin-dependent protein kinase type IV
+P00323	Flavodoxin
+P05187	Alkaline phosphatase, placental type
+P00091	Cytochrome c2
+P09874	Poly [ADP-ribose] polymerase 1
+P13981	Arginine deiminase
+P50897	Palmitoyl-protein thioesterase 1
+O75469	Nuclear receptor subfamily 1 group I member 2
+P27361	Mitogen-activated protein kinase 3
+P69054	Succinate dehydrogenase cytochrome b556 subunit
+P20831	DNA gyrase subunit A
+P22188	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+P20261	Lipase 1
+Q13630	GDP-L-fucose synthase
+Q9S427	Protein-tyrosine-phosphatase
+Q96S86	Hyaluronan and proteoglycan link protein 3
+P0A955	KHG/KDPG aldolase
+P04035	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+Q9NVH6	Trimethyllysine dioxygenase, mitochondrial
+B
+P08913	Alpha-2 adrenergic receptors
+Q9NY59	Sphingomyelin phosphodiesterase 3
+Q16647	Prostacyclin synthase
+P0AFI2	DNA topoisomerase 4 subunit A
+P16444	Dipeptidase 1
+Q8NMG3	Bacterial regulatory protein, TetR family
+P01861	Ig gamma-4 chain C region
+Q9I5I9	SDS hydrolase SdsA1
+P07384	Calpain-1 catalytic subunit
+Q15125	3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase
+Q146M9	Putative inward rectifier potassium channel
+P11413	Glucose-6-phosphate 1-dehydrogenase
+Q15208	Serine/threonine-protein kinase 38
+O52791	4-hydroxymandelate synthase
+P20248	Cyclin-A2
+Q9NZD4	Alpha-hemoglobin-stabilizing protein
+Q8X444	Uracil-DNA glycosylase
+P03472	Neuraminidase
+P03960	Potassium-transporting ATPase B chain
+O95342	Bile salt export pump
+O25926	ATP-dependent Clp protease ATP-binding subunit ClpX
+P00747	Plasminogen
+P54886	Delta-1-pyrroline-5-carboxylate synthase
+P48147	Prolyl endopeptidase
+Q9RC23	Mersacidin decarboxylase
+Q9H244	P2Y purinoceptor 12
+P48547	Potassium voltage-gated channel subfamily C member 1
+P51511	Matrix metalloproteinase-15
+Q9P2W7	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+Q8GMG0	MIO-dependent tyrosine 2,3-aminomutase
+P47901	Vasopressin V1b receptor
+P52197	Thiosulfate sulfurtransferase
+P62829	60S ribosomal protein L23
+P05327	Deoxyribodipyrimidine photo-lyase
+P0CG29	Glutathione S-transferase theta-2
+P09668	Pro-cathepsin H
+P61927	60S ribosomal protein L37
+Q96L34	MAP/microtubule affinity-regulating kinase 4
+P51691	Arylsulfatase
+P49916	DNA ligase 3
+Q12965	Unconventional myosin-Ie
+Q9C0B1	Alpha-ketoglutarate-dependent dioxygenase FTO
+Q14697	Neutral alpha-glucosidase AB
+P06401	Progesterone receptor
+P00750	Tissue-type plasminogen activator
+P0A872	Transaldolase B
+Q6LFH8	Ornithine aminotransferase
+P16471	Prolactin receptor
+Q8V397	Polyprotein
+Q00613	Heat shock factor protein 1
+P08473	Neprilysin
+P33673	Chitosanase
+Q9Y2T6	G-protein coupled receptor 55
+P28062	Proteasome subunit beta type-8
+P42261	Glutamate receptor 1
+P05556	Integrin beta-1
+Q9UM07	Protein-arginine deiminase type-4
+P35348	Alpha-1A adrenergic receptor
+O75636	Ficolin-3
+O31156	Phosphonoacetaldehyde hydrolase
+O68541	Endoxylanase
+O75976	Carboxypeptidase D
+P17676	CCAAT/enhancer-binding protein beta
+Q84EX5	R-specific alcohol dehydrogenase
+Q9Y2J8	Protein-arginine deiminase type-2
+P0C002	Dihydropteroate synthase type-1
+Q9H2X6	Homeodomain-interacting protein kinase 2
+P22748	Carbonic anhydrase 4
+O14717	tRNA (cytosine(38)-C(5))-methyltransferase
+O00206	Toll-like receptor 4
+P78527	DNA-dependent protein kinase catalytic subunit
+P14854	Cytochrome c oxidase subunit 6B1
+P05543	Thyroxine-binding globulin
+P07445	Steroid Delta-isomerase
+P30988	Calcitonin receptor
+Q13564	NEDD8-activating enzyme E1 regulatory subunit
+P11168	Solute carrier family 2, facilitated glucose transporter member 2
+P96965	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase
+P02741	C-reactive protein
+Q54468	Chitobiase
+P03234	Capsid scaffolding protein
+Q9X286	N utilization substance protein B homolog
+P33644	Laccase domain protein YfiH
+Q16740	Putative ATP-dependent Clp protease proteolytic subunit, mitochondrial
+Q9UKG9	Peroxisomal carnitine O-octanoyltransferase
+P02919	Penicillin-binding protein 1B
+P06010	Reaction center protein M chain
+Q9H0K1	Serine/threonine-protein kinase SIK2
+P31012	Tyrosine phenol-lyase
+Q96EN8	Molybdenum cofactor sulfurase
+Q59H18	Serine/threonine-protein kinase TNNI3K
+Q75Y35	Penicillin-binding protein 3
+P0A820	S-adenosylmethionine synthase
+P10844	Botulinum neurotoxin type B
+Q08257	Quinone oxidoreductase
+P02786	Transferrin receptor protein 1
+Q15428	Splicing factor 3A subunit 2
+P14207	Folate receptor beta
+P03706	Lysozyme
+P55809	Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial
+P33981	Dual specificity protein kinase TTK
+P71143	Scaffolding dockerin binding protein A
+Q07817	Bcl-2-like protein 1
+P07332	Tyrosine-protein kinase Fes/Fps
+P16184	Dihydrofolate reductase
+Q08751	Neopullulanase 2
+P68363	Tubulin alpha-1B chain
+Q9Y296	Trafficking protein particle complex subunit 4
+Q8IJ60	Methionine--tRNA ligase
+P47712	Cytosolic phospholipase A2
+O94925	Glutaminase kidney isoform, mitochondrial
+P19321	Botulinum neurotoxin type D
+P14174	Macrophage migration inhibitory factor
+Q5TDP6	Lengsin
+P53609	Geranylgeranyl transferase type-1 subunit beta
+P55786	Puromycin-sensitive aminopeptidase
+P00374	Dihydrofolate reductase
+P29813	Genome polyprotein
+Q15738	Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating
+Q9X2W8	PPH
+P20701	Integrin alpha-L
+D
+Q9UG56	Phosphatidylserine decarboxylase proenzyme
+Q8ILK3	60S ribosomal protein L21
+P0A110	Naphthalene 1,2-dioxygenase subunit alpha
+Q72EF3	Cytochrome c nitrite reductase, catalytic subunit NfrA, putative
+Q8IVA8	Glutamate decarboxylase 1 (Brain, 67kDa)
+Q99527	G-protein coupled estrogen receptor 1
+P16088	Pol polyprotein
+P27017	Aliphatic amidase expression-regulating protein
+Q16498	GM-CSF receptor alpha subunit
+P10176	Cytochrome c oxidase subunit 8A, mitochondrial
+P31025	Lipocalin-1
+P31153	S-adenosylmethionine synthase isoform type-2
+Q9Y234	Lipoyltransferase 1, mitochondrial
+P15531	Nucleoside diphosphate kinase A
+P07101	Tyrosine 3-monooxygenase
+P02359	30S ribosomal protein S7
+P01023	Alpha-2-macroglobulin
+P18843	NH(3)-dependent NAD(+) synthetase
+Q9BVJ7	Dual specificity protein phosphatase 23
+P48357	Leptin receptor
+P45973	Chromobox protein homolog 5
+Q8N4C8	Misshapen-like kinase 1
+P00781	Subtilisin DY
+P09467	Fructose-1,6-bisphosphatase 1
+P04062	Glucosylceramidase
+Q16881	Thioredoxin reductase 1, cytoplasmic
+P0A076	Gamma-hemolysin component B
+P35749	Myosin-11
+P19838	Nuclear factor NF-kappa-B p105 subunit
+P46597	Acetylserotonin O-methyltransferase
+P39639	Bacilysin biosynthesis protein BacB
+Q13224	Glutamate receptor ionotropic, NMDA 2B
+Q06203	Amidophosphoribosyltransferase
+Q02338	D-beta-hydroxybutyrate dehydrogenase, mitochondrial
+P29166	Iron hydrogenase 1
+Q46893	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+P41439	Folate receptor gamma
+P25779	Cruzipain
+P22352	Glutathione peroxidase 3
+P02788	Lactotransferrin
+P09598	Phospholipase C
+Q02221	Cytochrome c oxidase subunit 6A2, mitochondrial
+P09382	Galectin-1
+Q9AFC7	Glycosyltransferase GtfD
+P47872	Secretin receptor
+P9WNP5	1,4-Dihydroxy-2-naphthoyl-CoA synthase
+Q8SPQ9	Cyclooxygenase 2
+P55818	Bifunctional protein MdtA
+Q14534	Squalene monooxygenase
+Q48255	3-dehydroquinate dehydratase
+P31930	Cytochrome b-c1 complex subunit 1, mitochondrial
+P0AGG2	Acyl-CoA thioesterase 2
+O82839	Amylase
+P02671	Fibrinogen alpha chain
+Q9S400	3-phosphoshikimate 1-carboxyvinyltransferase
+Q9N587	Acetylcholine receptor subunit alpha-type unc-63
+P35625	Metalloproteinase inhibitor 3
+Q14524	Sodium channel protein type 5 subunit alpha
+Q9UKQ2	Disintegrin and metalloproteinase domain-containing protein 28
+P19883	Follistatin
+Q13131	5'-AMP-activated protein kinase
+P0A7W7	30S ribosomal protein S8
+P07359	Platelet glycoprotein Ib alpha chain
+P06864	Evolved beta-galactosidase subunit alpha
+O95168	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4
+O60895	Receptor activity-modifying protein 2
+Q9NVS9	Pyridoxine-5'-phosphate oxidase
+P06731	Carcinoembryonic antigen-related cell adhesion molecule 5
+Q9NR33	DNA polymerase epsilon subunit 4
+P22894	Neutrophil collagenase
+P08620	Fibroblast growth factor 4
+P9WKE1	Thymidylate kinase
+O60911	Cathepsin L2
+w
+P96113	Peptide deformylase
+Q12756	Kinesin-like protein KIF1A
+P9WNL9	Probable arabinosyltransferase A
+Q9NPC2	Potassium channel subfamily K member 9
+Q93088	Betaine--homocysteine S-methyltransferase 1
+Q9UN88	Gamma-aminobutyric acid receptor subunit theta
+P19099	Cytochrome P450 11B2, mitochondrial
+k
+P24289	Nuclease P1
+P25092	Heat-stable enterotoxin receptor
+P09871	Complement C1s subcomponent
+Q9UKE5	TRAF2 and NCK-interacting protein kinase
+P41180	Extracellular calcium-sensing receptor
+Q16873	Leukotriene C4 synthase
+P09788	4-cresol dehydrogenase [hydroxylating] flavoprotein subunit
+P07204	Thrombomodulin
+Q9I7A8	Peptide deformylase
+P22061	Protein-L-isoaspartate(D-aspartate) O-methyltransferase
+Q8EBR3	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Q04782	Lanosterol synthase
+P36955	Pigment epithelium-derived factor
+P24228	D-alanyl-D-alanine carboxypeptidase DacB
+P10902	L-aspartate oxidase
+Q9RYU4	NAD(P)H dehydrogenase (quinone)
+O95264	5-hydroxytryptamine receptor 3B
+P06870	Kallikrein-1
+Q9KQN0	Transcriptional regulator, HTH_3 family
+O75964	ATP synthase subunit g, mitochondrial
+P41595	5-hydroxytryptamine receptor 2B
+O14788	Tumor necrosis factor ligand superfamily member 11
+P05089	Arginase-1
+Q15238	Pregnancy-specific beta-1-glycoprotein 5
+Q4ZHU6	CAMP phosphodiesterase
+Q8ZPC0	Acetyl transferase
+P62917	60S ribosomal protein L8
+P0CG47	Polyubiquitin-B
+Q15788	Nuclear receptor coactivator 1
+P17600	Synapsin-1
+Q16206	Ecto-NOX disulfide-thiol exchanger 2
+P23837	Sensor protein PhoQ
+P03915	NADH-ubiquinone oxidoreductase chain 5
+P78362	SRSF protein kinase 2
+P35247	Pulmonary surfactant-associated protein D
+P49721	Proteasome subunit beta type-2
+Q9P0X4	Voltage-dependent T-type calcium channel subunit alpha-1I
+P00943	Triosephosphate isomerase
+Q96SW2	Protein cereblon
+P9WFF5	(2Z,6E)-farnesyl diphosphate synthase
+P29317	Ephrin type-A receptor 2
+Q12791	Calcium-activated potassium channel
+P07014	Succinate dehydrogenase iron-sulfur subunit
+P11586	C-1-tetrahydrofolate synthase, cytoplasmic
+Q05397	Focal adhesion kinase 1
+P0DOY7	30S ribosomal protein S17
+Q8IKF0	Eukaryotic initiation factor 4A
+Q8IHS5	40S ribosomal protein S21
+P17596	Fumarate reductase iron-sulfur subunit
+P10696	Alkaline phosphatase, placental-like
+v
+P48735	Isocitrate dehydrogenase [NADP], mitochondrial
+P22869	Methane monooxygenase component A alpha chain
+P56696	Potassium voltage-gated channel subfamily KQT member 4
+Q96IY4	Carboxypeptidase B2
+P37672	2,3-diketo-L-gulonate reductase
+P59998	Actin-related protein 2/3 complex subunit 4
+Q8IIA4	Threonine--tRNA ligase
+O00180	Potassium channel subfamily K member 1
+P15559	NAD(P)H dehydrogenase [quinone] 1
+P25053	Regulatory protein TenI
+P39019	40S ribosomal protein S19
+P48169	Gamma-aminobutyric acid receptor subunit alpha-4
+Q9BW92	Threonine--tRNA ligase, mitochondrial
+Q6ZZJ1	Putative uncharacterized protein tcp14
+Q5JPH6	Probable glutamate--tRNA ligase, mitochondrial
+Q92598	Heat shock protein 105 kDa
+P07864	L-lactate dehydrogenase C chain
+Q9HYX1	Uncharacterized protein
+O60264	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5
+Q8WVQ1	Soluble calcium-activated nucleotidase 1
+O75533	Splicing factor 3B subunit 1
+Q9H4B4	Serine/threonine-protein kinase PLK3
+Q81C15	Uncharacterized protein
+P61497	Deoxyribodipyrimidine photo-lyase
+Q9UGI5	Glutamic acid decarboxylase
+Q99884	Sodium-dependent proline transporter
+Q16322	Potassium voltage-gated channel subfamily A member 10
+P21453	Sphingosine 1-phosphate receptor 1
+Q9ZK53	Flavodoxin
+P77836	Pyrimidine-nucleoside phosphorylase
+Q15116	Programmed cell death protein 1
+P9WHT9	Proteasome subunit beta
+Q9BZV3	Interphotoreceptor matrix proteoglycan 2
+Q9Y619	Mitochondrial ornithine transporter 1
+P17787	Neuronal acetylcholine receptor subunit beta-2
+Q53119	AppA protein
+P19113	Histidine decarboxylase
+P9WK83	Octanoyltransferase
+Q9UDX4	SEC14-like protein 3
+P06702	Protein S100-A9
+P9WQN9	Diacylglycerol acyltransferase/mycolyltransferase Ag85C
+P39662	Flavohemoprotein
+P83794	Cytochrome b6-f complex iron-sulfur subunit
+Q16831	Uridine phosphorylase 1
+P00780	Subtilisin Carlsberg
+Q9Y689	ADP-ribosylation factor-like protein 5A
+P09373	Formate acetyltransferase 1
+O95831	Apoptosis-inducing factor 1, mitochondrial
+P0A6Q3	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+Q8IEM3	60S ribosomal protein L24, putative
+P17538	Chymotrypsinogen B
+P13500	C-C motif chemokine 2
+Q8GR64	Quinohemoprotein alcohol dehydrogenase ADH IIB
+P46940	Ras GTPase-activating-like protein IQGAP1
+Q9Y698	Voltage-dependent calcium channel gamma-2 subunit
+Q05514	Methylaspartate ammonia-lyase
+Q96FQ6	Protein S100-A16
+Q8IKR1	V-type H(+)-translocating pyrophosphatase, putative
+O15217	Glutathione S-transferase A4
+P0AD68	Peptidoglycan synthase FtsI
+P35610	Sterol O-acyltransferase 1
+Q45515	D-hydantoinase
+P0A6V7	Thiosulfate sulfurtransferase GlpE
+P0AF93	Enamine/imine deaminase
+Q8DW21	Putative uncharacterized protein
+P0A805	Ribosome-recycling factor
+Q16878	Cysteine dioxygenase type 1
+Q00496	Botulinum neurotoxin type E
+P23763	Vesicle-associated membrane protein 1
+P43985	tRNA (cmo5U34)-methyltransferase
+Q460N3	Poly [ADP-ribose] polymerase 15
+Q53707	MecA PBP2' (penicillin binding protein 2')
+Q9FA38	Formaldehyde-activating enzyme
+P27958	Genome polyprotein
+P00338	L-lactate dehydrogenase A chain
+P36544	Neuronal acetylcholine receptor subunit alpha-7
+Q9RZ04	Agmatinase, putative
+Q6NXR0	Interferon-inducible GTPase 5
+P0C0T5	Penicillin-insensitive murein endopeptidase
+Q9ZGI2	Type I polyketide synthase PikAIV
+P80075	C-C motif chemokine 8
+P42768	Wiskott-Aldrich syndrome protein
+Q66282	Genome polyprotein
+O60896	Receptor activity-modifying protein 3
+O07653	Cellulase B
+P34981	Thyrotropin Releasing Hormone Receptor
+C0H5C2	40S ribosomal protein S19
+P9WI81	Serine/threonine-protein kinase PknB
+P48068	Ribonuclease
+Q9Y694	Solute carrier family 22 member 7
+P19571	Glucan 1,4-alpha-maltohexaosidase
+P0AFI5	D-alanyl-D-alanine endopeptidase
+P15924	Desmoplakin
+P68871	Hemoglobin subunit beta
+P62807	Histone H2B type 1-C/E/F/G/I
+P0A433	Parathion hydrolase
+Q13621	Solute carrier family 12 member 1
+Q9KKU4	Organic hydroperoxide resistance protein, putative
+Q8TD30	Alanine aminotransferase 2
+P30086	Phosphatidylethanolamine-binding protein 1
+P03277	Hexon protein
+Q693P7	Alpha-7 nicotinic cholinergic receptor subunit
+O95749	Geranylgeranyl pyrophosphate synthase
+P22413	Ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+Q9X0N8	6-phosphogluconolactonase
+P45314	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+P20648	Potassium-transporting ATPase alpha chain 1
+P43099	Ornithine decarboxylase, inducible
+Q9Y2I1	Nischarin
+Q14680	Maternal embryonic leucine zipper kinase
+Q92769	Histone deacetylase 2
+Q14457	Beclin-1
+P54997	2'-hydroxybiphenyl-2-sulfinate desulfinase
+P41052	Membrane-bound lytic murein transglycosylase B
+Q9RQB9	Cytochrome c''
+P37321	Extended-spectrum beta-lactamase PER-1
+P0A3D9	Flavodoxin
+Q8WXA8	5-hydroxytryptamine receptor 3C
+4
+P04731	Metallothionein-1A
+P06727	Apolipoprotein A-IV
+Q08289	Voltage-dependent L-type calcium channel subunit beta-2
+Q9NWZ5	Uridine-cytidine kinase-like 1
+P0A6J8	D-alanine--D-alanine ligase A
+Q14500	ATP-sensitive inward rectifier potassium channel 12
+P08912	Muscarinic acetylcholine receptor M5
+O60931	Cystinosin
+P43026	Growth/differentiation factor 5
+P20472	Parvalbumin alpha
+P31949	Protein S100-A11
+P49354	Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha
+P05618	Cyclomaltodextrin glucanotransferase
+P0AD65	Penicillin-binding protein 2
+O15530	3-phosphoinositide-dependent protein kinase 1
+P13956	rRNA adenine N-6-methyltransferase
+P03422	Phosphoprotein
+P21333	Filamin-A
+O95864	Fatty acid desaturase 2
+Q07954	Prolow-density lipoprotein receptor-related protein 1
+P23141	Liver carboxylesterase 1
+P27907	Neuraminidase
+O14936	Peripheral plasma membrane protein CASK
+P0A884	Thymidylate synthase
+P12488	Envelope glycoprotein gp160
+P09486	SPARC
+P0A6H7	ATP-dependent protease ATPase subunit HslU
+P35568	Insulin receptor substrate 1
+P15121	Aldose reductase
+Q16613	Serotonin N-acetyltransferase
+Q53ET4	Serine hydroxymethyltransferase
+Q8GEZ8	B12-independent glycerol dehydratase
+L
+O14521	Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial
+Q59288	Chondroitinase-AC
+P32427	3-carboxy-cis,cis-muconate cycloisomerase
+Q07020	60S ribosomal protein L18
+L0LZJ6	30S ribosomal protein S11
+Q92569	Phosphatidylinositol 3-kinase regulatory subunit gamma
+Q9UHC9	Niemann-Pick C1-like protein 1
+P12821	Angiotensin-converting enzyme
+P29899	Cytochrome c-L
+Q9H252	Potassium voltage-gated channel subfamily H member 6
+Q9BXA5	Succinate receptor 1
+O95954	Formimidoyltransferase-cyclodeaminase
+P0AGE0	Single-stranded DNA-binding protein
+Q5L2G3	Uncharacterized oxidoreductase CzcO-like
+P05230	Fibroblast growth factor 1
+Q9NR63	Cytochrome P450 26B1
+P29323	Ephrin type-B receptor 2
+P41146	Nociceptin receptor
+P0A112	Naphthalene 1,2-dioxygenase subunit beta
+Q5EK40	Cholix toxin
+Q6GI75	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+P09936	Ubiquitin carboxyl-terminal hydrolase isozyme L1
+O14964	Hepatocyte growth factor-regulated tyrosine kinase substrate
+P05093	Steroid 17-alpha-hydroxylase/17,20 lyase
+P00568	Adenylate kinase isoenzyme 1
+P56868	Glutamate racemase
+P69856	Probable N-acetylneuraminic acid outer membrane channel protein NanC
+P15382	Potassium voltage-gated channel subfamily E member 1
+P29320	Ephrin type-A receptor 3
+P23921	Ribonucleoside-diphosphate reductase large subunit
+P15879	Mono-ADP-ribosyltransferase C3
+P33447	Tyrosine aminotransferase
+P61978	Heterogeneous nuclear ribonucleoprotein K
+Q9BVS4	Serine/threonine-protein kinase RIO2
+Q12874	Splicing factor 3A subunit 3
+P14868	Aspartate--tRNA ligase, cytoplasmic
+Q86YZ3	Hornerin
+P36275	Head decoration protein
+P83787	Cytochrome c peroxidase
+P39805	Transcription antiterminator LicT
+Q9UJU2	Lymphoid enhancer-binding factor 1
+Q07412	Triosephosphate isomerase
+O75460	Serine/threonine-protein kinase/endoribonuclease IRE1
+P04217	Alpha-1B-glycoprotein
+Q9NRP7	Serine/threonine-protein kinase 36
+Q7NSZ5	Putative uncharacterized protein
+C6KTA4	Pyruvate kinase
+P9WPB7	Cyclopropane mycolic acid synthase 1
+P63027	Vesicle-associated membrane protein 2
+Q38087	DNA polymerase
+P04234	T-cell surface glycoprotein CD3 delta chain
+Q9BW91	ADP-ribose pyrophosphatase, mitochondrial
+P51812	Ribosomal protein S6 kinase alpha-3
+Q746L7	2-keto-3-deoxy-gluconate kinase
+P35241	Radixin
+Q9X5N2	Prolyl endopeptidase Pep
+Q9UDW1	Cytochrome b-c1 complex subunit 9
+Q9BUF5	Tubulin beta-6 chain
+Q99653	Calcineurin B homologous protein 1
+P09417	Dihydropteridine reductase
+P00935	Cystathionine gamma-synthase
+P83689	Orange carotenoid-binding protein
+Q16478	Glutamate receptor ionotropic, kainate 5
+P07333	Macrophage colony-stimulating factor 1 receptor
+P31350	Ribonucleoside-diphosphate reductase subunit M2
+P0ACC1	Release factor glutamine methyltransferase
+P0A808	Ribosome-recycling factor
+Q9Y6M4	Casein kinase I isoform gamma-3
+Q56691	NADPH-flavin oxidoreductase
+Q96EB6	NAD-dependent protein deacetylase sirtuin-1
+P20851	C4b-binding protein beta chain
+P60953	Cell division control protein 42 homolog
+P9WIB9	Secreted chorismate mutase
+P31995	Low affinity immunoglobulin gamma Fc region receptor II-c
+P49908	Selenoprotein P
+P18640	Botulinum neurotoxin type C1
+Q3JUV5	Inorganic pyrophosphatase
+P47775	G-protein coupled receptor 12
+P31785	Cytokine receptor common subunit gamma
+P59796	Glutathione peroxidase 6
+P28221	5-hydroxytryptamine receptor 1D
+P29372	DNA-3-methyladenine glycosylase
+O67987	Chlorocatechol 1,2-dioxygenase
+P35590	Tyrosine-protein kinase receptor Tie-1
+P18825	Alpha-2C adrenergic receptor
+P06434	30 kDa immediate-early protein 2
+Q99928	Gamma-aminobutyric acid receptor subunit gamma-3
+P11998	6,7-dimethyl-8-ribityllumazine synthase
+P80099	4-alpha-glucanotransferase
+P22939	Farnesyl diphosphate synthase
+O14730	Serine/threonine-protein kinase RIO3
+Q5T601	Probable G-protein coupled receptor 110
+Q04760	Lactoylglutathione lyase
+Q97E82	Probable 2-phosphosulfolactate phosphatase
+P11802	Cyclin-dependent kinase 4
+P61278	Somatostatin
+P31749	RAC-alpha serine/threonine-protein kinase
+P60568	Interleukin-2
+Q03403	Trefoil factor 2
+Q15758	Neutral amino acid transporter B(0)
+P54760	Ephrin type-B receptor 4
+P51884	Lumican
+P41594	Metabotropic glutamate receptor 5
+P26394	dTDP-4-dehydrorhamnose 3,5-epimerase
+P00148	Cytochrome c'
+P16220	Cyclic AMP-responsive element-binding protein 1
+Q9BV57	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase
+Q81JF8	Enoyl-[acyl-carrier-protein] reductase [NADH]
+Q13188	Serine/threonine-protein kinase 3
+P21281	V-type proton ATPase subunit B, brain isoform
+Q92945	Far upstream element-binding protein 2
+P21266	Glutathione S-transferase Mu 3
+P04825	Aminopeptidase N
+T1RTG8	Serine repeat antigen 5
+P20645	Cation-dependent mannose-6-phosphate receptor
+P0AC13	Dihydropteroate synthase
+P12277	Creatine kinase B-type
+Q8I5Y3	Eukaryotic translation initiation factor 3 subunit C
+P16788	Serine/threonine protein kinase UL97
+P01920	HLA class II histocompatibility antigen, DQ beta 1 chain
+Q6TGC4	Protein-arginine deiminase type-6
+P67775	Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform
+P00918	Carbonic anhydrase 2
+P24024	DNA polymerase/reverse transcriptase
+P03007	DNA polymerase III subunit epsilon
+P09429	High mobility group protein B1
+P37173	TGF-beta receptor type-2
+P00587	Diphtheria toxin
+Q9BVM4	Gamma-glutamylaminecyclotransferase
+Q15111	Inactive phospholipase C-like protein 1
+Q94655	Glutathione reductase
+P63185	Tyrosine-protein kinase transforming protein Src
+P14900	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+P41020	Urease subunit alpha
+Q51705	Nitrous-oxide reductase
+P51800	Chloride channel protein ClC-Ka
+P20083	DNA topoisomerase 4 subunit B
+Q9Y5R8	Trafficking protein particle complex subunit 1
+P00533	Epidermal growth factor receptor
+O75676	Ribosomal protein S6 kinase alpha-4
+P48065	Sodium- and chloride-dependent betaine transporter
+Q93CA2	Beta-lactamase AmpC
+P17291	30S ribosomal protein S7
+O43497	Voltage-dependent T-type calcium channel subunit alpha-1G
+P53608	Arginase
+O75900	Matrix metalloproteinase-23
+O95479	GDH/6PGL endoplasmic bifunctional protein
+P16112	Aggrecan core protein
+P21917	D(4) dopamine receptor
+P49588	Alanine--tRNA ligase, cytoplasmic
+P16581	E-selectin
+P37268	Squalene synthase
+P12915	Genome polyprotein
+Q8III5	Insulinase, putative
+P0AES4	DNA gyrase subunit A
+P48544	G protein-activated inward rectifier potassium channel 4
+Q9UHY7	Enolase-phosphatase E1
+P38516	50S ribosomal protein L4
+O60658	High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A
+P11684	Uteroglobin
+P30996	Botulinum neurotoxin type F
+Q13423	NAD(P) transhydrogenase, mitochondrial
+O06644	Formyl-coenzyme A transferase
+Q9FDN7	Nitric oxide reductase
+P05364	Beta-lactamase
+P24093	Dr hemagglutinin structural subunit
+Q59FW3	Thyroid hormone receptor, alpha isoform 1 variant
+P19909	Immunoglobulin G-binding protein G
+Q8AAK6	Beta-mannosidase
+Q9Q2G8	V-1 protease
+Q51782	Phosphonoacetate hydrolase
+O95750	Fibroblast growth factor 19
+P16932	2,2-dialkylglycine decarboxylase
+P45381	Aspartoacylase
+P46939	Utrophin
+x
+P0A7X3	30S ribosomal protein S9
+Q9WXS0	Transcriptional regulator, IclR family
+Q8IDI5	60S ribosomal protein L17, putative
+Q9UNQ0	ATP-binding cassette sub-family G member 2
+Q9NP56	cAMP-specific 3',5'-cyclic phosphodiesterase 7B
+Q06609	DNA repair protein RAD51 homolog 1
+P26664	Genome polyprotein
+P13632	C4-dicarboxylate transport transcriptional regulatory protein DctD
+P08686	Steroid 21-hydroxylase
+Q14432	cGMP-inhibited 3',5'-cyclic phosphodiesterase A
+O66496	2-dehydro-3-deoxyphosphooctonate aldolase
+Q00536	Cyclin-dependent kinase 16
+P42685	Tyrosine-protein kinase FRK
+Q9UGM6	Tryptophan--tRNA ligase, mitochondrial
+P82599	Cytochrome c-553
+P21554	Cannabinoid receptor 1
+Q51225	Outer membrane protein p64k or PM-6
+Q9Y289	Sodium-dependent multivitamin transporter
+Q16816	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform
+P19634	Sodium/hydrogen exchanger 1
+Q56313	Holliday junction ATP-dependent DNA helicase RuvB
+P19711	Genome polyprotein
+O14983	Sarcoplasmic/endoplasmic reticulum calcium ATPase 1
+Q8NFW8	N-acylneuraminate cytidylyltransferase
+P0C0Y7	Reaction center protein H chain
+P9WGY3	Putative regulator of ribonuclease activity
+P0A7S3	30S ribosomal protein S12
+P07360	Complement component C8 gamma chain
+P50453	Serpin B9
+P48728	Aminomethyltransferase, mitochondrial
+P15289	Arylsulfatase A
+P96618	Holo-[acyl-carrier-protein] synthase
+Q8I5H4	Polyadenylate-binding protein
+P0A9S1	Lactaldehyde reductase
+P45880	Voltage-dependent anion-selective channel protein 2
+Q07955	Serine/arginine-rich splicing factor 1
+P9WHU1	Proteasome subunit alpha
+p
+Q9L9D7	Cocaine esterase
+P05155	Plasma protease C1 inhibitor
+P00519	Tyrosine-protein kinase ABL1
+Q08493	cAMP-specific 3',5'-cyclic phosphodiesterase 4C
+P11309	Serine/threonine-protein kinase pim-1
+P18031	Tyrosine-protein phosphatase non-receptor type 1
+Q96L21	60S ribosomal protein L10-like
+P0AET8	7-alpha-hydroxysteroid dehydrogenase
+Q8NFJ5	Retinoic acid-induced protein 3
+Q819U0	Peptide deformylase 1
+P48443	Retinoic acid receptor RXR-gamma
+P78356	Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+P15104	Glutamine synthetase
+P44725	Ribose-5-phosphate isomerase A
+P42443	Protein RecA
+P38936	Cyclin-dependent kinase inhibitor 1
+P29508	Serpin B3
+Q5SLQ0	30S ribosomal protein S18
+Q46730	Truncated transposase
+Q01959	Sodium-dependent dopamine transporter
+Q5T4S7	E3 ubiquitin-protein ligase UBR4
+P17181	Interferon alpha/beta receptor 1
+P07108	Acyl-CoA-binding protein
+P0CI79	Thymidylate synthase 1
+Q9UBN7	Histone deacetylase 6
+Q9HVJ6	Probable outer membrane protein
+Q9UJX1	Alanine-glyoxylate aminotransferase homolog
+Q01234	Oxygen-insensitive NAD(P)H nitroreductase
+Q6PYX1	Hepatitis B virus receptor binding protein
+P0A8T7	DNA-directed RNA polymerase subunit beta'
+P0A759	Glucosamine-6-phosphate deaminase
+Q9Y6L7	Tolloid-like protein 2
+P41597	C-C chemokine receptor type 2
+Q9H598	Vesicular inhibitory amino acid transporter
+Q07001	Acetylcholine receptor subunit delta
+Q96PD7	Diacylglycerol O-acyltransferase 2
+Q9UK32	Ribosomal protein S6 kinase alpha-6
+P13647	Keratin, type II cytoskeletal 5
+P20906	Benzoylformate decarboxylase
+P11233	Ras-related protein Ral-A
+P04118	Colipase
+P80374	30S ribosomal protein S9
+P05041	Para-aminobenzoate synthase component 1
+Q9RUZ0	Citrate lyase subunit beta-like protein
+P08877	Phosphocarrier protein HPr
+P67936	Tropomyosin alpha-4 chain
+O94768	Serine/threonine-protein kinase 17B
+P53611	Geranylgeranyl transferase type-2 subunit beta
+Q9NPC1	Leukotriene B4 receptor 2
+Q86WA6	Valacyclovir hydrolase
+Q99707	Methionine synthase
+P49841	Glycogen synthase kinase-3 beta
+P0AG16	Amidophosphoribosyltransferase
+P06732	Creatine kinase M-type
+P13861	cAMP-dependent protein kinase type II-alpha regulatory subunit
+F
+Q9NPJ3	Acyl-coenzyme A thioesterase 13
+P20594	Atrial natriuretic peptide receptor 2
+Q16539	Mitogen-activated protein kinase 14
+Q86XF0	Dihydrofolate reductase, mitochondrial
+P23526	Adenosylhomocysteinase
+Q8RQE8	DNA-directed RNA polymerase subunit beta'
+P00720	Lysozyme
+O95182	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7
+P13650	Quinoprotein glucose dehydrogenase B
+Q01344	Interleukin-5 receptor subunit alpha
+P46336	Protein IolS
+Q9NSD5	Sodium- and chloride-dependent GABA transporter 2
+P14927	Cytochrome b-c1 complex subunit 7
+Q93LE9	Peptide deformylase
+P40394	Alcohol dehydrogenase class 4 mu/sigma chain
+Q8NFA2	NADPH oxidase organizer 1
+P80380	30S ribosomal protein S20
+Q9KPI8	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Q9ULX7	Carbonic anhydrase 14
+P84139	Adenylate kinase
+Q08638	Beta-glucosidase A
+Q9Y6M9	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9
+Q9H093	NUAK family SNF1-like kinase 2
+P22897	Macrophage mannose receptor 1
+P28908	Tumor necrosis factor receptor superfamily member 8
+P48551	Interferon alpha/beta receptor 2
+O15169	Axin-1
+O67648	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+O35000	Glucosamine-6-phosphate deaminase 1
+Q02834	Sialidase
+Q9WZS7	Alcohol dehydrogenase (NADP(+))
+P28838	Cytosol aminopeptidase
+P04229	HLA class II histocompatibility antigen, DRB1-1 beta chain
+P11216	Glycogen phosphorylase, brain form
+Q9ULU8	Calcium-dependent secretion activator 1
+Q47644	Orf protein
+Q02768	Cytochrome b
+P01127	Platelet-derived growth factor subunit B
+P19367	Hexokinase-1
+P06881	Calcitonin gene-related peptide 1
+Q13873	Bone morphogenetic protein receptor type-2
+Q16602	Calcitonin gene-related peptide type 1 receptor
+O95299	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial
+Q9ULY5	C-type lectin domain family 4 member E
+Q99497	Protein DJ-1
+P25524	Cytosine deaminase
+Q8IBS5	Calcium-dependent protein kinase 4
+C3T8E2	Multidrug resistance protein MdtK
+Q9Z4N6	Iron binding protein FbpA
+P22619	Methylamine dehydrogenase light chain
+P63208	S-phase kinase-associated protein 1
+P60900	Proteasome subunit alpha type-6
+D6R448	Penicillin-binding protein 2
+O60664	Perilipin-3
+O00408	cGMP-dependent 3',5'-cyclic phosphodiesterase
+P38940	Neopullulanase
+P22340	Sucrose porin
+P96945	Glycosyl transferase
+Q9F663	Carbapenem-hydrolyzing beta-lactamase KPC
+Q9NUB1	Acetyl-coenzyme A synthetase 2-like, mitochondrial
+Q99436	Proteasome subunit beta type-7
+P05108	Cholesterol side-chain cleavage enzyme, mitochondrial
+P50993	Sodium/potassium-transporting ATPase subunit alpha-2
+Q837V6	DNA ligase
+Q16270	Insulin-like growth factor-binding protein 7
+Q9UQB9	Aurora kinase C
+P23083	Ig heavy chain V-I region ND
+P0AB71	Fructose-bisphosphate aldolase class 2
+P23368	NAD-dependent malic enzyme, mitochondrial
+P49069	Calcium signal-modulating cyclophilin ligand
+P31391	Somatostatin receptor type 4
+Q8IB78	Nucleoside transporter 2
+P13196	5-aminolevulinate synthase, nonspecific, mitochondrial
+P53597	Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial
+O75438	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1
+O15304	Apoptosis regulatory protein Siva
+Q59HE2	Ornithine aminotransferase variant
+O67135	Acetoin utilization protein
+P29401	Transketolase
+P19971	Thymidine phosphorylase
+O77323	T-complex protein 1 subunit eta
+P55789	FAD-linked sulfhydryl oxidase ALR
+Q15075	Early endosome antigen 1
+P00387	NADH-cytochrome b5 reductase 3
+Q9HCC0	Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial
+Q9NTG7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial
+Q07982	Glucose--fructose oxidoreductase
+P44886	Uncharacterized acyl-CoA thioester hydrolase HI_0827
+P0A0N5	HTH-type transcriptional regulator QacR
+P14618	Pyruvate kinase PKM
+P00490	Maltodextrin phosphorylase
+P32320	Cytidine deaminase
+Q15031	Probable leucine--tRNA ligase, mitochondrial
+Q51504	Penicillin-binding protein 3
+P24298	Alanine aminotransferase 1
+P11485	Neuraminidase
+P47929	Galectin-7
+Q7BJM5	Class B carbapenemase VIM-2
+P0ABQ0	Coenzyme A biosynthesis bifunctional protein CoaBC
+Q9P0Z9	Peroxisomal sarcosine oxidase
+P0A6M2	Disulfide bond formation protein B
+P23367	DNA mismatch repair protein MutL
+Q96C24	Synaptotagmin-like protein 4
+P22301	Interleukin-10
+Q86UE8	Serine/threonine-protein kinase tousled-like 2
+Q9H3Y6	Tyrosine-protein kinase Srms
+O14976	Cyclin-G-associated kinase
+P22983	Pyruvate, phosphate dikinase
+Q5SKC5	Uracil-DNA glycosylase
+P02749	Beta-2-glycoprotein 1
+P62750	60S ribosomal protein L23a
+P07998	Ribonuclease pancreatic
+Q9BYC2	Succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial
+Q15858	Sodium channel protein type 9 subunit alpha
+P18465	HLA class I histocompatibility antigen, B-57 alpha chain
+P10930	Short tail fiber protein
+P15925	Folylpolyglutamate synthase
+O60603	Toll-like receptor 2
+6
+Q5VZ30	Glutamate decarboxylase 2 (Pancreatic islets and brain, 65kDa)
+Q02218	2-oxoglutarate dehydrogenase, mitochondrial
+P45452	Collagenase 3
+P9WQB3	2-isopropylmalate synthase
+Q9X278	Probable butyrate kinase 2
+P28472	Gamma-aminobutyric acid receptor subunit beta-3
+P30837	Aldehyde dehydrogenase X, mitochondrial
+Q51793	Phenazine biosynthesis protein PhzG
+P02930	Outer membrane protein TolC
+Q9BTZ2	Dehydrogenase/reductase SDR family member 4
+Q0VD83	Apolipoprotein B receptor
+P10620	Microsomal glutathione S-transferase 1
+P42081	T-lymphocyte activation antigen CD86
+Q9WYE2	Alpha-L-fucosidase, putative
+O05935	2-oxo-1,2-dihydroquinoline 8-monooxygenase, oxygenase component
+Q88H32	Ornithine cyclodeaminase
+Q9UBF8	Phosphatidylinositol 4-kinase beta
+Q8N1C3	Gamma-aminobutyric acid receptor subunit gamma-1
+P0A7S9	30S ribosomal protein S13
+P80357	Arginine N-succinyltransferase subunit alpha
+P08648	Integrin alpha-5
+P29377	Protein S100-G
+P22557	5-aminolevulinate synthase, erythroid-specific, mitochondrial
+Q8GB52	Extracellular subtilisin-like serine proteinase
+t
+Q8I0V4	Endoplasmin homolog, putative
+O60513	Beta-1,4-galactosyltransferase 4
+P51606	N-acylglucosamine 2-epimerase
+Q48152	Adhesin
+Q92696	Geranylgeranyl transferase type-2 subunit alpha
+Q8IJC6	60S ribosomal protein L3
+Q96RI0	Proteinase-activated receptor 4
+P9WKD7	Ribose-5-phosphate isomerase B
+P02974	Fimbrial protein
+P40261	Nicotinamide N-methyltransferase
+Q9UNN8	Endothelial protein C receptor
+P0A108	1,2-dihydroxynaphthalene dioxygenase
+Q8RQE9	DNA-directed RNA polymerase subunit beta
+B4YQT9	Gyrase A
+P0C0L4	Complement C4-A
+P0AGC3	Soluble lytic murein transglycosylase
+P0CK31	RNA-directed RNA polymerase lambda-3
+P14169	CDP-paratose 2-epimerase
+Q9Y5S8	NADPH oxidase 1
+Q08499	cAMP-specific 3',5'-cyclic phosphodiesterase 4D
+Q9BQB6	Vitamin K epoxide reductase complex subunit 1
+P11488	Guanine nucleotide-binding protein G(t) subunit alpha-1
+Q14330	N-arachidonyl glycine receptor
+Q96Q83	Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3
+Q14872	Metallothionein
+P00915	Carbonic anhydrase 1
+P11230	Acetylcholine receptor subunit beta
+Q8IL86	Sec62, putative
+Q6GJI1	Methionine--tRNA ligase
+O68600	4-chlorobenzoyl CoA dehalogenase
+Q9F6D4	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Q15569	Dual specificity testis-specific protein kinase 1
+P05090	Apolipoprotein D
+Q9RRU8	S-ribosylhomocysteine lyase
+Q16288	NT-3 growth factor receptor
+Q9HTN2	Acetylglutamate kinase
+P42345	Serine/threonine-protein kinase mTOR
+Q9NPH2	Inositol-3-phosphate synthase 1
+Q46704	TraO protein
+P18510	Interleukin-1 receptor antagonist protein
+Q8NFD2	Ankyrin repeat and protein kinase domain-containing protein 1
+P63092	Guanine nucleotide-binding protein G(s) subunit alpha isoforms short
+P29827	Lantibiotic cinnamycin
+Q13164	Mitogen-activated protein kinase 7
+P75914	Probable phosphatase YcdX
+Q9NPA1	Calcium-activated potassium channel subunit beta-3
+P02943	Maltoporin
+Q8GI16	Ferredoxin CarAc
+Q46702	TraN protein
+P61888	Glucose-1-phosphate thymidylyltransferase 2
+Q92876	Kallikrein-6
+P07203	Glutathione peroxidase 1
+Q9HBH9	MAP kinase-interacting serine/threonine-protein kinase 2
+P30920	Cyclomaltodextrin glucanotransferase
+P31040	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+Q8IM16	Plasmepsin IV
+P13686	Tartrate-resistant acid phosphatase type 5
+P12235	ADP/ATP translocase 1
+P11350	Respiratory nitrate reductase 1 gamma chain
+P16144	Integrin beta-4
+Q03181	Peroxisome proliferator-activated receptor delta
+P00439	Phenylalanine-4-hydroxylase
+O76054	SEC14-like protein 2
+P00813	Adenosine deaminase
+P07942	Laminin subunit beta-1
+O95298	NADH dehydrogenase [ubiquinone] 1 subunit C2
+P69923	L-fucose isomerase
+P37802	Transgelin-2
+P02458	Collagen alpha-1(II) chain
+P31937	3-hydroxyisobutyrate dehydrogenase, mitochondrial
+Q8KN66	WbpP
+P14090	Endoglucanase C
+)
+Q15942	Zyxin
+P34741	Syndecan-2
+P40939	Trifunctional enzyme subunit alpha, mitochondrial
+O43252	Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1
+P35557	Glucokinase
+P30305	M-phase inducer phosphatase 2
+Q8TET4	Neutral alpha-glucosidase C
+O14672	Disintegrin and metalloproteinase domain-containing protein 10
+P63244	Receptor of activated protein C kinase 1
+P07515	Phosphocarrier protein HPr
+P17658	Potassium voltage-gated channel subfamily A member 6
+P44160	Putative glucose-6-phosphate 1-epimerase
+P20839	Inosine-5'-monophosphate dehydrogenase 1
+Q72874	Human immunodeficiency virus type 1 protease
+P00748	Coagulation factor XII
+P83844	ADP-ribose pyrophosphatase
+Q16719	Kynureninase
+P76187	Oxidoreductase YdhF
+Q9Y463	Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+P27348	14-3-3 protein theta
+O75874	Isocitrate dehydrogenase [NADP] cytoplasmic
+P0AEZ1	5,10-methylenetetrahydrofolate reductase
+P51170	Amiloride-sensitive sodium channel subunit gamma
+Q86V86	Serine/threonine-protein kinase pim-3
+O95665	Neurotensin receptor type 2
+Q1LCS4	3-hydroxyanthranilate 3,4-dioxygenase
+O14965	Aurora kinase A
+O15239	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1
+O15528	25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial
+O67931	Sulfide-quinone reductase
+Q07869	Peroxisome proliferator-activated receptor alpha
+P46439	Glutathione S-transferase Mu 5
+Q9Y4U1	Methylmalonic aciduria and homocystinuria type C protein
+P23415	Glycine receptor (alpha-1/beta)
+A0A1Q8GFY7	Penicillin-binding protein 1 (PBP1)
+P04798	Cytochrome P450 1A1
+O14793	Growth/differentiation factor 8
+O14874	[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial
+Q15493	Regucalcin
+P09063	Dihydrolipoyl dehydrogenase
+P01024	Complement C3
+O14757	Serine/threonine-protein kinase Chk1
+Q8IC05	Heat shock protein 90
+O66145	3-methylaspartate ammonia-lyase
+P05798	Guanyl-specific ribonuclease Sa
+O15399	Glutamate receptor ionotropic, NMDA 2D
+P34903	Gamma-aminobutyric acid receptor subunit alpha-3
+Q58L87	TetR family transcriptional repressor LfrR
+O00299	Chloride intracellular channel protein 1
+Q0S9X1	Catechol 2,3-dioxygenase
+Q06418	Tyrosine-protein kinase receptor TYRO3
+P00746	Complement factor D
+P14324	Farnesyl pyrophosphate synthase
+Q70KI2	Penicillin-binding protein 2
+P0C0X8	Cytochrome c2
+Q9NPA2	Matrix metalloproteinase-25
+Q03736	Cytochrome c oxidase subunit 2
+Q4L5E3	Phenylalanine--tRNA ligase alpha subunit
+O60488	Long-chain-fatty-acid--CoA ligase 4
+P05112	Interleukin-4
+P0C1U9	DNA topoisomerase 4 subunit A
+P98194	Calcium-transporting ATPase type 2C member 1
+Q9X1B3	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+P09917	Arachidonate 5-lipoxygenase
+P07650	Thymidine phosphorylase
+Q8WY07	Cationic amino acid transporter 3
+P14416	D(2) dopamine receptor
+Q26609	Hexokinase
+Q819K2	Peptide deformylase 2
+P17802	A/G-specific adenine glycosylase
+Q6GGU4	3-dehydroquinate synthase
+Q5JVS0	Intracellular hyaluronan-binding protein 4
+Q9NWZ3	Interleukin-1 receptor-associated kinase 4
+P47989	Xanthine dehydrogenase/oxidase
+P32297	Neuronal acetylcholine receptor subunit alpha-3
+Q72497	Gag polyprotein
+Q9Y2K2	Serine/threonine-protein kinase SIK3
+P10589	COUP transcription factor 1
+P22676	Calretinin
+Q15761	Neuropeptide Y receptor type 5
+P40763	Signal transducer and activator of transcription 3
+P26010	Integrin beta-7
+P09238	Stromelysin-2
+P03372	Estrogen receptor alpha
+P00132	Cytochrome c3
+P12271	Retinaldehyde-binding protein 1
+P12004	Proliferating cell nuclear antigen
+P41021	Urease subunit beta
+Q59FK2	Selenocysteine lyase variant
+O75746	Calcium-binding mitochondrial carrier protein Aralar1
+Q9Y286	Sialic acid-binding Ig-like lectin 7
+P62658	30S ribosomal protein S17
+P48632	Ferripyoverdine receptor
+Q8IJK8	60S ribosomal protein L30e, putative
+P43119	Prostacyclin receptor
+C0H546	Chaperone, putative
+O14841	5-oxoprolinase
+O43612	Orexin
+P27708	CAD protein
+P0A3M6	Penicillin-binding protein 2B
+Q9H228	Sphingosine 1-phosphate receptor 5
+P50870	Streptogramin A acetyltransferase
+Q13393	Phospholipase D1
+P11137	Microtubule-associated protein 2
+P23378	Glycine dehydrogenase [decarboxylating], mitochondrial
+P02461	Collagen alpha-1(III) chain
+P26841	Chloramphenicol acetyltransferase
+P00322	Flavodoxin
+Q83M58	Geranyltranstransferase (Farnesyldiphosphate synthase)
+P07202	Thyroid peroxidase
+Q9FBC5	Trans-2-enoyl-ACP reductase II
+P13423	Protective antigen
+Q13153	Serine/threonine-protein kinase PAK 1
+P10909	Clusterin
+Q56408	Cytochrome c oxidase subunit 1
+P29120	Neuroendocrine convertase 1
+P9WGR1	Enoyl-[acyl-carrier-protein] reductase [NADH]
+P01374	Lymphotoxin-alpha
+P26660	Genome polyprotein
+Q53728	Phospholipase D
+Q81L49	Sortase B
+Q9NSE4	Isoleucine--tRNA ligase, mitochondrial
+O00141	Serine/threonine-protein kinase Sgk1
+P06280	Alpha-galactosidase A
+P00861	Diaminopimelate decarboxylase
+Q08460	Calcium-activated potassium channel subunit alpha-1
+O43613	Orexin receptor type 1
+O15440	Multidrug resistance-associated protein 5
+P52597	Heterogeneous nuclear ribonucleoprotein F
+P30939	5-hydroxytryptamine receptor 1F
+P00811	Beta-lactamase
+P21728	D(1) dopamine receptor
+P03367	Gag-Pol polyprotein
+O95255	Multidrug resistance-associated protein 6
+Q15800	Methylsterol monooxygenase 1
+Q27743	L-lactate dehydrogenase
+Q13885	Tubulin beta-2A chain
+P50416	Carnitine O-palmitoyltransferase 1, liver isoform
+Q14416	Metabotropic glutamate receptor 2
+P00953	Tryptophan--tRNA ligase
+Q02155	Hexokinase
+Q8IBI3	Proteasome subunit alpha type
+Q01362	High affinity immunoglobulin epsilon receptor subunit beta
+P25789	Proteasome subunit alpha type-4
+O43447	Peptidyl-prolyl cis-trans isomerase H
+P0A749	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+P36956	Sterol regulatory element-binding protein 1
+Q8TD19	Serine/threonine-protein kinase Nek9
+P06968	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+P48066	Sodium- and chloride-dependent GABA transporter 3
+O43424	Glutamate receptor ionotropic, delta-2
+P03950	Angiogenin
+Q02054	Actinorhodin polyketide synthase acyl carrier protein
+P32004	Neural cell adhesion molecule L1
+Q14376	UDP-glucose 4-epimerase
+Q9KWT6	AlgQ1
+P9WND1	Dihydropteroate synthase 1
+P01850	T-cell receptor beta-1 chain C region
+P
+P35243	Recoverin
+P06608	L-asparaginase
+P31224	Acriflavine resistance protein B
+P12081	Histidine--tRNA ligase, cytoplasmic
+P06971	Ferrichrome-iron receptor
+Q75WK2	Aminotransferase
+P02776	Platelet factor 4
+P15328	Folate receptor alpha
+P03023	Lactose operon repressor
+Q9UBQ6	Exostosin-like 2
+P13726	Tissue factor
+P42328	Alcohol dehydrogenase
+P23458	Tyrosine-protein kinase JAK1
+P04629	High affinity nerve growth factor receptor
+O43525	Potassium voltage-gated channel subfamily KQT member 3
+Q13237	cGMP-dependent protein kinase 2
+P19784	Casein kinase II subunit alpha'
+P11717	Cation-independent mannose-6-phosphate receptor
+P95468	Aromatic-amino-acid aminotransferase
+Q13370	cGMP-inhibited 3',5'-cyclic phosphodiesterase B
+P52687	Sensor histidine kinase CitA
+P62219	Protein RecA
+Q14520	Hyaluronan-binding protein 2
+Q14749	Glycine N-methyltransferase
+P37698	Endoglucanase F
+P42263	Glutamate receptor 3
+P49888	Estrogen sulfotransferase
+P09669	Cytochrome c oxidase subunit 6C
+O67636	Prephenate dehydrogenase
+Q13126	S-methyl-5'-thioadenosine phosphorylase
+P19652	Alpha-1-acid glycoprotein 2
+P23743	Diacylglycerol kinase alpha
+P55157	Microsomal triglyceride transfer protein large subunit
+Q7L5Y9	Macrophage erythroblast attacher
+Q8MU52	Glutathione S-transferase
+Q8GJ44	Endo-1,4-beta-xylanase A
+P49862	Kallikrein-7
+Q96EM0	Trans-L-3-hydroxyproline dehydratase
+Q05586	Glutamate (NMDA) receptor
+O95045	Uridine phosphorylase 2
+P31644	Gamma-aminobutyric acid receptor subunit alpha-5
+P76270	Free methionine-R-sulfoxide reductase
+P94692	Pyruvate-flavodoxin oxidoreductase
+P13568	Multidrug resistance protein
+P08559	Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial
+P01834	Ig kappa chain C region
+P0AEG4	Thiol:disulfide interchange protein DsbA
+P53582	Methionine aminopeptidase 1
+P23181	Gentamicin 3'-acetyltransferase
+Q55813	O-methyltransferase
+P57059	Serine/threonine-protein kinase SIK1
+P0A6L6	N-acetylneuraminate lyase
+P12996	Biotin synthase
+Q46856	Alcohol dehydrogenase YqhD
+Q12791	Calcium-activated potassium channel subunit alpha-1
+P14543	Nidogen-1
+Q9WZI0	Uracil phosphoribosyltransferase
+P35961	Envelope glycoprotein gp160
+Q9WWU5	Putative alkylsulfatase
+C0H5H0	Heat shock protein 110, putative
+P68400	Casein kinase II subunit alpha
+P0AB77	2-amino-3-ketobutyrate coenzyme A ligase
+P29973	cGMP-gated cation channel alpha-1
+P54710	Sodium/potassium-transporting ATPase subunit gamma
+Q9FD87	HMG-CoA synthase
+Q8YSC4	Bacteriorhodopsin
+P0A017	Dihydrofolate reductase
+Q9UF33	Ephrin type-A receptor 6
+Q6UWN8	Serine protease inhibitor Kazal-type 6
+P0A9Z7	Beta-lactamase SHV-2
+P06703	Protein S100-A6
+P40859	Monomeric sarcosine oxidase
+P28161	Glutathione S-transferase Mu 2
+P05019	Insulin-like growth factor I
+Q57366	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+Q9L5C7	Beta-lactamase CTX-M
+P48061	Stromal cell-derived factor 1
+P56122	Chorismate synthase
+Q8IKW5	Elongation factor 2
+Q9UI32	Glutaminase liver isoform, mitochondrial
+P53805	Calcipressin-1
+P32019	Type II inositol 1,4,5-trisphosphate 5-phosphatase
+P05193	Beta-lactamase
+Q9LCX9	Citrate synthase
+P37093	Type II secretion system protein E
+P02748	Complement component C9
+Q9UP95	Solute carrier family 12 member 4
+Q9R5V5	Nucleoside deoxyribosyltransferase
+P13376	Glucose-6-phosphate isomerase B
+P13299	Intron-associated endonuclease 1
+P17405	Sphingomyelin phosphodiesterase
+Q13639	5-hydroxytryptamine receptor 4
+P0C6U8	Replicase polyprotein 1a
+P30049	ATP synthase subunit delta, mitochondrial
+C9EH48	Multidrug translocase MdfA
+P12497	Gag-Pol polyprotein
+Q92947	Glutaryl-CoA dehydrogenase, mitochondrial
+Q6UX15	Layilin
+P51617	Interleukin-1 receptor-associated kinase 1
+P20823	Hepatocyte nuclear factor 1-alpha
+Q8N568	Serine/threonine-protein kinase DCLK2
+P80511	Protein S100-A12
+Q2M3G0	ATP-binding cassette sub-family B member 5
+P49366	Deoxyhypusine synthase
+P04632	Calpain small subunit 1
+O33199	MutT/nudix family protein
+P23008	Genome polyprotein
+P48048	ATP-sensitive potassium channel
+P25971	Orotidine 5'-phosphate decarboxylase
+P09884	DNA polymerase alpha catalytic subunit
+P43088	Prostaglandin F2-alpha receptor
+Q9H3N8	Histamine H4 receptor
+P41007	Bifunctional protein PyrR
+O31440	Fatty-acid peroxygenase
+P61160	Actin-related protein 2
+O70038	Penicillin-binding protein 1B
+P23284	Peptidyl-prolyl cis-trans isomerase B
+Q99062	Granulocyte colony-stimulating factor receptor
+e
+O60656	UDP-glucuronosyltransferase 1-9
+Q00266	S-adenosylmethionine synthase isoform type-1
+P05981	Serine protease hepsin
+P35228	Nitric oxide synthase, inducible
+P05231	Interleukin-6
+Q06033	Inter-alpha-trypsin inhibitor heavy chain H3
+O00555	Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+Q8UCK6	DNA protection during starvation protein
+Q05655	Protein kinase C delta type
+Q9Y5Y6	Suppressor of tumorigenicity 14 protein
+Q9L888	Alanine racemase
+P62662	30S ribosomal protein S2
+O95747	Serine/threonine-protein kinase OSR1
+Q74EF5	Sensor cyclic diguanylate phosphodiesterase, GAF and GAF domain-containing
+P14756	Pseudolysin
+P46098	5-hydroxytryptamine receptor 3A
+Q14790	Caspase-8
+P10635	Cytochrome P450 2D6
+Q00740	1-aminocyclopropane-1-carboxylate deaminase
+P13922	Bifunctional dihydrofolate reductase-thymidylate synthase
+Q9NSA0	Solute carrier family 22 member 11
+P01116	GTPase KRas
+O60669	Monocarboxylate transporter 2
+Q8NBN7	Retinol dehydrogenase 13
+O00264	Membrane-associated progesterone receptor component 1
+Q51948	2-hydroxychromene-2-carboxylate isomerase
+Q6ZQY3	Glutamate decarboxylase-like protein 1
+P26440	Isovaleryl-CoA dehydrogenase, mitochondrial
+P51813	Cytoplasmic tyrosine-protein kinase BMX
+Q16555	Dihydropyrimidinase-related protein 2
+Q5SL87	Holliday junction ATP-dependent DNA helicase RuvB
+Q9NR19	Acetyl-coenzyme A synthetase, cytoplasmic
+Q44244	N-acylamino acid racemase
+Q9Y233	cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A
+P39300	Probable L-ascorbate-6-phosphate lactonase UlaG
+Q9LCV9	Carboxyethylarginine synthase
+P29422	Catalase
+P29894	Methylamine dehydrogenase heavy chain
+P13716	Delta-aminolevulinic acid dehydratase
+Q5SKH7	ATP sulfurylase (Sulfate adenylyltransferase)
+P0C8P8	Thiostrepton
+Q13936	Voltage-dependent L-type calcium channel subunit alpha-1C
+P04391	Ornithine carbamoyltransferase chain I
+O60547	GDP-mannose 4,6 dehydratase
+P32056	GDP-mannose mannosyl hydrolase
+O00459	Phosphatidylinositol 3-kinase regulatory subunit beta
+P25275	Lipase
+P20618	Proteasome subunit beta type-1
+P43700	DNA gyrase subunit A
+P60981	Destrin
+Q8XL08	O-GlcNAcase NagJ
+P32119	Peroxiredoxin-2
+Q8IVL6	Prolyl 3-hydroxylase 3
+P01848	T-cell receptor alpha chain C region
+P51681	C-C chemokine receptor type 5
+Q16665	Hypoxia-inducible factor 1-alpha
+Q56308	Protein-L-isoaspartate O-methyltransferase
+Q14032	Bile acid-CoA:amino acid N-acyltransferase
+P62330	ADP-ribosylation factor 6
+P26281	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Q72EF4	NapC/NirT cytochrome c family protein
+P43003	Excitatory amino acid transporter 1
+P27915	Genome polyprotein
+P18405	3-oxo-5-alpha-steroid 4-dehydrogenase
+Q8Q3H0	Pol protein
+Q9ZGH3	dTDP-glucose 4,6-dehydratase
+Q9UQF2	C-Jun-amino-terminal kinase-interacting protein 1
+P42790	Pseudomonalisin
+P9WFF7	Decaprenyl diphosphate synthase
+O39930	RNA-dependent RNA-polymerase
+P44345	50S ribosomal protein L4
+Q9GZP0	Platelet-derived growth factor D
+P19801	Amiloride-sensitive amine oxidase [copper-containing]
+Q93D82	Halohydrin dehalogenase
+P19440	Gamma-glutamyltranspeptidase 1
+Q4L5E4	Phenylalanine--tRNA ligase beta subunit
+P28223	5-hydroxytryptamine receptor 2A
+P49257	Protein ERGIC-53
+Q14654	Mitochondrial ATP-sensitive potassium channel
+Q69600	HBsAg
+Q8VUS8	Quinohemoprotein amine dehydrogenase subunit gamma
+P29622	Kallistatin
+Q8GN86	4-chlorobenzoyl CoA ligase
+P51970	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8
+Q969G6	Riboflavin kinase
+Q01698	Elongation factor Tu
+P35498	Sodium channel protein type 1 subunit alpha
+P08865	40S ribosomal protein SA
+Q01581	Hydroxymethylglutaryl-CoA synthase, cytoplasmic
+Q96RR4	Calcium/calmodulin-dependent protein kinase kinase 2
+P14210	Hepatocyte growth factor
+P43116	Prostaglandin E2 receptor EP2 subtype
+m
+P03952	Plasma kallikrein
+Q9X022	Alcohol dehydrogenase
+O43283	Mitogen-activated protein kinase kinase kinase 13
+Q8TF61	F-box only protein 41
+P14923	Junction plakoglobin
+P63096	Guanine nucleotide-binding protein G(i) subunit alpha-1
+Q8TE23	Taste receptor type 1 member 2
+P83792	Cytochrome b6-f complex subunit 4
+Q9Y6Q6	Tumor necrosis factor receptor superfamily member 11A
+P25391	Laminin subunit alpha-1
+Q14956	Transmembrane glycoprotein NMB
+P05023	Sodium/potassium-transporting ATPase subunit alpha-1
+P38484	Interferon gamma receptor 2
+P12319	High affinity immunoglobulin epsilon receptor subunit alpha
+Q9RN68	Nine-heme cytochrome c
+P63462	FMN-dependent NADH-azoreductase
+P11349	Respiratory nitrate reductase 1 beta chain
+Q9X592	Pectate lyase
+Q8I3X4	Purine nucleotide phosphorylase, putative
+Q93LQ9	Beta-lactamase (KPC-2)
+O07529	FMN-dependent NADPH-azoreductase
+P43405	Tyrosine-protein kinase SYK
+P51692	Signal transducer and activator of transcription 5B
+P32722	Porin D
+P0A6I9	Dephospho-CoA kinase
+P14193	Ribose-phosphate pyrophosphokinase
+P45563	Purine nucleoside phosphorylase 2
+P53848	Folic acid synthesis protein FOL1
+Q51366	GDP-mannose 4,6-dehydratase
+P0A6E4	Argininosuccinate synthase
+Q14624	Inter-alpha-trypsin inhibitor heavy chain H4
+P23975	Sodium-dependent noradrenaline transporter
+P19404	NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial
+Q9BZW2	Solute carrier family 13 member 1
+P0ACC7	Bifunctional protein GlmU
+P09455	Retinol-binding protein 1
+Q5SID9	Purine nucleoside phosphorylase
+P26393	Glucose-1-phosphate thymidylyltransferase
+Q2TU84	Aspartate aminotransferase
+P00582	DNA polymerase I
+P13995	Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial
+P10802	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Q96PY6	Serine/threonine-protein kinase Nek1
+P11124	RNA-directed RNA polymerase
+Q99828	Calcium and integrin-binding protein 1
+P44469	Penicillin-binding protein 2
+Q939D2	Catalase-peroxidase
+Q5SJ80	Cytochrome c oxidase subunit 2
+Q9BUB5	MAP kinase-interacting serine/threonine-protein kinase 1
+Q46604	FMN-binding protein
+Q2RJ67	5-methyltetrahydrofolate--homocysteine S-methyltransferase
+Q13003	Glutamate receptor ionotropic, kainate 3
+Q9HD40	O-phosphoseryl-tRNA(Sec) selenium transferase
+P74645	Circadian clock protein KaiB
+Q56320	N-(5'-phosphoribosyl)anthranilate isomerase
+Q9CBQ2	Ribonucleoside-diphosphate reductase subunit beta
+N
+Q6MZM0	Hephaestin-like protein 1
+P02941	Methyl-accepting chemotaxis protein II
+Q9HYN5	Fucose-binding lectin PA-IIL
+P78348	Acid-sensing ion channel 1
+P23919	Thymidylate kinase
+P03437	Hemagglutinin
+Q9NS75	Cysteinyl leukotriene receptor 2
+P08306	Cytochrome c oxidase subunit 2
+P30926	Neuronal acetylcholine receptor subunit beta-4
+P06478	Thymidine kinase
+Q701N4	Keratin-associated protein 5-2
+Q8T8E9	UDP-galactose 4-epimerase
+P69178	Shiga-like toxin 1 subunit B
+A0A0E1R3H3	Penicillin-binding protein 3
+P11511	Cytochrome P450 19A1
+Q93LD7	Phosphotriesterase
+P9WQ77	Probable L-lysine-epsilon aminotransferase
+P36507	Dual specificity mitogen-activated protein kinase kinase 2
+P14867	Gamma-aminobutyric acid receptor subunit alpha-1
+P31327	Carbamoyl-phosphate synthase [ammonia], mitochondrial
+O75390	Citrate synthase, mitochondrial
+P16152	Carbonyl reductase [NADPH] 1
+P51512	Matrix metalloproteinase-16
+Q02760	Cytochrome c1
+O90777	HIV-1 protease
+P12564	Hemagglutinin-neuraminidase
+P74334	Apocarotenoid-15,15'-oxygenase
+P27986	Phosphatidylinositol 3-kinase regulatory subunit alpha
+P06850	Corticoliberin
+Q53547	Carboxylesterase 2
+P69488	Divalent-cation tolerance protein CutA
+P04406	Glyceraldehyde-3-phosphate dehydrogenase
+P11274	Breakpoint cluster region protein
+Q8IJR6	Autophagy-related protein 18, putative
+Q7Z4W1	L-xylulose reductase
+P15260	Interferon gamma receptor 1
+P15636	Protease 1
+Q9UJT1	Tubulin delta chain
+P18925	Dihydrolipoyl dehydrogenase
+Q92731	Estrogen receptor beta
+O60678	Protein arginine N-methyltransferase 3
+h
+P96558	Glycosyltransferase GtfA
+Q969G3	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1
+P12256	Penicillin acylase
+Q92843	Bcl-2-like protein 2
+P12499	Gag-Pol polyprotein
+P80377	30S ribosomal protein S13
+P27037	Activin receptor type-2A
+P10636	Microtubule-associated protein tau
+P07919	Cytochrome b-c1 complex subunit 6, mitochondrial
+P00807	Beta-lactamase
+P10384	Long-chain fatty acid transport protein
+Q7RTV2	Glutathione S-transferase A5
+Q6TME4	Voltage-gated calcium channel beta 1 subunit splice variant CavB1d
+P35354	Prostaglandin G/H synthase 2
+Q04828	Aldo-keto reductase family 1 member C1
+Q8ZNF3	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+P48048	ATP-sensitive inward rectifier potassium channel 1
+O07347	Signal recognition particle protein
+P0A915	Outer membrane protein W
+P04054	Phospholipase A2
+P07173	Photosynthetic reaction center cytochrome c subunit
+Q89ZI2	O-GlcNAcase BT_4395
+Q8GBW6	Methylmalonyl-CoA carboxyltransferase 12S subunit
+Q15759	Mitogen-activated protein kinase 11
+P62937	Peptidyl-prolyl cis-trans isomerase A
+P42684	Abelson tyrosine-protein kinase 2
+P03176	Thymidine kinase
+P34932	Heat shock 70 kDa protein 4
+Q9KVB4	Putative uncharacterized protein
+Q9WXN1	Laminarinase
+Q26000	GTPase (Rab6)
+P11444	Mandelate racemase
+Q9KEI9	Ribonuclease H
+P54687	Branched-chain-amino-acid aminotransferase, cytosolic
+P30518	Vasopressin V2 receptor
+P00451	Coagulation factor VIII
+P00183	Camphor 5-monooxygenase
+Q9NYL2	Mitogen-activated protein kinase kinase kinase MLT
+Q9X6V3	Penicillin-binding protein 2
+P43166	Carbonic anhydrase 7
+P00325	Alcohol dehydrogenase 1B
+P04080	Cystatin-B
+P0AA43	Ribosomal small subunit pseudouridine synthase A
+Q9Y678	Coatomer subunit gamma-1
+Q9X112	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+P24046	Gamma-aminobutyric acid receptor subunit rho-1
+P19821	DNA polymerase I, thermostable
+P25021	Histamine H2 receptor
+0
+P22266	Esterase
+P13612	Integrin alpha-4
+P02920	Lactose permease
+Q9Y3I0	tRNA-splicing ligase RtcB homolog
+Q9HCR9	Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A
+P0A789	Aspartate carbamoyltransferase catalytic chain
+P49302	Capsid protein VP1
+Q93TU6	6-oxocamphor hydrolase
+P06753	Tropomyosin alpha-3 chain
+P08253	72 kDa type IV collagenase
+Q9ULZ9	Matrix metalloproteinase-17
+P08048	Zinc finger Y-chromosomal protein
+P51003	Poly(A) polymerase alpha
+P14679	Tyrosinase
+Q9WYH8	Phospho-2-dehydro-3-deoxyheptonate aldolase
+P28720	Queuine tRNA-ribosyltransferase
+2
+P40925	Malate dehydrogenase, cytoplasmic
+P40306	Proteasome subunit beta type-10
+P77425	Allantoate amidohydrolase
+Q9Y666	Solute carrier family 12 member 7
+Q16772	Glutathione S-transferase A3
+P0AEK7	Formate dehydrogenase, nitrate-inducible, cytochrome b556(fdn) subunit
+P26196	Probable ATP-dependent RNA helicase DDX6
+Q13748	Tubulin alpha-3C/D chain
+P29590	Protein PML
+P08758	Annexin A5
+P42357	Histidine ammonia-lyase
+P28223	5-hydroxytryptamine receptor 2
+O95178	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial
+P21695	Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic
+P07948	Tyrosine-protein kinase Lyn
+P39265	D-allose-binding periplasmic protein
+Q08170	Serine/arginine-rich splicing factor 4
+P37059	Estradiol 17-beta-dehydrogenase 2
+Q9RC92	Unsaturated glucuronyl hydrolase
+P12758	Uridine phosphorylase
+Q9UJ70	N-acetyl-D-glucosamine kinase
+Q9A1X4	50S ribosomal protein L3
+P51164	Potassium-transporting ATPase subunit beta
+Q92806	G protein-activated inward rectifier potassium channel 3
+O14957	Cytochrome b-c1 complex subunit 10
+Q06700	Glutaconyl-CoA decarboxylase subunit alpha
+Q03393	6-pyruvoyl tetrahydrobiopterin synthase
+Q9ZIV5	Malonamidase E2
+Q7Z5B4	Protein RIC-3
+P25006	Copper-containing nitrite reductase
+P36969	Phospholipid hydroperoxide glutathione peroxidase, mitochondrial
+P07195	L-lactate dehydrogenase B chain
+P34096	Ribonuclease 4
+P72525	DNA topoisomerase 4 subunit A
+P31491	YopE regulator
+C0H4Y6	Protein disulfide-isomerase
+P75792	Sugar phosphatase YbiV
+P0A7R5	30S ribosomal protein S10
+Q9H6X2	Anthrax toxin receptor 1
+P10845	Botulinum neurotoxin type A
+P12931	Proto-oncogene tyrosine-protein kinase Src
+O60674	Tyrosine-protein kinase JAK2
+Q71LY2	Polyprotein
+P0A1P6	Glutamine synthetase
+P37001	Lipid A palmitoyltransferase PagP
+Q14289	Protein-tyrosine kinase 2-beta
+Q7KQL5	Tubulin beta chain
+P19235	Erythropoietin receptor
+A3EZI9	Hepatitis C virus NS3 protease/helicase
+P20932	(S)-mandelate dehydrogenase
+P0CG22	Putative dehydrogenase/reductase SDR family member 4-like 2
+P08514	Integrin alpha-IIb
+P37957	Lipase EstA
+P98160	Basement membrane-specific heparan sulfate proteoglycan core protein
+P07477	Trypsin-1
+Q47NK3	Proteinase inhibitor I4, serpin
+Q9XB61	Carbapenam-3-carboxylate synthase
+Q7WT42	Inorganic polyphosphate/ATP-glucomannokinase
+Q9UL54	Serine/threonine-protein kinase TAO2
+P09546	Bifunctional protein PutA
+P33260	Cytochrome P450 2C18
+O95819	Mitogen-activated protein kinase kinase kinase kinase 4
+C0H419	Biotin/lipoyl attachment protein
+P16608	Tryptophan synthase alpha chain
+P30711	Glutathione S-transferase theta-1
+Q9P2K8	eIF-2-alpha kinase GCN2
+Q9BY49	Peroxisomal trans-2-enoyl-CoA reductase
+Q46393	Bacteriochlorophyll a protein
+Q9UIK4	Death-associated protein kinase 2
+P06129	Vitamin B12 transporter BtuB
+P63104	14-3-3 protein zeta/delta
+Q06520	Bile salt sulfotransferase
+1
+Q8TDR2	Serine/threonine-protein kinase 35
+Q96RI1	Bile acid receptor
+Q53IN1	Beta-lactamase
+P61769	Beta-2-microglobulin
+P01009	Alpha-1-antitrypsin
+Q26966	Trans-sialidase
+O43246	Cationic amino acid transporter 4
+O00519	Fatty-acid amide hydrolase 1
+P56181	NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial
+P06396	Gelsolin
+Q96NR8	Retinol dehydrogenase 12
+P37610	Alpha-ketoglutarate-dependent taurine dioxygenase
+P30531	Sodium- and chloride-dependent GABA transporter 1
+P13639	Elongation factor 2
+P04958	Tetanus toxin
+Q9X4K7	Propionyl-CoA carboxylase complex B subunit
+Q15120	[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 3, mitochondrial
+P31415	Calsequestrin-1
+P16099	Trimethylamine dehydrogenase
+Q86T13	C-type lectin domain family 14 member A
+O87696	Cobalt-precorrin-4 C(11)-methyltransferase
+P21926	CD9 antigen
+P43133	Thermolysin
+Q16513	Serine/threonine-protein kinase N2
+P94548	Fatty acid metabolism regulator protein
+Q05599	Bifunctional adenosylcobalamin biosynthesis protein CobU
+Q13363	C-terminal-binding protein 1
+Q15796	Mothers against decapentaplegic homolog 2
+P13817	Knob-associated histidine-rich protein
+Q6NUS8	UDP-glucuronosyltransferase 3A1
+Q92993	Histone acetyltransferase KAT5
+P08246	Neutrophil elastase
+Q9H2M3	S-methylmethionine--homocysteine S-methyltransferase BHMT2
+O43451	Maltase-glucoamylase, intestinal
+P01019	Angiotensinogen
+Q72K87	Phosphopantetheine adenylyltransferase
+P19429	Troponin I, cardiac muscle
+Q9HBH1	Peptide deformylase, mitochondrial
+Q08209	Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform
+Q96A70	Arginine decarboxylase
+Q9Y4W6	AFG3-like protein 2
+P07288	Prostate-specific antigen
+Q12851	Mitogen-activated protein kinase kinase kinase kinase 2
+Q8IDQ9	Phosphoethanolamine N-methyltransferase
+P07510	Acetylcholine receptor subunit gamma
+P62593	Beta-lactamase TEM
+Q56694	NADP-dependent fatty aldehyde dehydrogenase
+P34024	1-phosphatidylinositol phosphodiesterase
+P23415	Glycine receptor subunit alpha-1
+P45066	UDP-N-acetylmuramate--L-alanine ligase
+Q60FT7	PBP3
+Q48436	Diacetyl reductase [(S)-acetoin forming]
+Q9Y5S1	Transient receptor potential cation channel subfamily V member 2
+O75015	Low affinity immunoglobulin gamma Fc region receptor III-B
+O14578	Citron Rho-interacting kinase
+P61626	Lysozyme C
+P0AB80	Branched-chain-amino-acid aminotransferase
+P21452	Substance-K receptor
+P04155	Trefoil factor 1
+Q9UJT0	Tubulin epsilon chain
+P15587	Xylose isomerase
+P19992	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+O15143	Actin-related protein 2/3 complex subunit 1B
+Q9UHW9	Solute carrier family 12 member 6
+Q14103	Heterogeneous nuclear ribonucleoprotein D0
+P0C0X2	Inactive dihydropteroate synthase 2
+P04040	Catalase
+P0AFG8	Pyruvate dehydrogenase E1 component
+P16544	Putative ketoacyl reductase
+P13693	Translationally-controlled tumor protein
+Q7B8V4	BoNT/A
+Q9RHZ6	Maltose binding protein
+Q9Y271	Cysteinyl leukotriene receptor 1
+P52333	Tyrosine-protein kinase JAK3
+Q92930	Ras-related protein Rab-8B
+P33815	Envelope protein F13
+P15169	Carboxypeptidase N catalytic chain
+Q9HC29	Nucleotide-binding oligomerization domain-containing protein 2
+P05121	Plasminogen activator inhibitor 1
+P61320	Outer-membrane lipoprotein LolB
+P41252	Isoleucine--tRNA ligase, cytoplasmic
+P32055	GDP-L-fucose synthase
+P00800	Thermolysin
+Q16739	Ceramide glucosyltransferase
+P04181	Ornithine aminotransferase, mitochondrial
+Q15185	Prostaglandin E synthase 3
+P49619	Diacylglycerol kinase gamma
+P02795	Metallothionein-2
+Q8DNV6	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+P0AGJ9	Tyrosine--tRNA ligase
+Q9GPQ4	IAG-nucleoside hydrolase
+P13611	Versican core protein
+O95382	Mitogen-activated protein kinase kinase kinase 6
+Q9Y277	Voltage-dependent anion-selective channel protein 3
+u
+P13727	Bone marrow proteoglycan
+O75489	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial
+P13569	Cystic fibrosis transmembrane conductance regulator
+Q45135	Homoprotocatechuate 2,3-dioxygenase
+P53985	Monocarboxylate transporter 1
+Q8I492	Mature parasite-infected erythrocyte surface antigen
+P01308	Insulin
+P54583	Endoglucanase E1
+P42858	Huntingtin
+P14061	Estradiol 17-beta-dehydrogenase 1
+P54317	Pancreatic lipase-related protein 2
+P31142	3-mercaptopyruvate sulfurtransferase
+P15474	3-dehydroquinate dehydratase
+P9WPF1	Alpha-pyrone synthesis polyketide synthase-like Pks18
+P36578	60S ribosomal protein L4
+P17302	Gap junction alpha-1 protein
+Q91CQ6	DNA polymerase
+P56282	DNA polymerase epsilon subunit 2
+A9UF02	BCR/ABL fusion protein isoform X9
+P56653	4-hydroxybenzoyl-CoA thioesterase
+Q9NY47	Voltage-dependent calcium channel subunit alpha-2/delta-2
+P00973	2'-5'-oligoadenylate synthase 1
+P05787	Keratin, type II cytoskeletal 8
+P30825	High affinity cationic amino acid transporter 1
+O15375	Monocarboxylate transporter 6
+P43912	tRNA (guanine-N(1)-)-methyltransferase
+P04350	Tubulin beta-4A chain
+P43681	Neuronal acetylcholine receptor subunit alpha-4
+Q54AI1	Heme oxygenase
+Q9I596	Neutral ceramidase
+P62669	30S ribosomal protein S9
+P60723	50S ribosomal protein L4
+Q02762	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+P04211	Ig lambda chain V region 4A
+P35626	Beta-adrenergic receptor kinase 2
+Q06432	Voltage-dependent calcium channel gamma-1 subunit
+P01189	Pro-opiomelanocortin
+P08311	Cathepsin G
+Q9BY66	Lysine-specific demethylase 5D
+Q9X0V0	ABC-type transporter, periplasmic subunit
+Q9UHA3	Probable ribosome biogenesis protein RLP24
+P03300	Genome polyprotein
+Q9X1T2	Purine nucleoside phosphorylase
+O43681	ATPase ASNA1
+P0AC44	Succinate dehydrogenase hydrophobic membrane anchor subunit
+Q08828	Adenylate cyclase type 1
+P62857	40S ribosomal protein S28
+C0H4X5	Anamorsin homolog
+Q9UKU7	Isobutyryl-CoA dehydrogenase, mitochondrial
+A2QLK4	1,3-beta-glucan synthase component FKS1
+Q8DP79	Peptide deformylase
+P31434	Alpha-xylosidase
+P04264	Keratin, type II cytoskeletal 1
+P23904	Beta-glucanase
+Q9NSA2	Potassium voltage-gated channel subfamily D member 1
+Q8N0U8	Vitamin K epoxide reductase complex subunit 1-like protein 1
+P13901	Genome polyprotein
+P35225	Interleukin-13
+P50740	Isopentenyl-diphosphate delta-isomerase
+Q59675	Endo-beta-1,4-xylanase
+O92972	Genome polyprotein
+P01011	Alpha-1-antichymotrypsin
+P60063	Arginine/agmatine antiporter
+P26221	Endoglucanase E-4
+Q8I5G6	Isoleucine--tRNA ligase, putative
+P48549	G protein-activated inward rectifier potassium channel 1
+P72161	D-alanyl-D-alanine endopeptidase
+P03905	NADH-ubiquinone oxidoreductase chain 4
+Q6FEW8	Phosphoenolpyruvate-protein phosphotransferase
+P29768	Sialidase
+Q9WZW1	Riboflavin biosynthesis protein RibF
+P22513	Glyceraldehyde-3-phosphate dehydrogenase, glycosomal
+P28793	Fatty acid oxidation complex subunit alpha
+Q00534	Cyclin-dependent kinase 6
+P02647	Apolipoprotein A-I
+P0ACJ8	cAMP-activated global transcriptional regulator CRP
+P0A6Y5	33 kDa chaperonin
+P14784	Interleukin-2 receptor subunit beta
+P0A9M2	Hypoxanthine phosphoribosyltransferase
+P15259	Phosphoglycerate mutase 2
+Q04844	Acetylcholine receptor subunit epsilon
+Q6PI48	Aspartate--tRNA ligase, mitochondrial
+P01008	Antithrombin-III
+Q4VB53	IL13 protein
+Q01718	Adrenocorticotropic hormone receptor
+P04745	Alpha-amylase 1
+O60840	Voltage-dependent L-type calcium channel subunit alpha-1F
+P0A9B2	Glyceraldehyde-3-phosphate dehydrogenase A
+P18177	Clostridium difficile Toxin B
+P49788	Retinoic acid receptor responder protein 1
+P14739	Uracil-DNA glycosylase inhibitor
+P26827	Cyclomaltodextrin glucanotransferase
+P46459	Vesicle-fusing ATPase
+P00739	Haptoglobin-related protein
+Q7DHH4	MecA
+P0AG59	30S ribosomal protein S14
+Q96LZ3	Calcineurin subunit B type 2
+O68874	Aquaporin Z
+A6PZ59	Rhesus blood group D antigen
+P35372	Mu-type opioid receptor
+P9WJM7	Mycothiol acetyltransferase
+O34002	Citrate synthase
+P13843	Fusion glycoprotein F0
+Q7SIG1	Hydrolase
+P0A827	Serine hydroxymethyltransferase
+Q60393	Botulinum neurotoxin type G
+Q12879	Glutamate receptor ionotropic, NMDA 2A
+Q7K6A4	S-adenosylmethionine synthase
+P20807	Calpain-3
+Q9KU37	Beta-hexosaminidase
+P03891	NADH-ubiquinone oxidoreductase chain 2
+Q16762	Thiosulfate sulfurtransferase
+Q9NZ42	Gamma-secretase subunit PEN-2
+Q9NSY1	BMP-2-inducible protein kinase
+Q9Z9H6	DNA-directed RNA polymerase subunit alpha
+P52699	Beta-lactamase IMP-1
+P11546	6-phospho-beta-galactosidase
+P0C278	Fumarate reductase flavoprotein subunit
+O15374	Monocarboxylate transporter 5
+P11362	Fibroblast growth factor receptor 1
+Q46891	Putative hydroxypyruvate isomerase YgbM
+P08217	Chymotrypsin-like elastase family member 2A
+P0DOY6	30S ribosomal protein S14 type Z
+Q97R46	Bifunctional protein GlmU
+O43526	Potassium voltage-gated channel subfamily KQT member 2
+O31616	Glycine oxidase
+P08684	Cytochrome P450 3A4
+Q52437	Ferredoxin reductase
+P72355	Penicillin-binding protein 4
+Q7L0J3	Synaptic vesicle glycoprotein 2A
+P25713	Metallothionein-3
+P48664	Excitatory amino acid transporter 4
+Q54873	Hyaluronate lyase
+O34453	Nitric oxide synthase oxygenase
+O60706	ATP-binding cassette sub-family C member 9
+Q9PPP5	Thymidine kinase
+Q840M4	Beta-lactamase CTX-M-27
+P45984	Mitogen-activated protein kinase 9
+P38038	Sulfite reductase [NADPH] flavoprotein alpha-component
+r
+P34896	Serine hydroxymethyltransferase, cytosolic
+Q8IDP1	Ubiquitin-conjugating enzyme E2
+P53554	Biotin biosynthesis cytochrome P450
+P35869	Aryl hydrocarbon receptor
+C
+P00138	Cytochrome c'
+Q9LAG2	Phenol 2-hydroxylase component B
+P62136	Serine/threonine-protein phosphatase PP1-alpha catalytic subunit
+Q13183	Solute carrier family 13 member 2
+P04252	Bacterial hemoglobin
+Q25634	Glutamate-gated chloride channel
+P29475	Nitric oxide synthase, brain
+P16109	P-selectin
+P08574	Cytochrome c1, heme protein, mitochondrial
+Q7KQK0	cAMP-dependent protein kinase regulatory subunit
+P00736	Complement C1r subcomponent
+P08870	Orotate phosphoribosyltransferase
+Q44532	Ferredoxin--NADP reductase
+P49424	Mannan endo-1,4-beta-mannosidase
+P16455	Methylated-DNA--protein-cysteine methyltransferase
+P9WH69	R2-like ligand binding oxidase
+P24530	Endothelin B receptor
+P35499	Sodium channel protein type 4 subunit alpha
+P0CG04	Ig lambda-1 chain C regions
+Q46079	Chondroitinase-B
+P22626	Heterogeneous nuclear ribonucleoproteins A2/B1
+P22001	Potassium voltage-gated channel subfamily A member 3
+	
+P49902	Cytosolic purine 5'-nucleotidase
+P03897	NADH-ubiquinone oxidoreductase chain 3
+P08909	5-hydroxytryptamine receptor 1C
+P50391	Neuropeptide Y receptor type 4
+P07026	Regulatory protein SdiA
+P05181	Cytochrome P450 2E1
+Q96G91	P2Y purinoceptor 11
+Q79G13	Possible cellulase CelA1 (Endoglucanase) (Endo-1,4-beta-glucanase) (FI-cmcase) (Carboxymethyl cellulase)
+Q99714	3-hydroxyacyl-CoA dehydrogenase type-2
+Q99456	Keratin, type I cytoskeletal 12
+O31158	Non-heme chloroperoxidase
+P32397	Protoporphyrinogen oxidase
+Q9UI09	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+Q9BWD1	Acetyl-CoA acetyltransferase, cytosolic
+Q91RS4	NS3 protease
+P0A751	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+O08398	Cell division protein FtsZ
+P02778	C-X-C motif chemokine 10
+C6KSR5	Coatomer alpha subunit, putative
+P29376	Leukocyte tyrosine kinase receptor
+P02743	Serum amyloid P-component
+O75251	NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial
+Q9U8D3	Adenylosuccinate synthetase
+Q99571	P2X purinoceptor 4
+Q9KB30	Reducing end xylose-releasing exo-oligoxylanase
+C0H4L1	Importin-7, putative
+O53240	Conserved protein
+O75879	Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial
+P32927	Cytokine receptor common subunit beta
+P62344	Calcium-dependent protein kinase 1
+P00137	Cytochrome c3
+Q9X519	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+P30749	Molybdopterin synthase catalytic subunit
+P08238	Heat shock protein HSP 90-beta
+O94766	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3
+P27169	Serum paraoxonase/arylesterase 1
+P29597	Non-receptor tyrosine-protein kinase TYK2
+P06875	Penicillin G acylase
+P21709	Ephrin type-A receptor 1
+Q9Y600	Cysteine sulfinic acid decarboxylase
+P28702	Retinoic acid receptor RXR-beta
+P96622	mRNA interferase EndoA
+P27828	UDP-N-acetylglucosamine 2-epimerase
+Q9HGT2	Cytosolic leucyl-tRNA synthetase
+Q8IKL4	Thioredoxin-like protein
+Q9F5I8	Iota-carrageenase
+Q5SIR5	Ribose-5-phosphate isomerase A
+O31410	Peptide deformylase 2
+P61313	60S ribosomal protein L15
+Q00441	6-deoxyerythronolide B hydroxylase
+P50135	Histamine N-methyltransferase
+P56690	Isoleucine--tRNA ligase
+Q16760	Diacylglycerol kinase delta
+P9WHE9	6,7-dimethyl-8-ribityllumazine synthase
+P08192	Bifunctional protein FolC
+P30405	Peptidyl-prolyl cis-trans isomerase F, mitochondrial
+P25098	Beta-adrenergic receptor kinase 1
+P38606	V-type proton ATPase catalytic subunit A
+Q15842	ATP-sensitive inward rectifier potassium channel 8
+Q9NYV7	Taste receptor type 2 member 16
+P0A079	Methionine aminopeptidase
+Q9HVZ0	Phosphoheptose isomerase
+Q8RJN8	Endo-1,4-beta-xylanase
+P02708	Acetylcholine receptor subunit alpha
+O34450	N-acetylglucosamine-6-phosphate deacetylase
+P08493	Matrix Gla protein
+P0A2Y7	Chorismate synthase
+Q8NET8	Transient receptor potential cation channel subfamily V member 3
+¥ä
+Q13255	Metabotropic glutamate receptor 1
+P61987	Cobalt-precorrin-5B C(1)-methyltransferase
+P19080	Chorismate mutase AroH
+Q9ZEU2	Amylosucrase
+P20674	Cytochrome c oxidase subunit 5A, mitochondrial
+P61587	Rho-related GTP-binding protein RhoE
+Q5S007	Leucine-rich repeat serine/threonine-protein kinase 2
+P25910	Beta-lactamase type II
+Q00080	Elongation factor 1-alpha
+P06746	DNA polymerase beta
+P32239	Gastrin/cholecystokinin type B receptor
+Q13554	Calcium/calmodulin-dependent protein kinase type II subunit beta
+Q5SKW1	RNA polymerase sigma factor
+P06710	DNA polymerase III subunit tau
+P11411	Glucose-6-phosphate 1-dehydrogenase
+Q9Y697	Cysteine desulfurase, mitochondrial
+O60894	Receptor activity-modifying protein 1
+Q9X6R4	Prolyl endopeptidase
+P69441	Adenylate kinase
+P04015	Regulatory protein E2
+Q7RTX0	Taste receptor type 1 member 3
+P43652	Afamin
+P53350	Serine/threonine-protein kinase PLK1
+P00524	Tyrosine-protein kinase transforming protein Src
+P28066	Proteasome subunit alpha type-5
+P24183	Formate dehydrogenase, nitrate-inducible, major subunit
+Q13523	Serine/threonine-protein kinase PRP4 homolog
+P0A721	Thymidylate kinase
+P11142	Heat shock cognate 71 kDa protein
+Q8RQP5	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+P05452	Tetranectin
+Q2M2I8	AP2-associated protein kinase 1
+Q9X1F0	Glycerol uptake operon antiterminator regulatory protein
+Q00653	Nuclear factor NF-kappa-B
+P04279	Semenogelin-1
+P0AF14	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+P01599	Immunoglobulin kappa variable 1-17
+Q9Y285	Phenylalanine--tRNA ligase alpha subunit
+Q82IZ1	1-deoxypentalenic acid 11-beta-hydroxylase
+P07437	Tubulin beta chain
+P12268	Inosine-5'-monophosphate dehydrogenase 2
+P33316	Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial
+P80188	Neutrophil gelatinase-associated lipocalin
+P16219	Short-chain specific acyl-CoA dehydrogenase, mitochondrial
+P43886	Serine acetyltransferase
+Q14894	Ketimine reductase mu-crystallin
+P08519	Apolipoprotein(a)
+Q5SSJ5	Heterochromatin protein 1-binding protein 3
+O95259	Potassium voltage-gated channel subfamily H member 1
+P00437	Protocatechuate 3,4-dioxygenase beta chain
+P26514	Endo-1,4-beta-xylanase A
+Q44048	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+P02918	Penicillin-binding protein 1A
+P32169	Rhamnulose-1-phosphate aldolase
+Q9L915	Cytochrome c3
+P47895	Aldehyde dehydrogenase family 1 member A3
+Q9XB59	(5R)-carbapenem-3-carboxylate synthase
+Q99250	Sodium channel protein type 2 subunit alpha
+Q6P996	Pyridoxal-dependent decarboxylase domain-containing protein 1
+Q70GK9	5'-fluoro-5'-deoxy-adenosine synthase
+Q8WU03	Glycine N-acyltransferase-like protein 2
+Q7Z4J2	Glycosyltransferase 6 domain-containing protein 1
+Q59325	Cellulose 1,4-beta-cellobiosidase
+Q13426	DNA repair protein XRCC4
+P20839	Inosine-5'-monophosphate dehydrogenase
+P13674	Prolyl 4-hydroxylase subunit alpha-1
+P69772	Probable aromatic acid decarboxylase
+O43704	Sulfotransferase family cytosolic 1B member 1
+Q9XBQ3	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+P31151	Protein S100-A7
+Q746J6	Cytochrome P450
+P0A006	Protein ArsC
+P00101	Cytochrome c-551
+P0AD63	Beta-lactamase SHV-1
+P08697	Alpha-2-antiplasmin
+Q56310	Chemotaxis protein CheA
+O00750	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta
+P02763	Alpha-1-acid glycoprotein 1
+Q9NZK7	Group IIE secretory phospholipase A2
+P04818	Thymidylate synthase
+P82251	B(0,+)-type amino acid transporter 1
+P17936	Insulin-like growth factor-binding protein 3
+Q9NXG6	Transmembrane prolyl 4-hydroxylase
+O34974	Putative monooxygenase MoxC
+Q96KS0	Egl nine homolog 2
+Q05932	Folylpolyglutamate synthase, mitochondrial
+P50052	Type-2 angiotensin II receptor
+P54750	Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A
+P23882	Methionyl-tRNA formyltransferase
+P39900	Macrophage metalloelastase
+P34995	Prostaglandin E2 receptor EP1 subtype
+Q15274	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+P13661	Beta-lactamase OXA-1
+Q23022	Acetylcholine receptor subunit alpha-type unc-38
+P68826	Peptide deformylase
+P14532	Cytochrome c551 peroxidase
+P02763	alpha1-acid glycoprotein
+P01709	Ig lambda chain V-II region MGC
+P59846	Argininosuccinate synthase
+P10614	Lanosterol 14-alpha demethylase
+Q02127	Dihydroorotate dehydrogenase (quinone), mitochondrial
+P10644	cAMP-dependent protein kinase type I-alpha regulatory subunit
+P08337	8-oxo-dGTP diphosphatase
+P60844	Aquaporin Z
+P05695	Porin P
+Q9Y345	Sodium- and chloride-dependent glycine transporter 2
+Q96LB9	Peptidoglycan recognition protein 3
+P00778	Alpha-lytic protease
+P00147	Cytochrome c'
+P0A0K8	DNA gyrase subunit B
+Q96S37	Solute carrier family 22 member 12
+P0ADA1	Acyl-CoA thioesterase I
+P51553	Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial
+P43876	Shikimate dehydrogenase
+Q8ZIV7	Adenylosuccinate synthetase
+P76045	Outer membrane protein G
+P84077	ADP-ribosylation factor 1
+O96017	Serine/threonine-protein kinase Chk2
+P07355	Annexin A2
+O96013	Serine/threonine-protein kinase PAK 4
+P58558	Ferredoxin--NADP reductase
+Q99640	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase
+Q7LG56	Ribonucleoside-diphosphate reductase subunit M2 B
+P25084	Transcriptional activator protein LasR
+Q9Y6E0	Serine/threonine-protein kinase 24
+O34598	Guanine deaminase
+Q9BQI3	Eukaryotic translation initiation factor 2-alpha kinase 1
+P09488	Glutathione S-transferase Mu 1
+P0AB91	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+Q7K9G0	3-mercaptopyruvate sulfurtransferase
+Q16798	NADP-dependent malic enzyme, mitochondrial
+P49146	Neuropeptide Y receptor type 2
+Q9H169	Stathmin-4
+Q9UNP4	Lactosylceramide alpha-2,3-sialyltransferase
+P17315	Colicin I receptor
+P20339	Ras-related protein Rab-5A
+P49327	Fatty acid synthase
+P09012	U1 small nuclear ribonucleoprotein A
+P42898	Methylenetetrahydrofolate reductase
+(
+P98052	Cytochrome c oxidase subunit 2
+O33830	Alpha-glucosidase
+Q2QJL3	N5-carboxyaminoimidazole ribonucleotide mutase
+P04792	Heat shock protein beta-1
+P21291	Cysteine and glycine-rich protein 1
+Q9GZZ6	Neuronal acetylcholine receptor subunit alpha-10
+P03316	Structural polyprotein
+P07858	Cathepsin B
+Q8ILF7	Glutamate dehydrogenase
+P01375	Tumor necrosis factor
+P83849	1-pyrroline-5-carboxylate dehydrogenase
+Q9H1R3	Myosin light chain kinase 2, skeletal/cardiac muscle
+P32322	Pyrroline-5-carboxylate reductase 1, mitochondrial
+P62736	Actin, aortic smooth muscle
+Q8IWL2	Pulmonary surfactant-associated protein A1
+Q8RQE7	DNA-directed RNA polymerase subunit omega
+Q83LD8	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+P14920	D-amino-acid oxidase
+Q9EXV5	Beta-lactamase CTX-M-15
+P10875	Tubulin beta chain
+Q9BXA7	Testis-specific serine/threonine-protein kinase 1
+P28907	ADP-ribosyl cyclase 1
+P28065	Proteasome subunit beta type-9
+P9WQD9	3-oxoacyl-[acyl-carrier-protein] synthase 1
+Q96QU6	1-aminocyclopropane-1-carboxylate synthase-like protein 1
+P60339	Elongation factor Tu-B
+Q9WYA5	5-methyltetrahydrofolate S-homocysteine methyltransferase
+P56740	Dihydroneopterin aldolase
+P14060	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1
+P33247	Squalene--hopene cyclase
+C1KC03	Penicillin binding protein 2a
+Q96BH3	Epididymal sperm-binding protein 1
+P37108	Signal recognition particle 14 kDa protein
+P05154	Plasma serine protease inhibitor
+Q02928	Cytochrome P450 4A11
+Q09470	Potassium voltage-gated channel subfamily A member 1
+P83812	Lipid binding protein
+P13051	Uracil-DNA glycosylase
+P06126	T-cell surface glycoprotein CD1a
+Q9Y6B6	GTP-binding protein SAR1b
+Q05486	Protein P
+P02679	Fibrinogen gamma chain
+P60842	Eukaryotic initiation factor 4A-I
+Q01693	Bacterial leucyl aminopeptidase
+Q9X1H9	Fatty acid-binding protein TM_1468
+P04156	Major prion protein
+P63000	Ras-related C3 botulinum toxin substrate 1
+P09693	T-cell surface glycoprotein CD3 gamma chain
+P0A6T8	GTP cyclohydrolase 1
+P0A9P4	Thioredoxin reductase
+P43004	Excitatory amino acid transporter 2
+P18858	DNA ligase 1
+Q9UNK4	Group IID secretory phospholipase A2
+P05546	Heparin cofactor 2
+Q13285	Steroidogenic factor 1
+P29498	14 kDa fatty acid-binding protein
+q
+Q9GZT9	Egl nine homolog 1
+Q4R2T2	Prenyltransferase
+P06632	2,5-diketo-D-gluconic acid reductase A
+P48651	Phosphatidylserine synthase 1
+P22088	Lipase
+Q8TCC7	Solute carrier family 22 member 8
+Q0WKM4	Serine acetyltransferase
+O43353	Receptor-interacting serine/threonine-protein kinase 2
+P10092	Calcitonin gene-related peptide 2
+Q8N907	DAN domain family member 5
+P35340	Alkyl hydroperoxide reductase subunit F
+O95363	Phenylalanine--tRNA ligase, mitochondrial
+Q02817	Mucin-2
+P20813	Cytochrome P450 2B6
+P22102	Trifunctional purine biosynthetic protein adenosine-3
+P0DM80	Virulence sensor histidine kinase PhoQ
+P0A6W9	Glutamate--cysteine ligase
+O14832	Phytanoyl-CoA dioxygenase, peroxisomal
+P39621	Spore coat polysaccharide biosynthesis protein SpsA
+Q8IL80	Thioredoxin peroxidase 1
+P0C2S2	Endoglucanase A
+P9WP23	4-hydroxy-tetrahydrodipicolinate reductase
+O33407	Esterase EstA
+Q9KX40	Esterase EstB
+Q16445	Gamma-aminobutyric acid receptor subunit alpha-6
+Q15750	TGF-beta-activated kinase 1 and MAP3K7-binding protein 1
+P0C188	NAD(P) transhydrogenase subunit beta
+P29275	Adenosine receptor A2b
+O43614	Orexin receptor type 2
+Q14164	Inhibitor of nuclear factor kappa-B kinase subunit epsilon
+Q07699	Sodium channel subunit beta-1
+P62312	U6 snRNA-associated Sm-like protein LSm6
+P77967	Cryptochrome DASH
+P08700	Interleukin-3
+Q08462	Adenylate cyclase type 2
+P95276	Epoxide hydrolase
+O60391	Glutamate receptor ionotropic, NMDA 3B
+O15146	Muscle, skeletal receptor tyrosine-protein kinase
+P22055	Genome polyprotein
+Q873X9	Chitinase
+Q14832	Metabotropic glutamate receptor 3
+P46734	Dual specificity mitogen-activated protein kinase kinase 3
+P37062	NADH peroxidase
+P62837	Ubiquitin-conjugating enzyme E2 D2
+P22364	Amicyanin
+P9WMC1	HTH-type transcriptional regulator EthR
+P23381	Tryptophan--tRNA ligase, cytoplasmic
+Q9ZAG3	Limonene-1,2-epoxide hydrolase
+P03355	Gag-Pol polyprotein
+Q5L478	Nonstructural protein 5A
+P77150	Pyridoxamine kinase
+P35348	Alpha-1 adrenergic receptors
+P15555	D-alanyl-D-alanine carboxypeptidase
+P32173	Molybdenum cofactor guanylyltransferase
+P0AER0	Glycerol uptake facilitator protein
+P11172	Uridine 5'-monophosphate synthase
+P0CG48	Polyubiquitin-C
+P0AD69	Peptidoglycan synthase FtsI
+P07900	Heat shock protein HSP 90-alpha
+P21728	Dopamine receptor
+P52895	Aldo-keto reductase family 1 member C2
+Q08210	Dihydroorotate dehydrogenase (quinone), mitochondrial
+Q57VC7	Putative uncharacterized protein
+Q8NG66	Serine/threonine-protein kinase Nek11
+P10809	60 kDa heat shock protein, mitochondrial
+Q6UWM7	Lactase-like protein
+P00390	Glutathione reductase, mitochondrial
+P25116	Proteinase-activated receptor 1
+Q9GZR5	Elongation of very long chain fatty acids protein 4
+Q8IJN7	Enolase
+Q86YV6	Myosin light chain kinase family member 4
+O43766	Lipoyl synthase, mitochondrial
+P32929	Cystathionine gamma-lyase
+P30301	Lens fiber major intrinsic protein
+Q9Y6I3	Epsin-1
+Q02641	Voltage-dependent L-type calcium channel subunit beta-1
+P39086	Glutamate receptor ionotropic, kainate 1
+Q00169	Phosphatidylinositol transfer protein alpha isoform
+P0A9E0	Arabinose operon regulatory protein
+P26663	Genome polyprotein
+P0AEJ4	Osmolarity sensor protein EnvZ
+P49913	Cathelicidin antimicrobial peptide
+P28593	Trypanothione reductase
+Q12852	Mitogen-activated protein kinase kinase kinase 12
+P52569	Low affinity cationic amino acid transporter 2
+Q59976	Beta-glucosidase
+P52758	Ribonuclease UK114
+O25323	Endonuclease III
+Q06528	Carminomycin 4-O-methyltransferase
+A0A0H2XJ39	Penicillin-binding protein 3
+Q46220	Iota toxin component Ia
+Q8IE82	60S ribosomal protein L23
+Q13946	High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A
+P43115	Prostaglandin E2 receptor EP3 subtype
+Q14541	Hepatocyte nuclear factor 4-gamma
+Q9WZK0	Phosphopantetheine adenylyltransferase
+P51584	Endo-1,4-beta-xylanase Y
+Q96GD0	Pyridoxal phosphate phosphatase
+Q9Y691	Calcium-activated potassium channel subunit beta-2
+P43235	Cathepsin K
+Q14914	Prostaglandin reductase 1
+A5W4F4	Membrane protein involved in aromatic hydrocarbon degradation
+P29218	Inositol monophosphatase 1
+P35089	Light-harvesting protein B-800/820 alpha chain
+Q9Y257	Potassium channel subfamily K member 6
+Q14643	Inositol 1,4,5-trisphosphate receptor type 1
+P25788	Proteasome subunit alpha type-3
+V
+P68133	Actin, alpha skeletal muscle
+P75430	Probable 5-formyltetrahydrofolate cyclo-ligase
+O43772	Mitochondrial carnitine/acylcarnitine carrier protein
+P04377	Pseudoazurin
+P08631	Tyrosine-protein kinase HCK
+Q9HBL8	NmrA-like family domain-containing protein 1
+P29957	Alpha-amylase
+P60757	ATP phosphoribosyltransferase
+Q08426	Peroxisomal bifunctional enzyme
+P61586	Transforming protein RhoA
+Q00532	Cyclin-dependent kinase-like 1
+P07478	Trypsin-2
+P25101	Endothelin-1 receptor
+P0A4L9	DNA gyrase subunit B
+P41091	Eukaryotic translation initiation factor 2 subunit 3
+P10943	Hut operon positive regulatory protein
+Q7DC80	Phenazine biosynthesis protein PhzD
+P24158	Myeloblastin
+P30542	Adenosine receptor A1
+P32396	Ferrochelatase
+Q9LCC8	D-Amino acid amidase
+P01303	Pro-neuropeptide Y
+Q9KWU1	Alginate lyase
+P13551	Elongation factor G
+Q8TED1	Probable glutathione peroxidase 8
+P23560	Brain-derived neurotrophic factor
+Q5NUL3	Free fatty acid receptor 4
+P15144	Aminopeptidase N
+P46859	Thermoresistant gluconokinase
+P14621	Acylphosphatase-2
+P00846	ATP synthase subunit a
+Q13555	Calcium/calmodulin-dependent protein kinase type II subunit gamma
+P0A078	Methionine aminopeptidase
+P24666	Low molecular weight phosphotyrosine protein phosphatase
+P49190	Parathyroid hormone 2 receptor
+Q08188	Protein-glutamine gamma-glutamyltransferase E
+P11741	Bacteriochlorophyll a protein
+O31168	Non-heme chloroperoxidase
+P28335	5-hydroxytryptamine receptor 2C
+P16615	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2
+P08887	Interleukin-6 receptor subunit alpha
+P0A8Q0	Fumarate reductase subunit C
+P36897	TGF-beta receptor type-1
+Q9Y6Y9	Lymphocyte antigen 96
+B4DP61	Survival motor neuron protein
+P26137	Hemagglutinin
+P11509	Cytochrome P450 2A6
+P01137	Transforming growth factor beta-1
+P30968	Gonadotropin-releasing hormone receptor
+Q15303	Receptor tyrosine-protein kinase erbB-4
+P53004	Biliverdin reductase A
+Q9F0I5	Cycloinulo-oligosaccharide fructanotransferase
+P11166	Solute carrier family 2, facilitated glucose transporter member 1
+Q734I1	Transcriptional regulator, GntR family
+P11498	Pyruvate carboxylase, mitochondrial
+P51787	Potassium voltage-gated channel subfamily KQT member 1
+P54762	Ephrin type-B receptor 1
+Q8NER1	Transient receptor potential cation channel subfamily V member 1
+Q9P2E9	Ribosome-binding protein 1
+P0DP24	Calmodulin-2
+P51693	Amyloid-like protein 1
+P27815	cAMP-specific 3',5'-cyclic phosphodiesterase 4A
+P01619	Ig kappa chain V-III region GOL
+P06756	Integrin alpha-V
+P49019	Hydroxycarboxylic acid receptor 3
+O60494	Cubilin
+Q14145	Kelch-like ECH-associated protein 1
+Q7MUW6	Prolyl tripeptidyl peptidase
+P68771	Peptide deformylase
+P0C2P0	Blasticidin-S deaminase
+Q03431	Parathyroid hormone/parathyroid hormone-related peptide receptor
+Q9NP99	Triggering receptor expressed on myeloid cells 1
+L0DSL2	Eight-heme nitrite reductase
+P15917	Lethal factor
+P06993	HTH-type transcriptional regulator MalT
+Q16853	Membrane primary amine oxidase
+P05653	DNA gyrase subunit A
+Q9HUR5	Vanillate porin OpdK
+Q9HZZ3	Organic hydroperoxide resistance protein
+Q8IWT1	Sodium channel subunit beta-4
+Q72JD8	Hypothetical conserved protein
+A0A144A2G5	Dipeptidyl aminopeptidase 1
+Q13956	Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma
+Q13936	Voltage dependent L type calcium channel
+P42085	Xanthine phosphoribosyltransferase
+P00742	Coagulation factor X
+Q9H2S1	Small conductance calcium-activated potassium channel protein 2
+Q81F54	Glyoxalase family protein
+P55882	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+P37700	Endoglucanase G
+P42680	Tyrosine-protein kinase Tec
+Q9X0D0	Histidinol-phosphate aminotransferase
+P42681	Tyrosine-protein kinase TXK
+P46926	Glucosamine-6-phosphate isomerase 1
+P24182	Biotin carboxylase
+Q9UHD2	Serine/threonine-protein kinase TBK1
+P46072	Major NAD(P)H-flavin oxidoreductase
+Q9HAZ1	Dual specificity protein kinase CLK4
+P51687	Sulfite oxidase, mitochondrial
+O13332	Inositol phosphorylceramide synthase
+P83795	Cytochrome b6-f complex subunit 6
+Q68101	Serine/threonine protein kinase UL97
+P07766	T-cell surface glycoprotein CD3 epsilon chain
+P23434	Glycine cleavage system H protein, mitochondrial
+P04053	DNA nucleotidylexotransferase
+Q9X0A2	Aldehyde reductase
+Q9P2N6	KAT8 regulatory NSL complex subunit 3
+Q9ULC6	Protein-arginine deiminase type-1
+O60733	85/88 kDa calcium-independent phospholipase A2
+P17516	Aldo-keto reductase family 1 member C4
+O15382	Branched-chain-amino-acid aminotransferase, mitochondrial
+Q9NQX3	Gephyrin
+P30012	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Q9WZD5	Hydrolase, TatD family
+P18846	activator protein 1
+Q12797	Aspartyl/asparaginyl beta-hydroxylase
+Q9UIC8	Leucine carboxyl methyltransferase 1
+P05893	Gag polyprotein
+P15502	Elastin
+Q16584	Mitogen-activated protein kinase kinase kinase 11
+P28331	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial
+Q8IKM5	60S ribosomal protein L27
+Q00987	E3 ubiquitin-protein ligase Mdm2
+P0ACQ4	Hydrogen peroxide-inducible genes activator
+P02649	Apolipoprotein E
+Q9WZ57	Rod shape-determining protein MreB
+P05305	Endothelin-1
+Q13219	Pappalysin-1
+P19525	Interferon-induced, double-stranded RNA-activated protein kinase
+Q16718	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5
+Q79FX6	Cyclopropane mycolic acid synthase MmaA2
+Q07864	DNA polymerase epsilon catalytic subunit A
+P31323	cAMP-dependent protein kinase type II-beta regulatory subunit
+P18405	3-oxo-5-alpha-steroid 4-dehydrogenase 1
+P05884	Envelope glycoprotein gp160
+P9WNS5	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+P04324	Protein Nef
+P17540	Creatine kinase S-type, mitochondrial
+P14410	Sucrase-isomaltase, intestinal
+Q9Y5R2	Matrix metalloproteinase-24
+O08498	Carbapenem-hydrolyzing beta-lactamase BlaB-1
+Q8IEN3	Carbamoyl phosphate synthetase
+Q00653	Nuclear factor NF-kappa-B complex
+P11759	GDP-mannose 6-dehydrogenase
+Q7CL96	Putative stringent starvation protein A
+P03198	DNA polymerase catalytic subunit
+P55769	NHP2-like protein 1
+P48167	Glycine receptor subunit beta
+P07237	Protein disulfide-isomerase
+P10147	C-C motif chemokine 3
+P06202	Periplasmic oligopeptide-binding protein
+P06210	Genome polyprotein
+Q9F0J6	Rubredoxin-oxygen oxidoreductase
+P48637	Glutathione synthetase
+Q836J0	Glutamate racemase
+P35963	Gag-Pol polyprotein
+P05655	Levansucrase
+P54284	Voltage-dependent L-type calcium channel subunit beta-3
+Q07806	Penicillin-binding protein 1A
+P07307	Asialoglycoprotein receptor 2
+Q8N543	2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1
+Q02750	Dual specificity mitogen-activated protein kinase kinase 1
+P48067	Sodium- and chloride-dependent glycine transporter 1
+O00182	Galectin-9
+P07658	Formate dehydrogenase H
+P13631	Retinoic acid receptor gamma
+P68638	Complement control protein C3
+P16083	Ribosyldihydronicotinamide dehydrogenase [quinone]
+Q83JC4	Elongation factor Tu
+P66010	Thioredoxin reductase
+P19480	Alkyl hydroperoxide reductase subunit F
+Q9UNA0	A disintegrin and metalloproteinase with thrombospondin motifs 5
+P12998	8-amino-7-oxononanoate synthase
+P36021	Monocarboxylate transporter 8
+P15880	40S ribosomal protein S2
+Q94M05	NTPase P4
+P00734	Prothrombin
+P30530	Tyrosine-protein kinase receptor UFO
+Q02779	Mitogen-activated protein kinase kinase kinase 10
+P51151	Ras-related protein Rab-9A
+Q06187	Tyrosine-protein kinase BTK
+P16753	Capsid scaffolding protein
+P08069	Insulin-like growth factor 1 receptor
+P30519	Heme oxygenase 2
+P50213	Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial
+P08588	Beta adrenergic receptor
+P08174	Complement decay-accelerating factor
+A1A2B5	Probable chorismate mutase
+Q9Y5K3	Choline-phosphate cytidylyltransferase B
+P21728	D(1A) dopamine receptor
+P14555	Phospholipase A2, membrane associated
+P03886	NADH-ubiquinone oxidoreductase chain 1
+P19835	Bile salt-activated lipase
+P08922	Proto-oncogene tyrosine-protein kinase ROS
+Q13093	Platelet-activating factor acetylhydrolase
+P42971	Penicillin-binding protein 3
+P48050	Inward rectifier potassium channel 4
+P50613	Cyclin-dependent kinase 7
+O95835	Serine/threonine-protein kinase LATS1
+Q9NS85	Carbonic anhydrase-related protein 10
+O14920	Inhibitor of nuclear factor kappa-B kinase subunit beta
+P00751	Complement factor B
+Q8I2Z8	Probable ATP-dependent 6-phosphofructokinase
+Q16678	Cytochrome P450 1B1
+P16233	Pancreatic triacylglycerol lipase
+P77541	Methylisocitrate lyase
+Q9Y4R7	Tubulin monoglycylase TTLL3
+O43920	NADH dehydrogenase [ubiquinone] iron-sulfur protein 5
+P04004	Vitronectin
+P03989	HLA class I histocompatibility antigen, B-27 alpha chain
+P14779	Bifunctional P-450/NADPH-P450 reductase
+Q57265	Capsule biosynthesis protein
+P31942	Heterogeneous nuclear ribonucleoprotein H3
+Q8TF76	Serine/threonine-protein kinase haspin
+Q8I3Z5	Translationally-controlled tumor protein homolog
+P0AES2	Glucarate dehydratase
+Q96D53	Atypical kinase COQ8B, mitochondrial
+Q9I5F3	FMN-dependent NADH-azoreductase 1
+O69007	Maltogenic amylase
+P09619	Platelet-derived growth factor receptor beta
+Q99584	Protein S100-A13
+P14780	Matrix metalloproteinase-9
+P36405	ADP-ribosylation factor-like protein 3
+P35218	Carbonic anhydrase 5A, mitochondrial
+Q96NX5	Calcium/calmodulin-dependent protein kinase type 1G
+P39126	Isocitrate dehydrogenase [NADP]
+B2ZTR6	Beta-lactamase
+Q96SL4	Glutathione peroxidase 7
+Q9UK23	N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+P78334	Gamma-aminobutyric acid receptor subunit epsilon
+P27693	Alkaline protease
+P00558	Phosphoglycerate kinase 1
+P43683	Lantibiotic mersacidin
+Q13231	Chitotriosidase-1
+P19823	Inter-alpha-trypsin inhibitor heavy chain H2
+P04079	GMP synthase [glutamine-hydrolyzing]
+P50225	Sulfotransferase 1A1
+P20586	p-hydroxybenzoate hydroxylase
+P06715	Glutathione reductase
+P0ABA0	ATP synthase subunit b
+Q9Y2H1	Serine/threonine-protein kinase 38-like
+Q00535	Cyclin-dependent kinase 5
+P9WNL7	Probable arabinosyltransferase B
+T
+Q9X242	Putative ribosome biogenesis GTPase RsgA
+Q52546	Replication protein
+P62277	40S ribosomal protein S13
+P0A8V2	DNA-directed RNA polymerase subunit beta
+P00864	Phosphoenolpyruvate carboxylase
+P07464	Galactoside O-acetyltransferase
+P09958	Furin
+P31639	Sodium/glucose cotransporter 2
+P0ACB2	Delta-aminolevulinic acid dehydratase
+Q79MP6	Beta-lactamase
+Q8VUS7	Quinohemoprotein amine dehydrogenase 40 kDa subunit
+Q7CRA4	Penicillin-binding protein 1b
+O75385	Serine/threonine-protein kinase ULK1
+P9WIE5	Catalase-peroxidase
+Q8Z2X8	Autoinducer 2-binding protein LsrB
+Q06110	Antitumor antibiotic C-1027 apoprotein
+Q7SID9	Oxidoreductase
+Q96C86	m7GpppX diphosphatase
+P13501	C-C motif chemokine 5
+P07711	Cathepsin L1
+P22888	Lutropin-choriogonadotropic hormone receptor
+P19938	D-alanine aminotransferase
+P25774	Cathepsin S
+P51852	Indole-3-pyruvate decarboxylase
+Q9UHI5	Large neutral amino acids transporter small subunit 2
+Q82EE4	Uncharacterized protein
+P16115	L-lactate dehydrogenase
+Q5SHQ5	30S ribosomal protein S5
+P11310	Medium-chain specific acyl-CoA dehydrogenase, mitochondrial
+O00303	Eukaryotic translation initiation factor 3 subunit F
+P0C0F4	UDP-glucose 6-dehydrogenase
+P05156	Complement factor I
+P20742	Pregnancy zone protein
+P01764	Ig heavy chain V-III region VH26
+P43353	Aldehyde dehydrogenase family 3 member B1
+Q9NY72	Sodium channel subunit beta-3
+Q9NPD5	Solute carrier organic anion transporter family member 1B3
+Q9UNI1	Chymotrypsin-like elastase family member 1
+Q46509	Aldehyde oxidoreductase
+P60709	Actin, cytoplasmic 1
+Q9KFR4	Alpha-amylase G-6
+P08244	Orotidine 5'-phosphate decarboxylase
+P05120	Plasminogen activator inhibitor 2
+P16435	NADPH--cytochrome P450 reductase
+P08908	Serotonin Receptors
+Q54331	Cellulase B
+O15460	Prolyl 4-hydroxylase subunit alpha-2
+Q9GZU7	Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1
+P36952	Serpin B5
+P06709	Bifunctional protein BirA
+P09525	Annexin A4
+Q07973	1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial
+P01615	Ig kappa chain V-II region TEW
+P42338	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform
+P0AES6	DNA gyrase subunit B
+Q9Y5Y9	Sodium channel protein type 10 subunit alpha
+C0H4V6	14-3-3 protein
+Q5KUI3	Uracil phosphoribosyltransferase
+P54577	Tyrosine--tRNA ligase, cytoplasmic
+P62491	Ras-related protein Rab-11A
+Q9X108	6-phospho-beta-glucosidase BglT
+P16410	Cytotoxic T-lymphocyte protein 4
+O75838	Calcium and integrin-binding family member 2
+Q8P9V9	Bacterioferritin comigratory protein
+Q13177	Serine/threonine-protein kinase PAK 2
+Q14994	Nuclear receptor subfamily 1 group I member 3
+P01270	Parathyroid hormone
+P0AEX9	Maltose-binding periplasmic protein
+P31939	Bifunctional purine biosynthesis protein PURH
+P00484	Chloramphenicol acetyltransferase 3
+Q5LRQ9	ABC transporter, periplasmic substrate-binding protein
+A9JQL9	Dehydrosqualene synthase
+P26276	Phosphomannomutase/phosphoglucomutase
+P36924	Beta-amylase
+G
+P35908	Keratin, type II cytoskeletal 2 epidermal
+P08123	Collagen alpha-2(I) chain
+Q9ZB17	Aldose 1-epimerase
+P35527	Keratin, type I cytoskeletal 9
+Q47066	Beta-lactamase Toho-1
+P30273	High affinity immunoglobulin epsilon receptor subunit gamma
+Q8TCT9	Minor histocompatibility antigen H13
+P14866	Heterogeneous nuclear ribonucleoprotein L
+Q9BXA1	Hepatic peroxysomal alanine:glyoxylate aminotransferase
+O95477	ATP-binding cassette sub-family A member 1
+P26640	Valine--tRNA ligase
+O43272	Proline dehydrogenase 1, mitochondrial
+P46925	Plasmepsin-2
+O15075	Serine/threonine-protein kinase DCLK1
+P00450	Ceruloplasmin
+Q9UEE5	Serine/threonine-protein kinase 17A
+P69905	Hemoglobin subunit alpha
+P07686	Beta-hexosaminidase subunit beta
+P0AEB3	D-alanyl-D-alanine carboxypeptidase DacA
+Q99798	Aconitate hydratase, mitochondrial
+P52848	Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1
+Q05586	Glutamate receptor ionotropic, NMDA 1
+P61949	Flavodoxin-1
+Q8IYT8	Serine/threonine-protein kinase ULK2
+P00749	Urokinase-type plasminogen activator
+P20309	Muscarinic acetylcholine receptor M3
+Q9UK17	Potassium voltage-gated channel subfamily D member 3
+P08200	Isocitrate dehydrogenase [NADP]
+P36419	Aspartate--tRNA ligase
+P05412	Transcription factor AP-1
+Q59643	Delta-aminolevulinic acid dehydratase
+Q9K578	FEZ-1 protein
+Q07075	Glutamyl aminopeptidase
+P0A6I0	Cytidylate kinase
+P00363	Fumarate reductase flavoprotein subunit
+Q02169	Septum formation protein Maf
+Q99AU2	Genome polyprotein
+P0A9J8	P-protein
+P72524	DNA gyrase subunit A
+P97253	Light-harvesting protein B-800/850 alpha chain
+Q96PR1	Potassium voltage-gated channel subfamily C member 2
+P13036	Fe(3+) dicitrate transport protein FecA
+P83797	Cytochrome b6-f complex subunit 5
+P22460	Potassium voltage-gated channel subfamily A member 5
+P20333	Tumor necrosis factor receptor superfamily member 1B
+P22749	Granulysin
+P22262	Listeriolysin regulatory protein
+P27448	MAP/microtubule affinity-regulating kinase 3
+P03956	Interstitial collagenase
+Q9H4G4	Golgi-associated plant pathogenesis-related protein 1
+Q9H422	Homeodomain-interacting protein kinase 3
+Q92830	Histone acetyltransferase KAT2A
+O43519	RET proto-oncogene
+Q92953	Potassium voltage-gated channel subfamily B member 2
+Q8N1G2	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1
+P00414	Cytochrome c oxidase subunit 3
+P80376	30S ribosomal protein S11
+Q9L6V3	NADPH:ferredoxin reductase
+Q9KIE5	FkbI
+Q9BYZ2	L-lactate dehydrogenase A-like 6B
+P12851	Xylose isomerase
+P23222	Sensor protein FixL
+P0A953	3-oxoacyl-[acyl-carrier-protein] synthase 1
+Q9BQE3	Tubulin alpha-1C chain
+Q81EE4	Acyl-CoA hydrolase
+Q56839	2-oxopropyl-CoM reductase, carboxylating
+P00436	Protocatechuate 3,4-dioxygenase alpha chain
+Q9X0P2	Glutamine amidotransferase class-I
+P24385	G1/S-specific cyclin-D1
+Q82122	Genome polyprotein
+P00381	Dihydrofolate reductase
+P09850	Endo-1,4-beta-xylanase
+P30536	Translocator protein
+Q8IUR0	Trafficking protein particle complex subunit 5
+P97084	Threonine-phosphate decarboxylase
+P02750	Leucine-rich alpha-2-glycoprotein
+P54819	Adenylate kinase 2, mitochondrial
+Q5RT80	Outer membrane protein II
+o
+Q8TCU5	Glutamate receptor ionotropic, NMDA 3A
+P31994	Low affinity immunoglobulin gamma Fc region receptor II-b
+P01906	HLA class II histocompatibility antigen, DQ alpha 2 chain
+O00244	Copper transport protein ATOX1
+P26676	RNA-directed RNA polymerase L
+P55263	Adenosine kinase
+Q9UBX3	Mitochondrial dicarboxylate carrier
+P77173	Cell division protein ZipA
+P40933	Interleukin-15
+P27505	Pyrroloquinoline-quinone synthase
+Q3J170	Reaction center protein H chain
+Q96MA6	Adenylate kinase 8
+P0AB87	L-fuculose phosphate aldolase
+P56937	3-keto-steroid reductase
+Q7BK04	Cag alpha
+P50406	5-hydroxytryptamine receptor 6
+Q820T1	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Q9WXV1	tRNA-dihydrouridine synthase
+P13900	Genome polyprotein
+P15954	Cytochrome c oxidase subunit 7C, mitochondrial
+P00909	Tryptophan biosynthesis protein TrpCF
+O75936	Gamma-butyrobetaine dioxygenase
+P0A794	Pyridoxine 5'-phosphate synthase
+P9WGV3	Adenosylhomocysteinase
+Q06830	Peroxiredoxin-1
+P16100	Isocitrate dehydrogenase [NADP]
+P23234	Indole-3-pyruvate decarboxylase
+P39767	Porin
+P49356	Protein farnesyltransferase subunit beta
+Q8GGK7	PpcA
+Q72LA5	NrfC protein
+Q16850	Lanosterol 14-alpha demethylase
+P35462	D(3) dopamine receptor
+Q9UJM8	Hydroxyacid oxidase 1
+P0A9D2	Glutathione S-transferase GstA
+Q9Y6L6	Solute carrier organic anion transporter family member 1B1
+P17252	Protein kinase C
+P23786	Carnitine O-palmitoyltransferase 2, mitochondrial
+P54965	Choloylglycine hydrolase
+P26392	dTDP-4-dehydrorhamnose reductase
+P48029	Sodium- and chloride-dependent creatine transporter 1
+Q04609	Glutamate carboxypeptidase 2
+O32248	Uncharacterized N-acetyltransferase YvbK
+P45059	Peptidoglycan synthase FtsI
+P36673	HTH-type transcriptional regulator TreR
+P17213	Bactericidal permeability-increasing protein
+Q9BYV1	Alanine--glyoxylate aminotransferase 2, mitochondrial
+P0A917	Outer membrane protein X
+P48060	Glioma pathogenesis-related protein 1
+P52477	Multidrug resistance protein MexA
+P34969	5-hydroxytryptamine receptor 7
+P37063	Pyruvate oxidase
+P61322	Outer-membrane lipoprotein LolB
+P08842	Steryl-sulfatase
+Q59560	Protein RecA
+Q9H853	Putative tubulin-like protein alpha-4B
+P0A793	Aspartate 1-decarboxylase
+P51172	Amiloride-sensitive sodium channel subunit delta
+P00403	Cytochrome c oxidase subunit 2
+P10745	Retinol-binding protein 3
+P03276	Penton protein
+Q04206	Transcription factor p65
+Q9NWM0	Spermine oxidase
+P15509	Granulocyte-macrophage colony-stimulating factor receptor subunit alpha
+P28329	Choline O-acetyltransferase
+Q99808	Equilibrative nucleoside transporter 1
+P32754	4-hydroxyphenylpyruvate dioxygenase
+Q9UBK8	Methionine synthase reductase
+P12236	ADP/ATP translocase 3
+P46881	Phenylethylamine oxidase
+P62580	Chloramphenicol acetyltransferase
+P24474	Nitrite reductase
+Q99735	Microsomal glutathione S-transferase 2
+P62508	Estrogen-related receptor gamma
+P52732	Kinesin-like protein KIF11
+P21397	Amine oxidase [flavin-containing] A
+P16006	Deoxycytidylate deaminase
+Q9NYY3	Serine/threonine-protein kinase PLK2
+P28476	Gamma-aminobutyric acid receptor subunit rho-2
+O14818	Proteasome subunit alpha type-7
+P16502	RNA-directed RNA polymerase catalytic subunit
+P43220	Glucagon-like peptide 1 receptor
+P9WIQ1	UDP-galactopyranose mutase
+Q9BVA1	Tubulin beta-2B chain
+P62617	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+P33261	Cytochrome P450 2C19
+P00441	Superoxide dismutase [Cu-Zn]
+P25705	ATP synthase subunit alpha, mitochondrial
+K
+P28845	Corticosteroid 11-beta-dehydrogenase isozyme 1
+Q9ZLT0	Glutamate racemase
+B7JBP8	Sulfide-quinone reductase, putative
+Q15046	Lysine--tRNA ligase
+Q969P6	DNA topoisomerase I, mitochondrial
+Q8KT33	Urease
+P48047	ATP synthase subunit O, mitochondrial
+P35346	Somatostatin receptor type 5
+Q5SLP8	30S ribosomal protein S6
+P04626	Receptor tyrosine-protein kinase erbB-2
+P24941	Cyclin-dependent kinase 2
+P03951	Coagulation factor XI
+Q96C36	Pyrroline-5-carboxylate reductase 2
+P33590	Nickel-binding periplasmic protein
+P0AD64	Beta-lactamase SHV-1
+Q6GII7	3-dehydroquinate dehydratase
+Q16644	MAP kinase-activated protein kinase 3
+P9WNX3	D-3-phosphoglycerate dehydrogenase
+Q15119	[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 2, mitochondrial
+Q59EB3	Met proto-oncogene variant
+P04164	Cytochrome c-552
+Q9UEW8	STE20/SPS1-related proline-alanine-rich protein kinase
+P68371	Tubulin beta-4B chain
+Q57193	Cholera enterotoxin B subunit
+P14867	GABA-A receptor (benzodiazepine site)
+P18089	Alpha-2B adrenergic receptor
+P0A7U3	30S ribosomal protein S19
+P43702	DNA topoisomerase 4 subunit A
+P32238	Cholecystokinin receptor type A
+O95169	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial
+P80404	4-aminobutyrate aminotransferase, mitochondrial
+P49419	Alpha-aminoadipic semialdehyde dehydrogenase
+Q92753	Nuclear receptor ROR-beta
+P04392	DNA adenine methylase
+P76216	N-succinylarginine dihydrolase
+g
+P49915	GMP synthase [glutamine-hydrolyzing]
+P62714	Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform
+P05177	Cytochrome P450 1A2
+P22234	Multifunctional protein ADE2
+Q96RJ0	Trace amine-associated receptor 1
+P29274	Adenosine receptor A2a
+P21408	Fe(3+)-binding periplasmic protein
+Q8IY84	Serine/threonine-protein kinase NIM1
+P01730	T-cell surface glycoprotein CD4
+O75891	Cytosolic 10-formyltetrahydrofolate dehydrogenase
+P0ABE7	Soluble cytochrome b562
+P00480	Ornithine carbamoyltransferase, mitochondrial
+O25608	Oxygen-insensitive NADPH nitroreductase
+O60285	NUAK family SNF1-like kinase 1
+Q54089	Bifunctional (p)ppGpp synthase/hydrolase RelA
+P09110	3-ketoacyl-CoA thiolase, peroxisomal
+Q56268	3-isopropylmalate dehydrogenase
+Q07021	Complement component 1 Q subcomponent-binding protein, mitochondrial
+P35398	Nuclear receptor ROR-alpha
+Q27218	Acetylcholine receptor subunit beta-type lev-1
+Q8ZKR2	Putative sugar kinase
+P35348	Alpha adrenergic receptor
+P80371	30S ribosomal protein S2
+P10114	Ras-related protein Rap-2a
+P07947	Tyrosine-protein kinase Yes
+Q75N90	Fibrillin-3
+P9WNX1	Dihydrofolate reductase
+P29972	Aquaporin-1
+P0C0L5	Complement C4-B
+P0A3M5	Penicillin-binding protein 2B
+P51649	Succinate-semialdehyde dehydrogenase, mitochondrial
+Q9Y2H9	Microtubule-associated serine/threonine-protein kinase 1
+P80748	Immunoglobulin lambda variable 3-21
+O14786	Neuropilin-1
+P12429	Annexin A3
+P08908	5-hydroxytryptamine receptor 1
+P04293	DNA polymerase catalytic subunit
+Q88K39	Glutaminase-asparaginase
+Q9Y5N1	Histamine H3 receptor
+P37023	Serine/threonine-protein kinase receptor R3
+P31645	Sodium-dependent serotonin transporter
+P08179	Phosphoribosylglycinamide formyltransferase
+P83453	Tyrosine--tRNA ligase
++
+Q9H015	Solute carrier family 22 member 4
+P02652	Apolipoprotein A-II
+O15350	Tumor protein p73
+Q13133	Oxysterols receptor LXR-alpha
+O60909	Beta-1,4-galactosyltransferase 2
+P16070	CD44 antigen
+Q96I59	Probable asparagine--tRNA ligase, mitochondrial
+P22830	Ferrochelatase, mitochondrial
+O30527	PcrV
+Q96HD9	Aspartoacylase-2
+P9WK19	Methionine aminopeptidase 2
+P14751	Modification methylase RsrI
+Q9RX51	Malto-oligosyltrehalose trehalohydrolase
+P03366	Gag-Pol polyprotein
+B7JA91	Putative uncharacterized protein
+P05896	Gag-Pol polyprotein
+Q9UGN5	Poly [ADP-ribose] polymerase 2
+P00803	Signal peptidase I
+Q9ULB1	Neurexin-1
+Q9HBK9	Arsenite methyltransferase
+Q6NSD4	Glutathione peroxidase
+O75914	Serine/threonine-protein kinase PAK 3
+P18505	Gamma-aminobutyric acid receptor subunit beta-1
+P62594	Beta-lactamase TEM
+P26396	Glucose-1-phosphate cytidylyltransferase
+Q03721	Potassium voltage-gated channel subfamily C member 4
+P10186	Uracil-DNA glycosylase
+P20393	Nuclear receptor subfamily 1 group D member 1
+P23416	Glycine receptor subunit alpha-2
+P61158	Actin-related protein 3
+Q9Y2Q3	Glutathione S-transferase kappa 1
+Q8XJ01	Penicillin-binding protein 1A
+P50607	Tubby protein homolog
+P0AG82	Phosphate-binding protein PstS
+Q99759	Mitogen-activated protein kinase kinase kinase 3
+P09622	Dihydrolipoyl dehydrogenase, mitochondrial
+Q5SJH3	30S ribosomal protein S16
+Q9NRF9	DNA polymerase epsilon subunit 3
+P55072	Transitional endoplasmic reticulum ATPase
+Q6ZN16	Mitogen-activated protein kinase kinase kinase 15
+Q99933	BAG family molecular chaperone regulator 1
+P52664	Beta-lactamase
+P68344	Envelope glycoprotein GP340
+P0AB74	D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+O14763	Tumor necrosis factor receptor superfamily member 10B
+P07451	Carbonic anhydrase 3
+P0AE67	Chemotaxis protein CheY
+Q14643	Inositol 1,4,5-trisphosphate receptor
+Q92793	CREB-binding protein
+P0C0Y8	Reaction center protein L chain
+P06734	Low affinity immunoglobulin epsilon Fc receptor
+P84887	Aralkylamine dehydrogenase light chain
+P06132	Uroporphyrinogen decarboxylase
+P10515	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
+P11047	Laminin subunit gamma-1
+P24425	Thymidine kinase
+Q16769	Glutaminyl-peptide cyclotransferase
+O14880	Microsomal glutathione S-transferase 3
+P0A8X2	Protein YceI
+P62269	40S ribosomal protein S18
+O75747	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma
+P09250	Thymidine kinase
+O15379	Histone deacetylase 3
+P16860	Natriuretic peptides B
+Q9Y478	5'-AMP-activated protein kinase subunit beta-1
+P02533	Keratin, type I cytoskeletal 14
+P07097	Acetyl-CoA acetyltransferase
+O94760	N(G),N(G)-dimethylarginine dimethylaminohydrolase 1
+Q6V0L0	Cytochrome P450 26C1
+P35558	Phosphoenolpyruvate carboxykinase, cytosolic [GTP]
+P17846	Sulfite reductase [NADPH] hemoprotein beta-component
+P54652	Heat shock-related 70 kDa protein 2
+Q9RA63	Chaperone protein ClpB
+Q56UN5	Mitogen-activated protein kinase kinase kinase 19
+P37058	Testosterone 17-beta-dehydrogenase 3
+P01563	Interferon alpha-2
+Q9NS18	Glutaredoxin-2, mitochondrial
+P07944	Beta-lactam-inducible penicillin-binding protein
+P36873	Serine/threonine-protein phosphatase PP1-gamma catalytic subunit
+Q96RQ9	L-amino-acid oxidase
+P14902	Indoleamine 2,3-dioxygenase 1
+P80040	Malate dehydrogenase
+P30874	Somatostatin receptor type 2
+P62745	Rho-related GTP-binding protein RhoB
+P42262	Glutamate receptor 2
+P41250	Glycine--tRNA ligase
+O31465	Glutaminase 1
+O68601	Dissimilatory copper-containing nitrite reductase
+P69908	Glutamate decarboxylase alpha
+Q14494	Nuclear factor erythroid 2-related factor 1
+Q15118	[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 1, mitochondrial
+P31992	Tautomerase PptA
+P98164	Low-density lipoprotein receptor-related protein 2
+P32947	Lipase 3
+P26572	Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase
+Q9GV41	Prostaglandin F synthase
+O14727	Apoptotic protease-activating factor 1
+P10109	Adrenodoxin, mitochondrial
+P34998	Corticotropin-releasing factor receptor 1
+Q8I431	60S ribosomal protein L4
+O14842	Free fatty acid receptor 1
+Q13233	Mitogen-activated protein kinase kinase kinase 1
+Q8ILE8	60S ribosomal protein L14, putative
+Q13509	Tubulin beta-3 chain
+P31260	Homeobox protein Hox-A10
+P83223	Fumarate reductase flavoprotein subunit
+P0AC41	Succinate dehydrogenase flavoprotein subunit
+Q96GD4	Aurora kinase B
+Q13085	Acetyl-CoA carboxylase 1
+P22792	Carboxypeptidase N subunit 2
+Q86US8	Telomerase-binding protein EST1A
+Q96RP8	Potassium voltage-gated channel subfamily A member 7
+P15538	Cytochrome P450 11B1, mitochondrial
+Q6IB77	Glycine N-acyltransferase
+P84147	Phospholipase D
+P9WI73	Serine/threonine-protein kinase PknG
+P42679	Megakaryocyte-associated tyrosine-protein kinase
+O60493	Sorting nexin-3
+O60701	UDP-glucose 6-dehydrogenase
+P21980	Protein-glutamine gamma-glutamyltransferase 2
+Q5SJI0	Sulfurtransferase
+Q9Z4P0	Fumarate reductase flavoprotein subunit
+P23258	Tubulin gamma-1 chain
+Q9NRH2	SNF-related serine/threonine-protein kinase
+P30085	UMP-CMP kinase
+P36204	Bifunctional PGK/TIM
+P0A753	Nicotinate-nucleotide adenylyltransferase
+Q13443	Disintegrin and metalloproteinase domain-containing protein 9
+P0AFU8	Riboflavin synthase
+P02538	Keratin, type II cytoskeletal 6A
+P0ABQ4	Dihydrofolate reductase
+Q15746	Myosin light chain kinase, smooth muscle
+P34972	Cannabinoid receptor 2
+P00634	Alkaline phosphatase
+P06310	Ig kappa chain V-II region RPMI 6410
+P37330	Malate synthase G
+P09104	Gamma-enolase
+P06612	DNA topoisomerase 1
+P06008	Reaction center protein H chain
+P9WN39	Glutamine synthetase 1
+P07358	Complement component C8 beta chain
+Q9NZV8	Potassium voltage-gated channel subfamily D member 2
+P17931	Galectin-3
+P49189	4-trimethylaminobutyraldehyde dehydrogenase
+P43005	Excitatory amino acid transporter 3
+P13866	Sodium/glucose cotransporter 1
+Q9Y6R4	Mitogen-activated protein kinase kinase kinase 4
+O11885	DNA polymerase
+Q8RJN5	Peptide amidase
+P54802	Alpha-N-acetylglucosaminidase
+Q13526	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1
+P9WKK7	Isocitrate lyase
+Q70Z44	5-hydroxytryptamine receptor 3D
+F7VJQ1	Alternative prion protein
+P20273	B-cell receptor CD22
+P21796	Voltage-dependent anion-selective channel protein 1
+P07737	Profilin-1
+P83788	Kynureninase
+A0A143ZZK9	Non-SERCA-type Ca2+-transporting P-ATPase
+'
+P0A094	Nitric oxide synthase oxygenase
+F5HCU8	Tripartite terminase subunit 3
+P09493	Tropomyosin alpha-1 chain
+P0A7Z4	DNA-directed RNA polymerase subunit alpha
+P0AF12	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+P21404	Genome polyprotein
+P63261	Actin, cytoplasmic 2
+P01593	Ig kappa chain V-I region Bi
+P33517	Cytochrome c oxidase subunit 1
+P36894	Bone morphogenetic protein receptor type-1A
+Q04830	Endo-N-acetylneuraminidase
+P0A8V9	Fatty acid metabolism regulator protein
+Q99720	Sigma non-opioid intracellular receptor 1
+Q59931	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+P00709	Alpha-lactalbumin
+Q02880	DNA topoisomerase 2-beta
+P05141	ADP/ATP translocase 2
+P0A745	Peptide methionine sulfoxide reductase MsrA
+P33527	Multidrug resistance-associated protein 1
+Q8VVD2	Alpha-glucuronidase
+Q9X6W0	Penicillin-binding protein 1B
+O75493	Carbonic anhydrase-related protein 11
+P10827	Thyroid hormone receptor alpha
+P29460	Interleukin-12 subunit beta
+Q96RD7	Pannexin-1
+P12995	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+P11409	Modification methylase PvuII
+Q9UBV8	Peflin
+Q15139	Serine/threonine-protein kinase D1
+Q9Y468	Lethal(3)malignant brain tumor-like protein 1
+Q13627	Dual specificity tyrosine-phosphorylation-regulated kinase 1A
+P07617	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase
+P02753	Retinol-binding protein 4
+P16519	Neuroendocrine convertase 2
+Q9AGP8	N,N-dimethylglycine oxidase
+P31943	Heterogeneous nuclear ribonucleoprotein H
+P05091	Aldehyde dehydrogenase, mitochondrial
+P43522	Peptide deformylase
+Q64823	Fiber
+,
+P35408	Prostaglandin E2 receptor EP4 subtype
+P09769	Tyrosine-protein kinase Fgr
+O75715	Epididymal secretory glutathione peroxidase
+P83796	Cytochrome b6-f complex subunit 7
+P11387	DNA topoisomerase 1
+Q99705	Melanin-concentrating hormone receptor 1
+P10632	Cytochrome P450 2C8
+P22459	Potassium voltage-gated channel subfamily A member 4
+P10600	Transforming growth factor beta-3
+P9WQG9	Aminoglycoside 2'-N-acetyltransferase
+P78417	Glutathione S-transferase omega-1
+P28074	Proteasome subunit beta type-5
+P15273	Tyrosine-protein phosphatase YopH
+P26789	Light-harvesting protein B-800/850 alpha chain
+Q13557	Calcium/calmodulin-dependent protein kinase type II subunit delta
+Q01726	Melanocyte-stimulating hormone receptor
+P58758	Adenylate dimethylallyltransferase
+P0AE22	Class B acid phosphatase
+P30101	Protein disulfide-isomerase A3
+Q81VW8	Dihydropteroate synthase
+P37088	Amiloride-sensitive sodium channel subunit alpha
+Q8I6U8	Glycophorin-binding protein
+P07986	Exoglucanase/xylanase
+P0AFI7	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+P26918	Beta-lactamase
+Q9RP17	Surface protein A
+P29034	Protein S100-A2
+Q18BX5	RNA polymerase sigma factor
+Q8TBX8	Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma
+A7B6P0	EDD domain protein, DegV family
+P84141	Chondroitinase (Chondroitin lyase)
+P01892	HLA class I histocompatibility antigen, A-2 alpha chain
+Q15661	Tryptase alpha/beta-1
+P0AAI5	3-oxoacyl-[acyl-carrier-protein] synthase 2
+O60294	Leucine carboxyl methyltransferase 2
+Q9UPZ9	Serine/threonine-protein kinase ICK
+Q8N5Z0	Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial
+O75306	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial
+O85361	B-N-acetylhexosaminidase
+P09142	Non-fluorescent flavoprotein
+Q53591	Hyaluronate lyase
+Q96GA7	Serine dehydratase-like
+P47871	Glucagon receptor
+P51857	3-oxo-5-beta-steroid 4-dehydrogenase
+Q8ID50	Ubiquitin-60S ribosomal protein L40
+Q8TCG2	Phosphatidylinositol 4-kinase type 2-beta
+P81989	Purine nucleoside phosphorylase
+P19079	Cytidine deaminase
+P22073	Beta-glucosidase A
+O43617	Trafficking protein particle complex subunit 3
+Q969S2	Endonuclease 8-like 2
+Q9RYA6	N-acylamino acid racemase
+S
+P62663	30S ribosomal protein S3
+P18545	Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma
+P05162	Galectin-2
+Q87MW5	Uncharacterized protein
+O95237	Lecithin retinol acyltransferase
+P32890	Heat-labile enterotoxin B chain
+Q52369	Cytochrome c4
+Q9X757	Beta-lactamase (MIR-1)
+Q96AZ6	Interferon-stimulated gene 20 kDa protein
+P22033	Methylmalonyl-CoA mutase, mitochondrial
+P16234	Platelet-derived growth factor receptor alpha
+Q9NXA8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+C0H571	High molecular weight rhoptry protein 2
+Q9NYQ3	Hydroxyacid oxidase 2
+Q7Z460	CLIP-associating protein 1
+P00491	Purine nucleoside phosphorylase
+Q84424	mRNA-capping enzyme
+P02144	Myoglobin
+Q9UBX1	Cathepsin F
+Q9X0L5	Aminotransferase, putative
+P30418	Glycylpeptide N-tetradecanoyltransferase
+P15391	B-lymphocyte antigen CD19
+Q16518	Retinoid isomerohydrolase
+P07550	Beta-2 adrenergic receptor
+P30626	Sorcin
+A0R559	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Q13163	Dual specificity mitogen-activated protein kinase kinase 5
+Q59401	Class C beta-lactamase
+P26662	Genome polyprotein
+O14764	Gamma-aminobutyric acid receptor subunit delta
+P62661	30S ribosomal protein S20
+Q15393	Splicing factor 3B subunit 3
+Q14833	Metabotropic glutamate receptor 4
+P02925	D-ribose-binding periplasmic protein
+Q8IW41	MAP kinase-activated protein kinase 5
+O14618	Copper chaperone for superoxide dismutase
+P01579	Interferon gamma
+P37551	Pur operon repressor
+P9WPQ5	ATP-dependent dethiobiotin synthetase BioD
+P13688	Carcinoembryonic antigen-related cell adhesion molecule 1
+Q96JQ3	P-selectin cytoplasmic tail-associated protein (PCAP)
+P20292	Arachidonate 5-lipoxygenase-activating protein
+O60779	Thiamine transporter 1
+A5X5Y0	5-hydroxytryptamine receptor 3E
+P58335	Anthrax toxin receptor 2
+P17117	Oxygen-insensitive NADPH nitroreductase
+Q15878	Voltage-dependent R-type calcium channel subunit alpha-1E
+P00521	Tyrosine-protein kinase transforming protein Abl
+Q6UWP2	Dehydrogenase/reductase SDR family member 11
+P48552	Nuclear receptor-interacting protein 1
+P12070	Xylose isomerase
+P0A7Z3	Ribose-5-phosphate isomerase A
+P23246	Splicing factor, proline- and glutamine-rich
+P30793	GTP cyclohydrolase 1
+Q53901	ActII protein
+P09148	Galactose-1-phosphate uridylyltransferase
+O14958	Calsequestrin-2
+Q96BR1	Serine/threonine-protein kinase Sgk3
+P21638	Precorrin-8X methylmutase
+Q5JAM2	5-aminolevulinate synthase
+P17342	Atrial natriuretic peptide receptor 3
+P56601	Protoporphyrinogen oxidase
+P0A2K1	Tryptophan synthase beta chain
+Q15722	Leukotriene B4 receptor 1
+P80303	Nucleobindin-2
+Q8N119	Matrix metalloproteinase-21
+Q5SJ79	Cytochrome c oxidase subunit 1
+P14550	Alcohol dehydrogenase [NADP(+)]
+P29466	Caspase-1
+P60174	Triosephosphate isomerase
+Q06481	Amyloid-like protein 2
+P23946	Chymase
+P21283	V-type proton ATPase subunit C 1
+P20964	GTPase ObgE
+P00395	Cytochrome c oxidase subunit 1
+P98002	Cytochrome c oxidase subunit 1-beta
+P22694	cAMP-dependent protein kinase catalytic subunit beta
+P0A8V6	Fatty acid metabolism regulator protein
+O00555	Voltage-dependent P/Q-type calcium channel
+P05109	Protein S100-A8
+Q5KUI2	Serine hydroxymethyltransferase
+P04036	4-hydroxy-tetrahydrodipicolinate reductase
+P60484	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+P42593	2,4-dienoyl-CoA reductase [NADPH]
+P21673	Diamine acetyltransferase 1
+P01100	Proto-oncogene c-Fos
+P35858	Insulin-like growth factor-binding protein complex acid labile subunit
+Q96Q40	Cyclin-dependent kinase 15
+P51451	Tyrosine-protein kinase Blk
+P10646	Tissue factor pathway inhibitor
+P04531	Deoxynucleotide monophosphate kinase
+Q9UJ68	Mitochondrial peptide methionine sulfoxide reductase
+P30520	Adenylosuccinate synthetase isozyme 2
+P52026	DNA polymerase I
+Q9RME2	Phosphoserine aminotransferase
+P20231	Tryptase beta-2
+Q06174	Carboxylesterase
+P0AC38	Aspartate ammonia-lyase
+Q6W5P4	Neuropeptide S receptor
+P02655	Apolipoprotein C-II
+P06744	Glucose-6-phosphate isomerase
+Q16552	Interleukin-17A
+P67910	ADP-L-glycero-D-manno-heptose-6-epimerase
+P02775	Platelet basic protein
+s
+Q92918	Mitogen-activated protein kinase kinase kinase kinase 1
+P31243	Porin
+A0A0H2WWQ9	Penicillin-binding protein 2
+P17050	Alpha-N-acetylgalactosaminidase
+P9WPN5	Cytochrome P450 130
+P36896	Activin receptor type-1B
+Q05315	Galectin-10
+P41743	Protein kinase C iota type
+P11388	DNA topoisomerase 2
+Q5MYR6	1-cys peroxiredoxin
+P0C6X7	Replicase polyprotein 1ab
+P21802	Fibroblast growth factor receptor 2
+P10724	Alanine racemase
+P26661	Genome polyprotein
+P44783	Rhomboid protease GlpG
+Q3J1A5	Reaction center protein L chain
+Q8IVH8	Mitogen-activated protein kinase kinase kinase kinase 3
+P17252	Protein kinase C alpha type
+P81040	Split-Soret cytochrome c
+Q9HA77	Probable cysteine--tRNA ligase, mitochondrial
+Q93EK7	LgtC
+P19622	Homeobox protein engrailed-2
+Q5L1E2	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+P51178	1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1
+Q03154	Aminoacylase-1
+Q92506	Estradiol 17-beta-dehydrogenase 8
+P25963	NF-kappa-B inhibitor alpha
+P59768	Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2
+O00763	Acetyl-CoA carboxylase 2
+P04547	DNA beta-glucosyltransferase
+Q99661	Kinesin-like protein KIF2C
+O95907	Monocarboxylate transporter 3
+P17735	Tyrosine aminotransferase
+P16591	Tyrosine-protein kinase Fer
+Q5SJ28	Deoxyribose-phosphate aldolase
+P69903	Formyl-coenzyme A transferase
+c
+P02931	Outer membrane protein F
+P12814	Alpha-actinin-1
+P20810	Calpastatin
+Q9UL51	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+Q8N9I0	Synaptotagmin-2
+P9WN95	Cell division protein FtsZ
+P46976	Glycogenin-1
+Q8RLY5	Nucleoside deoxyribosyltransferase-I
+P35080	Profilin-2
+P09391	Rhomboid protease GlpG
+Q96BI3	Gamma-secretase subunit APH-1A
+Q96L12	Calreticulin-3
+P08164	NH(3)-dependent NAD(+) synthetase
+P00167	Cytochrome b5
+P04424	Argininosuccinate lyase
+Q9ZHG9	L-cysteine/cystine lyase C-DES
+P06716	Colicin-Ia
+P84124	Osmotically inducible protein C
+P33905	Transcriptional activator protein TraR
+Q8IM15	HAP protein
+P25553	Lactaldehyde dehydrogenase
+Q59961	DNA topoisomerase 4 subunit B
+Q9Y616	Interleukin-1 receptor-associated kinase 3
+7
+O15554	Intermediate conductance calcium-activated potassium channel protein 4
+Q16099	Glutamate receptor ionotropic, kainate 4
+Q5UPJ7	Tyrosine--tRNA ligase
+P60472	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+P07822	Iron(3+)-hydroxamate-binding protein FhuD
+Q9H4Y5	Glutathione S-transferase omega-2
+Q9H4M7	Pleckstrin homology domain-containing family A member 4
+Q84II6	Terminal oxygenase component of carbazole
+Q8IKM6	Inner membrane complex sub-compartment protein 3
+P04926	Malaria protein EXP-1
+P00808	Beta-lactamase
+Q7SIE2	Endo-1,4-beta-xylanase
+Q8IWU9	Tryptophan 5-hydroxylase 2
+O14939	Phospholipase D2
+P10826	Retinoic acid receptor beta
+P35968	Vascular endothelial growth factor receptor 2
+Q92847	Growth hormone secretagogue receptor type 1
+Q4W8W1	Pyrroline-5-carboxylate reductase
+O60551	Glycylpeptide N-tetradecanoyltransferase 2
+Q07820	Induced myeloid leukemia cell differentiation protein Mcl-1
+Q99624	Sodium-coupled neutral amino acid transporter 3
+P06149	D-lactate dehydrogenase
+P0A6F3	Glycerol kinase
+P25787	Proteasome subunit alpha type-2
+P9WNL5	Probable arabinosyltransferase C
+P10275	Androgen receptor
+Q92206	Squalene monooxygenase
+P9WPB3	Cyclopropane mycolic acid synthase 3
+O43570	Carbonic anhydrase 12
+P01591	Immunoglobulin J chain
+Q9WZX6	Ribosomal RNA small subunit methyltransferase H
+Q9UGI6	Small conductance calcium-activated potassium channel protein 3
+P50859	Lanosterol 14-alpha demethylase
+Q8I4W4	Signal recognition particle receptor, beta subunit
+P08637	Low affinity immunoglobulin gamma Fc region receptor III-A
+P02675	Fibrinogen beta chain
+O67854	Transporter
+P32170	L-rhamnose isomerase
+P00156	Cytochrome b
+O95718	Steroid hormone receptor ERR2
+O69755	PhzG
+P49674	Casein kinase I isoform epsilon
+Q01782	Pteridine reductase 1
+P07949	Proto-oncogene tyrosine-protein kinase receptor Ret
+P47985	Cytochrome b-c1 complex subunit Rieske, mitochondrial
+Q9WYV8	Release factor glutamine methyltransferase
+P02689	Myelin P2 protein
+Q03013	Glutathione S-transferase Mu 4
+Q16698	2,4-dienoyl-CoA reductase, mitochondrial
+P22392	Nucleoside diphosphate kinase B
+P43813	DNA ligase
+Q8N5S9	Calcium/calmodulin-dependent protein kinase kinase 1
+P81180	Cyanovirin-N
+P29460	Interleukin-23
+Q8NI60	Atypical kinase COQ8A, mitochondrial
+O25096	NH(3)-dependent NAD(+) synthetase
+P0A7V8	30S ribosomal protein S4
+P21890	Ferredoxin--NADP reductase
+Q4U2R8	Solute carrier family 22 member 6
+P26447	Protein S100-A4
+O76082	Solute carrier family 22 member 5
+O15923	Deoxyuridine triphosphatase
+Q7AUG5	2,3-dichloro-1-propanol dehalogenase
+P0A6C8	Acetylglutamate kinase
+Q98GN8	Cyclic nucleotide-gated potassium channel mll3241
+Q96QT4	Transient receptor potential cation channel subfamily M member 7
+P01106	Myc proto-oncogene protein
+P21912	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
+A1Z199	BCR/ABL p210 fusion protein
+O75908	Sterol O-acyltransferase 2
+P05107	Integrin beta-2
+P54756	Ephrin type-A receptor 5
+Q96RE1	Translation elongation factor 1 alpha 1-like 14
+P09210	Glutathione S-transferase A2
+O60218	Aldo-keto reductase family 1 member B10
+O75899	Gamma-aminobutyric acid type B receptor subunit 2
+P11229	Muscarinic acetylcholine receptor M1
+C6KT50	Pyridoxal 5'-phosphate synthase subunit Pdx1
+O15067	Phosphoribosylformylglycinamidine synthase
+P54548	Ribonuclease Z
+P67870	Casein kinase II subunit beta
+Q8IIR9	Casein kinase 2, alpha subunit
+Q969V6	MKL/myocardin-like protein 1
+Q13421	Mesothelin
+Q99870	vesicular monoamine transporter 2 (VMAT2)
+P07254	Chitinase A
+P07024	Protein UshA
+Q6A8X5	Putative aminooxidase
+P30038	Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial
+P15043	ATP-dependent DNA helicase RecQ
+P07225	Vitamin K-dependent protein S
+P51843	Nuclear receptor subfamily 0 group B member 1
+P21631	Uroporphyrinogen-III C-methyltransferase
+P15170	Eukaryotic peptide chain release factor GTP-binding subunit ERF3A
+P10478	Endo-1,4-beta-xylanase Z
+Q55013	Cytochrome c-550
+Q9UKY3	Putative inactive carboxylesterase 4
+O87949	Chaperone protein TorD
+Q15596	Nuclear receptor coactivator 2
+P31101	Hydroxylamine reductase
+P06730	Eukaryotic translation initiation factor 4E
+P49336	Cyclin-dependent kinase 8
+Q9NR97	Toll-like receptor 8
+Q5SHF5	Pantothenate synthetase
+P31057	3-methyl-2-oxobutanoate hydroxymethyltransferase
+P78330	Phosphoserine phosphatase
+P52209	6-phosphogluconate dehydrogenase, decarboxylating
+P01130	Low-density lipoprotein receptor
+P43889	Bifunctional protein GlmU
+Q04912	Macrophage-stimulating protein receptor
+P17412	Fumarate reductase flavoprotein subunit
+Q9BXJ7	Protein amnionless
+P00805	L-asparaginase 2
+O14732	Inositol monophosphatase 2
+P07773	Catechol 1,2-dioxygenase
+Q8DNB6	Penicillin-binding protein 2a
+P49368	T-complex protein 1 subunit gamma
+P22607	Fibroblast growth factor receptor 3
+P06276	Cholinesterase
+P19105	Myosin regulatory light chain 12A
+P04275	von Willebrand factor
+P13702	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+P51698	Haloalkane dehalogenase
+Q04095	Gag-Pro-Pol polyprotein
+Q9NWT6	Hypoxia-inducible factor 1-alpha inhibitor
+P04083	Annexin A1
+P11226	Mannose-binding protein C
+Q9ULW8	Protein-arginine deiminase type-3
+Q13332	Receptor-type tyrosine-protein phosphatase S
+P0A7V3	30S ribosomal protein S3
+Q8IJA9	Adenosine deaminase
+Q9LAK3	Alpha-2,3-/2,8-sialyltransferase
+Q83WG3	Cytochrome P450
+P47205	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+Q7L7X3	Serine/threonine-protein kinase TAO1
+P62623	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+P39646	Phosphate acetyltransferase
+P21340	Protease synthase and sporulation negative regulatory protein PAI 1
+Q9Y2U5	Mitogen-activated protein kinase kinase kinase 2
+Q6L8H2	Keratin-associated protein 5-3
+Q7Z2Z2	Elongation factor Tu GTP-binding domain-containing protein 1
+P03302	Genome polyprotein
+P06493	Cyclin-dependent kinase 1
+P12883	Myosin-7
+Q32MK0	Myosin light chain kinase 3
+P12259	Coagulation factor V
+Q14654	ATP-sensitive inward rectifier potassium channel 11
+P28482	Mitogen-activated protein kinase 1
+O43674	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial
+P10828	Thyroid hormone receptor beta
+P48163	NADP-dependent malic enzyme
+Q14957	Glutamate receptor ionotropic, NMDA 2C
+P0DMS8	Adenosine receptor A3
+O96000	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10
+Q6QNK2	Probable G-protein coupled receptor 133
+P50747	Biotin--protein ligase
+P0A6Q5	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+Q7KZI7	Serine/threonine-protein kinase MARK2
+P47869	Gamma-aminobutyric acid receptor subunit alpha-2
+Q04759	Protein kinase C theta type
+Q9UJS0	Calcium-binding mitochondrial carrier protein Aralar2
+Q13362	Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform
+Q8XB74	Sulfoxide reductase catalytic subunit YedY
+P77444	Cysteine desulfurase
+Q9ULK0	Glutamate receptor ionotropic, delta-1
+Q16654	[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 4, mitochondrial
+Q9NNW7	Thioredoxin reductase 2, mitochondrial
+P15291	Beta-1,4-galactosyltransferase 1
+P50281	Matrix metalloproteinase-14
+Q9Y230	RuvB-like 2
+Q6NUM9	All-trans-retinol 13,14-reductase
+i
+P09038	Fibroblast growth factor 2
+Q8IVS2	Malonyl-CoA-acyl carrier protein transacylase, mitochondrial
+P37747	UDP-galactopyranose mutase
+P13009	Methionine synthase
+Q9NUV7	Serine palmitoyltransferase 3
+P49448	Glutamate dehydrogenase 2, mitochondrial
+P11439	Exotoxin A
+P02656	Apolipoprotein C-III
+Q96GD3	Polycomb protein SCMH1
+Q07343	cAMP-specific 3',5'-cyclic phosphodiesterase 4B
+P00644	Thermonuclease
+P22455	Fibroblast growth factor receptor 4
+P51659	Peroxisomal multifunctional enzyme type 2
+Q9KWT5	AlgQ2
+Q92736	Ryanodine receptor 2
+Q9BVG9	Phosphatidylserine synthase 2
+P17584	D-2-hydroxyisocaproate dehydrogenase
+P04070	Vitamin K-dependent protein C
+P11086	Phenylethanolamine N-methyltransferase
+O94788	Retinal dehydrogenase 2
+Q8WTV0	Scavenger receptor class B member 1
+O43677	NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial
+Q65CX5	Arabinogalactan endo-1,4-beta-galactosidase
+P16384	tRNA dimethylallyltransferase
+f
+P08908	5-hydroxytryptamine receptor 1A
+P08690	Arsenical pump-driving ATPase
+Q9ULA0	Aspartyl aminopeptidase
+Q72LA6	Hypothetical membrane spanning protein
+P19021	Peptidyl-glycine alpha-amidating monooxygenase
+P10398	Serine/threonine-protein kinase A-Raf
+Q8TCT1	Phosphoethanolamine/phosphocholine phosphatase
+O43776	Asparagine--tRNA ligase, cytoplasmic
+P95673	Light-harvesting protein B-800/850 beta 1 chain
+Q16595	Frataxin, mitochondrial
+P16118	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1
+P55055	Oxysterols receptor LXR-beta
+Q59192	DNA topoisomerase 4 subunit B
+Q88CZ6	Urocanate hydratase
+P18509	Pituitary adenylate cyclase-activating polypeptide
+P14489	Beta-lactamase OXA-10
+P78559	Microtubule-associated protein 1A
+P24394	Interleukin-4 receptor subunit alpha
+O06796	Uncharacterized protein
+O15264	Mitogen-activated protein kinase 13
+P39135	4'-phosphopantetheinyl transferase sfp
+Q14831	Metabotropic glutamate receptor 7
+Q06319	Acyl-CoA dehydrogenase, short-chain specific
+P14385	Modification methylase TaqI
+Q9BRS2	Serine/threonine-protein kinase RIO1
+P54289	Voltage-dependent calcium channel subunit alpha-2/delta-1
+P02765	Alpha-2-HS-glycoprotein
+P03901	NADH-ubiquinone oxidoreductase chain 4L
+P49747	Cartilage oligomeric matrix protein
+Q5SKH6	Uncharacterized protein
+Q60099	(S)-2-haloacid dehalogenase
+P00362	Glyceraldehyde-3-phosphate dehydrogenase
+P0DOY9	30S ribosomal protein S8
+P30084	Enoyl-CoA hydratase, mitochondrial
+P0AEG6	Thiol:disulfide interchange protein DsbC
+U
+P08692	Arsenate reductase
+Q8TC12	Retinol dehydrogenase 11
+P23469	Receptor-type tyrosine-protein phosphatase epsilon
+P12644	Bone morphogenetic protein 4
+Q9WYT0	Thymidylate synthase ThyX
+P03371	Pol polyprotein
+P18669	Phosphoglycerate mutase 1
+O43193	Motilin receptor
+Q9PM68	Bifunctional enzyme IspD/IspF
+P0ABK9	Cytochrome c-552
+Q96RQ3	Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial
+Q6IA69	Glutamine-dependent NAD(+) synthetase
+P9WGY7	DNA-directed RNA polymerase subunit beta'
+P00914	Deoxyribodipyrimidine photo-lyase
+P42512	Fe(3+)-pyochelin receptor
+Q59334	Delta-aminolevulinic acid dehydratase
+Q99623	Prohibitin-2
+P53667	LIM domain kinase 1
+Q8IKK7	Glyceraldehyde-3-phosphate dehydrogenase
+P55210	Caspase-7
+P0A1X3	Lipoprotein MxiM
+Q15067	Peroxisomal acyl-coenzyme A oxidase 1
+P07003	Pyruvate dehydrogenase [ubiquinone]
+P28248	Deoxycytidine triphosphate deaminase
+P30411	B2 bradykinin receptor
+P08588	Beta-1 adrenergic receptor
+P14642	Tubulin alpha chain
+Q8IDV0	Elongation factor 1-gamma, putative
+O43399	Tumor protein D54
+Q9HU21	dTDP-4-dehydrorhamnose 3,5-epimerase
+P32884	Hemagglutinin-neuraminidase
+P00722	Beta-galactosidase
+Q9C098	Serine/threonine-protein kinase DCLK3
+Q15825	Neuronal acetylcholine receptor subunit alpha-6
+O43293	Death-associated protein kinase 3
+Q71U36	Tubulin alpha-1A chain
+/
+P10997	Islet amyloid polypeptide
+Q9UBM7	7-dehydrocholesterol reductase
+Q9X9L0	Hypothetical gliding protein
+O14561	Acyl carrier protein, mitochondrial
+P16930	Fumarylacetoacetase
+P9WN25	Group 1 truncated hemoglobin GlbN
+Q6ZMR3	L-lactate dehydrogenase A-like 6A
+Q55793	Probable cysteine desulfurase
+P35914	Hydroxymethylglutaryl-CoA lyase, mitochondrial
+Q9H2G2	STE20-like serine/threonine-protein kinase
+Q969F8	KiSS-1 receptor
+P30041	Peroxiredoxin-6
+Q00796	Sorbitol dehydrogenase
+P87066	Tubulin alpha chain
+P51671	Eotaxin
+P0A3Y5	Aminoglycoside 3'-phosphotransferase
+P04003	C4b-binding protein alpha chain
+P19624	4-hydroxythreonine-4-phosphate dehydrogenase
+P19424	Endoglucanase
+O43169	Cytochrome b5 type B
+P09848	Lactase-phlorizin hydrolase
+P38435	Vitamin K-dependent gamma-carboxylase
+P00326	Alcohol dehydrogenase 1C
+P49228	50S ribosomal protein L32
+Q9UM73	ALK tyrosine kinase receptor
+Q9NY46	Sodium channel protein type 3 subunit alpha
+P21964	Catechol O-methyltransferase
+P0A921	Phospholipase A1
+Q9UEW3	Macrophage receptor MARCO
+P10599	Thioredoxin
+Q96P88	Putative gonadotropin-releasing hormone II receptor
+Q9P286	Serine/threonine-protein kinase PAK 5
+ 
+O75340	Programmed cell death protein 6
+Q46705	TraF protein
+P17568	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7
+P0A3S0	Neocarzinostatin
+P46721	Solute carrier organic anion transporter family member 1A2
+O75116	Rho-associated protein kinase 2
+P63098	Calcineurin subunit B type 1
+P55073	Thyroxine 5-deiodinase
+Q16787	Laminin subunit alpha-3
+P48507	Glutamate--cysteine ligase regulatory subunit
+P45877	Peptidyl-prolyl cis-trans isomerase C
+P14625	Endoplasmin
+P06653	Autolysin
+Q00653	Nuclear factor NF-kappa-B p100 subunit
+P0ABF6	Cytidine deaminase
+P27824	Calnexin
+Q9UDR5	Alpha-aminoadipic semialdehyde synthase, mitochondrial
+P02794	Ferritin heavy chain
+Q04707	Penicillin-binding protein 1A
+Q2LU76	Hypothetical cytosolic protein
+P14262	1-phosphatidylinositol phosphodiesterase
+Q81EW9	Nitroreductase family protein
+P0A6A8	Acyl carrier protein
+P60880	Synaptosomal-associated protein 25
+P31152	Mitogen-activated protein kinase 4
+Q5T6L4	Argininosuccinate synthetase, isoform CRA_a
+P24347	Stromelysin-3
+P0A786	Aspartate carbamoyltransferase catalytic chain
+P22891	Vitamin K-dependent protein Z
+P76577	Penicillin-binding protein 1C
+Q9NR28	Diablo homolog, mitochondrial
+P24300	Xylose isomerase
+P20138	Myeloid cell surface antigen CD33
+P9WPP7	Mycocyclosin synthase
+Q6DT37	Serine/threonine-protein kinase MRCK gamma
+P9WNC7	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+P9WNG3	3-oxoacyl-[acyl-carrier-protein] synthase 3
+Q9UPY5	Cystine/glutamate transporter
+P0A1V8	Beta-lactamase OXA-2
+P17980	26S protease regulatory subunit 6A
+Q14353	Guanidinoacetate N-methyltransferase
+Q49184	Dihydropteroate synthase type-1
+P9WJI5	Arylamine N-acetyltransferase
+P00509	Aspartate aminotransferase
+Q81Y15	Transketolase
+P0A910	Outer membrane protein A
+P32418	Sodium/calcium exchanger 1
+Q9H2X9	Solute carrier family 12 member 5
+P10606	Cytochrome c oxidase subunit 5B, mitochondrial
+Q09013	Myotonin-protein kinase
+Q02156	Protein kinase C epsilon type
+Q01043	Cyclin homolog
+A0A0H2Z368	Arylsulfate sulfotransferase
+P0AEE5	D-galactose-binding periplasmic protein
+P50597	Ribonuclease PH
+O15144	Actin-related protein 2/3 complex subunit 2
+P52270	Triosephosphate isomerase, glycosomal
+P01583	Interleukin-1 alpha
+P49247	Ribose-5-phosphate isomerase
+P54455	Nicotinate-nucleotide adenylyltransferase
+P08100	Rhodopsin
+P34913	Bifunctional epoxide hydrolase 2
+Q92772	Cyclin-dependent kinase-like 2
+9
+P21430	Matrix protein 2
+P27487	Dipeptidyl peptidase 4
+P17612	cAMP-dependent protein kinase catalytic subunit alpha
+Q92831	Histone acetyltransferase KAT2B
+P0AFL3	Peptidyl-prolyl cis-trans isomerase A
+P02929	Protein TonB
+P41235	Hepatocyte nuclear factor 4-alpha
+O97313	40S ribosomal protein S3a
+P21817	Ryanodine receptor 1
+O00142	Thymidine kinase 2, mitochondrial
+Q56748	Sulfide dehydrogenase
+P0ABP8	Purine nucleoside phosphorylase DeoD-type
+P00492	Hypoxanthine-guanine phosphoribosyltransferase
+Q15418	Ribosomal protein S6 kinase alpha-1
+Q81ZL8	Integrase, catalytic core
+Q16774	Guanylate kinase
+P61889	Malate dehydrogenase
+Q99829	Copine-1
+P0A7G9	Protein RecA
+Q9NR96	Toll-like receptor 9
+P05113	Interleukin-5
+P14616	Insulin receptor-related protein
+P06672	Pyruvate decarboxylase
+P04075	Fructose-bisphosphate aldolase A
+l
+P51955	Serine/threonine-protein kinase Nek2
+P83798	Cytochrome b6-f complex subunit 8
+P51648	Fatty aldehyde dehydrogenase
+P06009	Reaction center protein L chain
+P08709	Coagulation factor VII
+P26358	DNA (cytosine-5)-methyltransferase 1
+Q9Y617	Phosphoserine aminotransferase
+P99999	Cytochrome c
+P01350	Gastrin
+P05166	Propionyl-CoA carboxylase beta chain, mitochondrial
+P46663	B1 bradykinin receptor
+Q00975	Voltage-dependent N-type calcium channel subunit alpha-1B
+P19320	Vascular cell adhesion protein 1
+Q9Y3R4	Sialidase-2
+P29600	Subtilisin Savinase
+P13507	Glucan 1,4-alpha-maltotetraohydrolase
+P46828	Catabolite control protein A
+P45494	Beta-Ala-Xaa dipeptidase
+Q8IKH8	40S ribosomal protein S3
+O00444	Serine/threonine-protein kinase PLK4
+P10145	Interleukin-8
+O14792	Heparan sulfate glucosamine 3-O-sulfotransferase 1
+O07732	Probable lignin peroxidase LipJ
+P0A6L0	Deoxyribose-phosphate aldolase
+Q13546	Receptor-interacting serine/threonine-protein kinase 1
+Q8T6S0	Odorant binding protein
+Q9UGM1	Neuronal acetylcholine receptor subunit alpha-9
+P52788	Spermine synthase
+Q47764	Aac(6')-Ii protein
+P14735	Insulin-degrading enzyme
+Q8N8N7	Prostaglandin reductase 2
+Q7KQM4	Plasmepsin-1
+P13000	ATP-dependent dethiobiotin synthetase BioD 1
+Q03405	Urokinase plasminogen activator surface receptor
+P08603	Complement factor H
+P61073	C-X-C chemokine receptor type 4
+Q51911	Peptostreptococcal albumin-binding protein
+O95470	Sphingosine-1-phosphate lyase 1
+P02818	Osteocalcin
+Q54276	Chitinase
+O75716	Serine/threonine-protein kinase 16
+Q05329	Glutamate decarboxylase 2
+Q01064	Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B
+Q6PHW0	Iodotyrosine dehalogenase 1
+Q7Z4T2	Fibroblast growth factor 23
+P9WIJ3	Peptide deformylase
+Q8IDD3	Glutamate--tRNA ligase
+P49760	Dual specificity protein kinase CLK2
+O00329	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+Q9H6Z9	Egl nine homolog 3
+Q8WTS6	Histone-lysine N-methyltransferase SETD7
+P0A334	pH-gated potassium channel KcsA
+O15427	Monocarboxylate transporter 4
+Q59771	L-phenylalanine dehydrogenase
+P05165	Propionyl-CoA carboxylase alpha chain, mitochondrial
+Q9NQ25	SLAM family member 7
+P56385	ATP synthase subunit e, mitochondrial
+P09211	Glutathione S-transferase P
+P05451	Lithostathine-1-alpha
+P13637	Sodium/potassium-transporting ATPase subunit alpha-3
+P83786	Aspartate aminotransferase
+Q9H3S4	Thiamin pyrophosphokinase 1
+O43175	D-3-phosphoglycerate dehydrogenase
+P07602	Proactivator polypeptide
+P05042	Fumarate hydratase class II
+P0AC47	Fumarate reductase iron-sulfur subunit
+P08263	Glutathione S-transferase A1
+P13645	Keratin, type I cytoskeletal 10
+P37288	Vasopressin V1a receptor
+Q72JJ3	Putative acyl-CoA dehydrogenase
+P43490	Nicotinamide phosphoribosyltransferase
+P10412	Histone H1.4
+P29803	Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial
+P9WKE9	Guanylate kinase
+P16050	Arachidonate 15-lipoxygenase
+Q8TDS4	Hydroxycarboxylic acid receptor 2
+P36946	D-ribose pyranase
+P0AFB1	Lipoprotein NlpI
+O32393	Adenylate cyclase
+Q9JZW6	3-methyl-2-oxobutanoate hydroxymethyltransferase
+O15392	Baculoviral IAP repeat-containing protein 5
+Q99542	Matrix metalloproteinase-19
+P27816	Microtubule-associated protein 4
+P62241	40S ribosomal protein S8
+Q9NZD2	Glycolipid transfer protein
+P0C1V1	Delta-hemolysin
+P30291	Wee1-like protein kinase
+Q8IB72	DnaJ protein, putative
+P16640	Putidaredoxin reductase
+P49286	Melatonin receptor type 1B
+P54278	Mismatch repair endonuclease PMS2
+C6S3C7	Plasmodium exported protein
+P27635	60S ribosomal protein L10
+P52961	GPI-linked NAD(P)(+)--arginine ADP-ribosyltransferase 1
+Q7SIA5	Carboxylesterase
+P04637	Cellular tumor antigen p53
+P05102	Modification methylase HhaI
+P26602	Chorismate--pyruvate lyase
+P41143	Delta-type opioid receptor
+P31133	Putrescine-binding periplasmic protein
+Q82ZJ0	Peptide deformylase
+P07098	Gastric triacylglycerol lipase
+Q06AK7	DNA topoisomerase 1
+P21731	Thromboxane A2 receptor
+P06239	Tyrosine-protein kinase Lck
+P84098	60S ribosomal protein L19
+P48058	Glutamate receptor 4
+P26439	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2
+P06435	45 kDa immediate-early protein 2
+P51956	Serine/threonine-protein kinase Nek3
+Q9L5C8	Beta-lactamase
+P06820	Neuraminidase
+P23219	Prostaglandin G/H synthase 1
+P14778	Interleukin-1 receptor type 1
+Q14565	Meiotic recombination protein DMC1/LIM15 homolog
+P24670	3-dehydroquinate dehydratase
+P71278	Pentaerythritol tetranitrate reductase
+P14218	Dihydrolipoyl dehydrogenase
+Q7WUJ1	Myo-inositol hexaphosphate phosphohydrolase
+P07071	Anaerobic ribonucleoside-triphosphate reductase
+P13830	Ring-infected erythrocyte surface antigen
+P01178	Oxytocin-neurophysin 1
+P01042	Kininogen-1
+P28790	3-ketoacyl-CoA thiolase
+Q8ZKF6	Acetyl-coenzyme A synthetase
+P06400	Retinoblastoma-associated protein
+Q9H2P9	Diphthine synthase
+P08172	Muscarinic acetylcholine receptor M2
+P10415	Apoptosis regulator Bcl-2
+Q9ZF99	Malate dehydrogenase
+P0A444	Photosystem Q(B) protein 1
+Q8II92	Deoxyuridine 5'-triphosphate nucleotidohydrolase, putative
+P77872	Catalase
+P08913	Alpha-2A adrenergic receptor
+P01556	Cholera enterotoxin subunit B
+Q9KG76	BH0236 protein
+Q02252	Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial
+P0AE12	AMP nucleosidase
+Q6IBS8	DDC protein
+Q07837	Neutral and basic amino acid transport protein rBAT
+A
+P06986	Histidinol-phosphate aminotransferase
+Q7L3T8	Probable proline--tRNA ligase, mitochondrial
+A0A023W3H0	Class D OXA-48 carbapenemase
+P41145	Kappa-type opioid receptor
+P21589	5'-nucleotidase
+P62316	Small nuclear ribonucleoprotein Sm D2
+P00929	Tryptophan synthase alpha chain
+P35367	Histamine H1 receptor
+Q02761	Cytochrome b
+P80372	30S ribosomal protein S3
+Q9NRX3	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2
+P77674	Gamma-aminobutyraldehyde dehydrogenase
+P01031	Complement C5
+A7J8L3	Orf1a polyprotein
+M
+P45799	ADP compounds hydrolase NudE
+O60502	Bifunctional protein NCOAT
+P49761	Dual specificity protein kinase CLK3
+P24310	Cytochrome c oxidase subunit 7A1, mitochondrial
+Q9X180	Multi-sensor signal transduction histidine kinase
+O95865	N(G),N(G)-dimethylarginine dimethylaminohydrolase 2
+P06241	Tyrosine-protein kinase Fyn
+P30838	Aldehyde dehydrogenase, dimeric NADP-preferring
+F5HC79	Tripartite terminase subunit 1
+Q16671	Anti-Muellerian hormone type-2 receptor
+P06576	ATP synthase subunit beta, mitochondrial
+P0A7D4	Adenylosuccinate synthetase
+P06312	Ig kappa chain V-IV region Len
+P04150	Glucocorticoid receptor
+Q04416	4-hydroxybenzoyl-CoA thioesterase
+O34667	S-ribosylhomocysteine lyase
+Q46822	Isopentenyl-diphosphate Delta-isomerase
+P0A0N4	HTH-type transcriptional regulator QacR
+Q8IZS8	Voltage-dependent calcium channel subunit alpha-2/delta-3
+Q16134	Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial
+P35222	Catenin beta-1
+Q888A4	Amine oxidase, flavin-containing protein
+P23297	Protein S100-A1
+P98170	E3 ubiquitin-protein ligase XIAP
+P40406	Uncharacterized lipoprotein YbbD
+Q86VB7	Scavenger receptor cysteine-rich type 1 protein M130
+P11217	Glycogen phosphorylase, muscle form
+Q9BXI2	Mitochondrial ornithine transporter 2
+P01138	Beta-nerve growth factor
+P36888	Receptor-type tyrosine-protein kinase FLT3
+O43181	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial
+P25100	Alpha-1D adrenergic receptor
+P86287	Actin-1
+P57078	Receptor-interacting serine/threonine-protein kinase 4
+P49585	Choline-phosphate cytidylyltransferase A
+F5HGI9	Tripartite terminase subunit 2
+Q86W47	Calcium-activated potassium channel subunit beta-4
+P32745	Somatostatin receptor type 3
+Q56232	Aspartate aminotransferase
+Q9REC4	Aldehyde oxidoreductase
+P51957	Serine/threonine-protein kinase Nek4
+Q16836	Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial
+P33151	Cadherin-5
+Q9UKL6	Phosphatidylcholine transfer protein
+P15086	Carboxypeptidase B
+P81006	L-hydantoinase
+Q9UNX3	60S ribosomal protein L26-like 1
+P54820	Cytochrome c-552
+Q96T66	Nicotinamide mononucleotide adenylyltransferase 3
+Q746I8	Isopentenyl-diphosphate delta-isomerase
+Q9HB21	Pleckstrin homology domain-containing family A member 1
+P29074	Tyrosine-protein phosphatase non-receptor type 4
+P29208	o-succinylbenzoate synthase
+P45954	Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial
+Q03426	Mevalonate kinase
+P51686	C-C chemokine receptor type 9
+Q9QNF7	Thymidine kinase
+Q06278	Aldehyde oxidase
+P06748	Temporary name for P06748
+P9WGT1	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+P07498	Kappa-casein
+Q8IYQ7	Threonine synthase-like 1
+Q8I814	Putative pteridine reductase 2
+Q14978	Nucleolar and coiled-body phosphoprotein 1
+P80192	Mitogen-activated protein kinase kinase kinase 9
+O07015	Sigma factor SigB regulation protein RsbQ
+Q53908	ActVA 6 protein
+O32449	Proline iminopeptidase
+P25105	Platelet-activating factor receptor
+O14556	Glyceraldehyde-3-phosphate dehydrogenase, testis-specific
+P62619	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+P43080	Guanylyl cyclase-activating protein 1
+Q8NBP7	Proprotein convertase subtilisin/kexin type 9
+O76083	High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A
+P62166	Neuronal calcium sensor 1
+Q96AE4	Far upstream element-binding protein 1
+P06441	Genome polyprotein
+P39593	Hydroxyethylthiazole kinase
+P10276	Retinoic acid receptor alpha
+Q7SIE9	Hydrolase
+Q6N063	2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2
+Q06323	Proteasome activator complex subunit 1
+O95881	Thioredoxin domain-containing protein 12
+P48745	Protein NOV homolog
+P17844	Probable ATP-dependent RNA helicase DDX5
+Q969S8	Histone deacetylase 10
+Q09428	ATP-binding cassette sub-family C member 8
+P52045	Methylmalonyl-CoA decarboxylase
+P0A8Q3	Fumarate reductase subunit D
+P22570	NADPH:adrenodoxin oxidoreductase, mitochondrial
+Q53H96	Pyrroline-5-carboxylate reductase 3
+Q13907	Isopentenyl-diphosphate Delta-isomerase 1
+Q13464	Rho-associated protein kinase 1
+P00692	Alpha-amylase
+P09592	Structural polyprotein
+P80561	Aminopeptidase S
+P24557	Thromboxane-A synthase
+P26391	dTDP-glucose 4,6-dehydratase
+Q3J1A6	Reaction center protein M chain
+P28072	Proteasome subunit beta type-6
+P62993	Growth factor receptor-bound protein 2
+P48736	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform
+P0AAJ3	Formate dehydrogenase, nitrate-inducible, iron-sulfur subunit
+P40871	2,3-dihydroxybenzoate-AMP ligase
+Q8IVL5	Prolyl 3-hydroxylase 2
+P0DJ06	Candidapepsin-2
+Q5T1J1	HCG20471, isoform CRA_c
+O14735	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+P0AFK9	Spermidine/putrescine-binding periplasmic protein
+Q9UQQ2	SH2B adapter protein 3
+Q16515	Acid-sensing ion channel 2
+Q7Z406	Myosin-14
+P41022	Urease subunit gamma
+Q47PU3	Phenylacetone monooxygenase
+Q8IDP8	Aspartate carbamoyltransferase
+P56220	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+P18357	Regulatory protein BlaR1
+P01589	Interleukin-2 receptor subunit alpha
+P71447	Beta-phosphoglucomutase
+P34897	Serine hydroxymethyltransferase, mitochondrial
+P15056	Serine/threonine-protein kinase B-raf
+Q9HAB3	Gamma-hydroxybutyrate (GHB) receptor
+P25052	Thiaminase-2
+O34714	Oxalate decarboxylase OxdC
+Q15102	Platelet-activating factor acetylhydrolase IB subunit gamma
+P98155	Very low-density lipoprotein receptor
+P15151	Poliovirus receptor
+Q5LI27	Putative ornithine carbamoyltransferase
+P29717	Glucan 1,3-beta-glucosidase
+P14941	NADP-dependent isopropanol dehydrogenase
+P03303	Genome polyprotein
+P25942	Tumor necrosis factor receptor superfamily member 5
+P04587	Gag-Pol polyprotein
+P02585	Troponin C, skeletal muscle
+P49411	Elongation factor Tu, mitochondrial
+P49720	Proteasome subunit beta type-3
+P51161	Gastrotropin
+Q9UMX2	Ornithine decarboxylase antizyme 3
+Q9NRE1	Matrix metalloproteinase-26
+Q01668	Voltage-dependent L-type calcium channel subunit alpha-1D
+P08373	UDP-N-acetylenolpyruvoylglucosamine reductase
+P00367	Glutamate dehydrogenase 1, mitochondrial
+a
+P49591	Serine--tRNA ligase, cytoplasmic
+P49589	Cysteine--tRNA ligase, cytoplasmic
+P0A6I3	Pantothenate kinase
+P23905	D-galactose-binding periplasmic protein
+Q56148	Chloramphenicol 3-O phosphotransferase
+P04179	Superoxide dismutase [Mn], mitochondrial
+P83791	Cytochrome b6
+P25929	Neuropeptide Y receptor type 1
+Q8IJT2	Conserved Plasmodium membrane protein
+Q7DB61	GrlR
+O95167	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3
+P11678	Eosinophil peroxidase
+P41407	FMN-dependent NADH-azoreductase
+P05062	Fructose-bisphosphate aldolase B
+P08243	Asparagine synthetase [glutamine-hydrolyzing]
+P36871	Phosphoglucomutase-1
+P00269	Rubredoxin
+O15145	Actin-related protein 2/3 complex subunit 3
+Q72LA4	Thiosulfate reductase
+P30559	Oxytocin receptor
+O43739	Cytohesin-3
+Q15382	GTP-binding protein Rheb
+Q06432	Voltage-dependent calcium channel
+P10253	Lysosomal alpha-glucosidase
+P61604	10 kDa heat shock protein, mitochondrial
+Q60053	Neopullulanase 1
+P23280	Carbonic anhydrase 6
+P22906	Dihydrofolate reductase
+P07110	Outer membrane usher protein PapC
+O24990	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Q9KEQ1	Acyl-CoA hydrolase
+P0A2W7	Holo-[acyl-carrier-protein] synthase
+Q16706	Alpha-mannosidase 2
+Q60037	Endo-1,4-beta-xylanase A
+Q9Y4K4	Mitogen-activated protein kinase kinase kinase kinase 5
+P02766	Transthyretin
+P07327	Alcohol dehydrogenase 1A
+P03200	Envelope glycoprotein GP350
+P20035	Hypoxanthine-guanine-xanthine phosphoribosyltransferase
+A3FMN7	Restriction endonuclease R.BpuJI
+Q8VTT5	D-hydantoinase
+Q08853	Calcium-transporting ATPase
+P46782	40S ribosomal protein S5
+O66529	6,7-dimethyl-8-ribityllumazine synthase
+P13100	Thymidylate synthase
+P22695	Cytochrome b-c1 complex subunit 2, mitochondrial
+P16218	Endoglucanase H
+Q9NQU5	Serine/threonine-protein kinase PAK 6
+Q01468	2-hydroxymuconate tautomerase
+Q64822	Fiber
+C6KT34	Cell division cycle protein 48 homologue,putative
+z
+P08546	DNA polymerase catalytic subunit
+P36683	Aconitate hydratase 2
+Q9NS40	Potassium voltage-gated channel subfamily H member 7
+P14223	Fructose-bisphosphate aldolase
+Q9H4B7	Tubulin beta-1 chain
+Q05901	Neuronal acetylcholine receptor subunit beta-3
+O14791	Apolipoprotein L1
+P40926	Malate dehydrogenase, mitochondrial
+Q9P2R7	Succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial
+P08617	Genome polyprotein
+Q86UW7	Calcium-dependent secretion activator 2
+A8DZJ2	Beta-lactamase (blaSHV)
+P05186	Alkaline phosphatase, tissue-nonspecific isozyme
+P22303	Acetylcholinesterase
+P59676	Penicillin-binding protein 2X
+O00764	Pyridoxal kinase
+P07801	Chemotaxis protein methyltransferase
+P0AEB2	D-alanyl-D-alanine carboxypeptidase DacA
+P29965	CD40 ligand
+P54368	Ornithine decarboxylase antizyme 1
+P35556	Fibrillin-2
+P07771	Benzoate 1,2-dioxygenase electron transfer component
