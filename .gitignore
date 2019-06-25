@@ -1,21 +1,7 @@
 <<<<<<< HEAD
 *.com
 *cifar10.hdf5
-
-*.class
-*.dll
-*.exe
-*.o
-*.so
-
-*.pptx
-*.docx
-*.ppt
-*.pptx
-*.xls
-*.xlsx
-*.pdf
-
+*cifar-10-python.tar.gz
 
 *.7z
 *.dmg
