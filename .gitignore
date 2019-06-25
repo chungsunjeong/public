@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.com
 *cifar10.hdf5
 
@@ -58,3 +59,6 @@ local.properties
 .tern-project
 .springBeans
 .recommenders/
+=======
+
+>>>>>>> c0386da23309a0d9615eb711c12bab30c7f3f76d
