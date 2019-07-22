@@ -70,7 +70,7 @@ def get_ind_dictionaries(word_list,char_list):
     return word2ind, ind2word, char2ind, ind2char
 
 
-def get_preprocessed_dataset(data,mode='train'):
+def get_preprocessed_dataset(data,mode='train',word2vec_file='./data/glove/glove.840B.300d.txt'):
     config=defaultdict(dict)
     full_dataset=defaultdict(dict)
     sub_info_dataset=defaultdict(dict)
@@ -103,7 +103,7 @@ def get_preprocessed_dataset(data,mode='train'):
 
     word2ind, ind2word, char2ind, ind2char = get_ind_dictionaries(tot_word_list, tot_char_list)
 
-    glove_file = './data/glove/glove.840B.300d.txt'
+    glove_file = word2vec_file
     word2vec, word_vec_dim=get_corresponding_glove_word2vec(glove_file, tot_word_list)
     old_word2vec_word_list = set(word2vec.keys())
     new_word2vec_word_list = tot_word_list.difference(old_word2vec_word_list)

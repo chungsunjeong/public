@@ -80,9 +80,10 @@ if __name__=='__main__':
     ##################################################################################
     # Setting: your path and file directory configuration
     mode = 'train'
-    data_path = './data/squad/'
+    data_path = 'D:/Wisdom/workspace/_dataset/BiDAF/squad/'
+    word2vec_path = 'D:/Wisdom/workspace/_dataset/BiDAF/glove/glove.840B.300d.txt'
     version = 'v1.1'
-    save_path="./saved_model/01/model"
+    save_path="./saved_model/01/model.ckpt"
     ##################################################################################
     # Dataset loading part
     json_file = data_path + mode + '-' + version + '.json'
@@ -90,7 +91,7 @@ if __name__=='__main__':
     print('File:' +json_file)
     data = load_json_file(json_file)
     config, full_dataset, sub_info_dataset, index_dataset, word2vec_dataset = \
-        get_preprocessed_dataset(data, mode=mode)
+        get_preprocessed_dataset(data, mode=mode, word2vec_file=word2vec_path)
     print('Finish dataset loading')
     ##################################################################################
     # Setting: Hyperparameters and Tensorflow session
