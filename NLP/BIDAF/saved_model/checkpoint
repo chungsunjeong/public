@@ -1,0 +1,6 @@
+model_checkpoint_path: "my_test_model-{2019-07-18-14-23}.ckpt"
+all_model_checkpoint_paths: "my_test_model.ckpt-2880"
+all_model_checkpoint_paths: "my_test_model.ckpt-2890"
+all_model_checkpoint_paths: "my_test_model.ckpt-2900"
+all_model_checkpoint_paths: "my_test_model.ckpt-2910"
+all_model_checkpoint_paths: "my_test_model-{2019-07-18-14-23}.ckpt"
