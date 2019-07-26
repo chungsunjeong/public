@@ -25,8 +25,8 @@ def copy_normalize_answer(s):
 
 
 def copy_f1_score(prediction, ground_truth):
-    prediction_tokens = normalize_answer(prediction).split()
-    ground_truth_tokens = normalize_answer(ground_truth).split()
+    prediction_tokens = copy_normalize_answer(prediction).split()
+    ground_truth_tokens = copy_normalize_answer(ground_truth).split()
     common = Counter(prediction_tokens) & Counter(ground_truth_tokens)
     num_same = sum(common.values())
     if num_same == 0:
@@ -38,7 +38,7 @@ def copy_f1_score(prediction, ground_truth):
 
 
 def copy_exact_match_score(prediction, ground_truth):
-    return (normalize_answer(prediction) == normalize_answer(ground_truth))
+    return (copy_normalize_answer(prediction) == copy_normalize_answer(ground_truth))
 
 def copy_metric_max_over_ground_truths(metric_fn, prediction, ground_truths):
     scores_for_ground_truths = []
@@ -60,10 +60,10 @@ def copy_evaluate(dataset, predictions):
                     continue
                 ground_truths = list(map(lambda x: x['text'], qa['answers']))
                 prediction = predictions[qa['id']]
-                exact_match += metric_max_over_ground_truths(
-                    exact_match_score, prediction, ground_truths)
-                f1 += metric_max_over_ground_truths(
-                    f1_score, prediction, ground_truths)
+                exact_match += copy_metric_max_over_ground_truths(
+                    copy_exact_match_score, prediction, ground_truths)
+                f1 += copy_metric_max_over_ground_truths(
+                    copy_f1_score, prediction, ground_truths)
 
     exact_match = 100.0 * exact_match / total
     f1 = 100.0 * f1 / total
